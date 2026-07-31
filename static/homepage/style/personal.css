@@ -22,7 +22,9 @@ html {
     transition: none;
 }
 
-.pixel-grid { min-width: 0; }
+.pixel-grid {
+    min-width: 0;
+}
 
 .avatar-placeholder {
     font-family: Arial, sans-serif;
@@ -144,11 +146,14 @@ html {
 }
 
 @keyframes statusBreath {
-    0%, 100% {
+
+    0%,
+    100% {
         opacity: 0.66;
         box-shadow: 0 0 5px rgba(154, 221, 255, 0.48), 0 0 9px rgba(236, 165, 212, 0.28);
         transform: scale(0.88);
     }
+
     50% {
         opacity: 1;
         box-shadow: 0 0 11px rgba(154, 221, 255, 0.95), 0 0 21px rgba(236, 165, 212, 0.72);
@@ -204,8 +209,13 @@ html {
     background-size: 200% 200%;
 }
 
-.title-prefix { color: #eff9ff; }
-.subtitle-prefix { color: rgba(225, 242, 255, 0.84); }
+.title-prefix {
+    color: #eff9ff;
+}
+
+.subtitle-prefix {
+    color: rgba(225, 242, 255, 0.84);
+}
 
 /* 导航 glider 颜色覆盖 */
 .radio-container .glider-container .glider {
@@ -213,10 +223,14 @@ html {
     box-shadow: 0 4px 18px rgba(123, 127, 215, 0.3);
 }
 
-.radio-container input:checked + label { color: #eff9ff; }
+.radio-container input:checked+label {
+    color: #eff9ff;
+}
 
 /* ===== 留言板布局 ===== */
-.comms-grid--single { display: block; }
+.comms-grid--single {
+    display: block;
+}
 
 .guestbook-layout {
     grid-template-columns: 1fr 1px 1fr;
@@ -308,7 +322,10 @@ html {
     font-size: 11px;
 }
 
-.guestbook-list { display: grid; gap: 10px; }
+.guestbook-list {
+    display: grid;
+    gap: 10px;
+}
 
 .guestbook-message {
     display: block;
@@ -339,7 +356,9 @@ html {
     object-fit: cover;
 }
 
-.guestbook-message-body { min-width: 0; }
+.guestbook-message-body {
+    min-width: 0;
+}
 
 .guestbook-message-meta {
     display: flex;
@@ -432,7 +451,9 @@ html {
     text-decoration: none;
 }
 
-.contact-link:hover { color: var(--accent); }
+.contact-link:hover {
+    color: var(--accent);
+}
 
 /* ===== 群聊按钮 ===== */
 .group-float {
@@ -474,7 +495,9 @@ html {
     stroke-width: 1.8;
 }
 
-.group-float span { font-size: 12px; }
+.group-float span {
+    font-size: 12px;
+}
 
 .group-panel {
     position: fixed;
@@ -501,8 +524,15 @@ html {
 }
 
 @keyframes bluePinkFlow {
-    0%, 100% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
+
+    0%,
+    100% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
 }
 
 .group-panel.show {
@@ -521,7 +551,7 @@ html {
 .group-panel img {
     width: 100%;
     border-radius: 12px;
-    border: 1px solid rgba(255,255,255,0.18);
+    border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 .group-close {
@@ -532,21 +562,24 @@ html {
     height: 26px;
     border: 0;
     background: transparent;
-    color: rgba(255,255,255,0.75);
+    color: rgba(255, 255, 255, 0.75);
     cursor: pointer;
     font-size: 20px;
     line-height: 1;
     border-radius: 50%;
     transition: background 0.2s;
 }
-.group-close:hover { background: rgba(255,255,255,0.1); }
+
+.group-close:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
 
 /* ===== 爱弥斯宠物 ===== */
 .ameath-pet {
     position: fixed;
     z-index: 900;
-    width: 64px;
-    height: 64px;
+    width: 96px;
+    height: 96px;
     border: none;
     background: transparent;
     cursor: pointer;
@@ -555,7 +588,7 @@ html {
     user-select: none;
     -webkit-user-drag: none;
     transition: transform 0.15s ease, filter 0.2s ease;
-    filter: drop-shadow(0 4px 12px rgba(0,0,0,0.35));
+    filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.35));
     will-change: left, top;
     touch-action: none;
 }
@@ -569,7 +602,9 @@ html {
     transition: transform 0.18s ease;
 }
 
-.ameath-pet.is-moving { filter: drop-shadow(0 4px 14px rgba(0,0,0,0.4)); }
+.ameath-pet.is-moving {
+    filter: drop-shadow(0 4px 14px rgba(0, 0, 0, 0.4));
+}
 
 .ameath-pet.is-curious {
     filter: drop-shadow(0 6px 18px rgba(180, 200, 255, 0.45));
@@ -588,10 +623,15 @@ html {
     transition: filter 0.2s ease, transform 0.2s ease;
 }
 
-.ameath-pet .is-facing-left { transform: scaleX(-1); }
+.ameath-pet .is-facing-left {
+    transform: scaleX(-1);
+}
 
 @media (max-width: 480px) {
-    .ameath-pet { width: 48px; height: 48px; }
+    .ameath-pet {
+        width: 48px;
+        height: 48px;
+    }
 }
 
 /* ===== 音乐播放器 ===== */
@@ -619,6 +659,7 @@ html {
     max-width: 320px;
     animation: musicGradientFlow 9s ease-in-out infinite;
 }
+
 .music-player.show-progress {
     padding-bottom: 22px;
     border-radius: 24px;
@@ -631,8 +672,15 @@ html {
 }
 
 @keyframes musicGradientFlow {
-    0%, 100% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
+
+    0%,
+    100% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
 }
 
 .music-cover {
@@ -653,7 +701,9 @@ html {
     transition: opacity 0.3s ease;
 }
 
-.music-cover img.loaded { opacity: 1; }
+.music-cover img.loaded {
+    opacity: 1;
+}
 
 .music-cover-placeholder {
     position: absolute;
@@ -674,8 +724,13 @@ html {
 }
 
 @keyframes musicCoverSpin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 .music-info {
@@ -711,8 +766,13 @@ html {
 }
 
 @keyframes musicTextScroll {
-    from { transform: translateX(0); }
-    to { transform: translateX(var(--music-scroll-distance, 0)); }
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(var(--music-scroll-distance, 0));
+    }
 }
 
 .music-controls {
@@ -747,7 +807,9 @@ html {
     cursor: not-allowed;
 }
 
-.music-btn:disabled:hover { background: transparent; }
+.music-btn:disabled:hover {
+    background: transparent;
+}
 
 .music-btn svg {
     width: 16px;
@@ -787,12 +849,14 @@ html {
     pointer-events: none;
     z-index: 20;
 }
+
 .music-player.show-progress .music-progress-wrap {
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
     pointer-events: auto;
 }
+
 .music-progress-bar {
     height: 100%;
     width: 0%;
@@ -802,6 +866,7 @@ html {
     transition: width 0.25s linear;
     position: relative;
 }
+
 .music-progress-bar::after {
     content: '';
     position: absolute;
@@ -812,13 +877,17 @@ html {
     height: 10px;
     border-radius: 50%;
     background: #fff;
-    box-shadow: 0 0 4px rgba(0,0,0,.3);
+    box-shadow: 0 0 4px rgba(0, 0, 0, .3);
     transition: transform 0.2s ease;
 }
+
 .music-player.show-progress .music-progress-bar::after {
     transform: translateY(-50%) scale(1);
 }
-.music-progress-wrap:hover { height: 8px; }
+
+.music-progress-wrap:hover {
+    height: 8px;
+}
 
 /* 移动端适配 */
 @media (max-width: 480px) {
@@ -831,7 +900,17 @@ html {
         padding: 8px 12px;
         gap: 10px;
     }
-    .music-cover { width: 36px; height: 36px; }
-    .music-title { font-size: 12px; }
-    .music-artist { font-size: 10px; }
+
+    .music-cover {
+        width: 36px;
+        height: 36px;
+    }
+
+    .music-title {
+        font-size: 12px;
+    }
+
+    .music-artist {
+        font-size: 10px;
+    }
 }
