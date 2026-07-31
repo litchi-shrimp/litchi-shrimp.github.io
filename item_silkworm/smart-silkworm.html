@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>基于多模态AIoT的智慧蚕室系统</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+    <!-- 可视化通道按钮 -->
+    <div class="viz-banner">
+        <a href="http://www.ecosilk.cn/silkworm_system/index.php" target="_blank" class="viz-channel-btn">
+            <span class="viz-icon"><i class="fas fa-chart-line"></i></span>
+            <span class="viz-text">
+                <span class="viz-label">可视化成果示例</span>
+                <span class="viz-sub">实时监测 · 数据分析 · 智能预警</span>
+            </span>
+            <span class="viz-arrow"><i class="fas fa-arrow-right"></i></span>
+        </a>
+    </div>
+
+    <section class="project-section" style="margin-top: 10px;">
+        <div class="container">
+            <h1 class="project-title">基于多模态AIoT的智慧蚕室系统（计算机设计国二项目）</h1>
+
+            <!-- 模块1：桑叶嫩度检测 -->
+            <div class="module">
+                <h2>桑叶嫩度检测模型</h2>
+                <div class="module-content">
+                    <div class="text-content">
+                        <p>本项目基于<strong>近红外光谱无损分析技术</strong>，采用 <strong>1stDer+SNV </strong>对光谱数据进行预处理，
+                            以消除基线干扰。融合<strong> UVE </strong>提特征建立 PLS 预测模型，能够快速、无损分析桑叶嫩度。</p>
+                    </div>
+                    <div class="image-gallery">
+                        <figure>
+                            <img src="static/silkworm/SNV.png" alt="预处理">
+                            <figcaption>SNV预处理效果图</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/UVE.png" alt="提特征">
+                            <figcaption>UVE特征提取过程</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/UVE_ans.png" alt="UVE结果">
+                            <figcaption>UVE特征选择结果</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/ans.png" alt="未知样品测试">
+                            <figcaption>未知样品测试结果</figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 模块2：SIFT识别STOP点位 -->
+            <div class="module">
+                <h2>AGV车识别停止点位</h2>
+                <div class="module-content">
+                    <div class="text-content">
+                        <p>采用<strong>SIFT</strong>获得匹配点对，融合<strong>FLANN</strong>进行匹配，并使用<strong>RANSAC</strong>消除离群点，精准识别"STOP"停止点位。
+                        </p>
+                    </div>
+                    <div class="image-gallery">
+                        <figure>
+                            <img src="static/silkworm/SIFT_exp.png" alt="传感器部署图">
+                            <figcaption>SIFT_FLANN与SIFT_FLANN_RANSAC对比</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/SIFT_exp1.png" alt="数据监测界面">
+                            <figcaption>ORB_FLANN_RANSAC在不同场景下的效果</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/SIFT_exp2.png" alt="识别效果">
+                            <figcaption>SIFT_FLANN_RANSAC在不同场景下的效果</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/SIFT_real.png" alt="识别效果">
+                            <figcaption>实际场景中的STOP标识识别</figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 模块3：蚕行为检测 -->
+            <div class="module">
+                <h2>家蚕行为检测分析</h2>
+                <div class="module-content">
+                    <div class="text-content">
+                        <p>融合<strong>阈值与SAM</strong>进行蚕图像分割，对掩码使用<strnog>Zhang-Suen算法</strnog>提取骨架，并使用K-Means聚类评估长度。
+                            后续采用<strong>YOLO+SAM</strong>对蚕分割，并分别使用<strong>DeepSORT追踪与椭圆拟合</strong>评估平动和转动趋势，
+                            以进行蚕<strong>行为检测</strong>，避免出现持续静止或狂躁行为。
+                        </p>
+                    </div>
+                    <div class="image-gallery">
+                        <figure>
+                            <img src="static/silkworm/SAM_1.png" alt="图像识别效果">
+                            <figcaption>SAM模型分割与长度、面积评估</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/SORT.png" alt="健康状态分析">
+                            <figcaption>DeepSORT追踪与椭圆拟合行为分析</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/SORTans.png" alt="数量统计">
+                            <figcaption>蚕行为分析结果（平动和转动）</figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 模块4：YOLO疾病识别 -->
+            <div class="module">
+                <h2>融合SHSA与ATFL改进YOLO11检测疾病</h2>
+                <div class="module-content">
+                    <div class="text-content">
+                        <p>对数据集进行了<strong>数据增强处理</strong>，包括旋转、缩放、裁剪等操作。对于YOLO11，将<strong>单头自注意力机制(SHSA)</strong>集成至YOLO11的C2PSA模块中，
+                            并融合<strong>自适应阈值焦点损失函数(ATFL)</strong>，通过降低易分类样本的损失权重来集中模型的注意力于难以分类的样本上，
+                            缓解类别不平衡问题。
+                        </p>
+                    </div>
+                    <div class="image-gallery">
+                        <figure>
+                            <img src="static/silkworm/enhance.png" alt="数据集增强">
+                            <figcaption>数据增强效果展示</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/healthy.jpg" alt="蚕病检测">
+                            <figcaption>蚕病检测效果</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/web_healthy.png" alt="蚕病检测Web端">
+                            <figcaption>Web端蚕病检测界面</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/QT_healthy.png" alt="蚕病检测QT端">
+                            <figcaption>QT端蚕病检测界面</figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 模块5：LLM+Intent -->
+            <div class="module">
+                <h2>融合SFT、知识图谱，graphRAG、MCP构建桑蚕AI语音助手</h2>
+                <div class="module-content">
+                    <div class="text-content">
+                        <p>
+                            以deepseek-llm-7b为基座模型，自制Q&A数据集<strong>LoRA</strong>微调，loss收敛于0.2551，专业领域BLEU与ROUGE均高于85，泛化能力相当。
+                            基于Neo4j，融合LLM提示词提取实体、关系、属性等构建<strong>蚕桑知识图谱</strong>，
+                            创新性融合<strong>BERT编码图路径</strong>，分别从<strong>实体抽取、消歧、路径Rerank</strong>等方面构建<strong>graphRAG</strong>完成后端模型API接口（FastAPI），缓解幻觉问题。
+                            最后基于ESP32开发板改进开源后端服务器，搭建蚕桑AI语音助手，
+                            并模拟MCP协议执行<strong>Function Call语言控制物联网设备</strong>，摆脱了传统固定指令式智能家居控制。
+                        </p>
+                    </div>
+                    <div class="image-gallery">
+                        <figure>
+                            <img src="static/silkworm/knowledge_graph.png" alt="蚕桑知识图谱">
+                            <figcaption>蚕桑知识图谱</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/xiaosang.png" alt="AI助手">
+                            <figcaption>小桑AI助手界面</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/WEB.png" alt="WEB">
+                            <figcaption>Web端可视化大屏</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="static/silkworm/BERT_graphRAG.jpg" alt="BERT">
+                            <figcaption>融合BERT编码的graphRAG摘要图</figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

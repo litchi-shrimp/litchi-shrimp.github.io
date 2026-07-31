@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>添加QQ好友</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        }
+
+        body {
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 400px;
+            padding: 30px;
+            text-align: center;
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        .header {
+            margin-bottom: 25px;
+            position: relative;
+        }
+
+        .header h1 {
+            font-size: 22px;
+            color: #12B7F5;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .qrcode-container {
+            padding: 20px;
+            margin: 20px 0;
+            border: 1px dashed #ddd;
+            border-radius: 8px;
+            position: relative;
+            background: linear-gradient(135deg, #f9f9f9 25%, #fff 25%, #fff 50%, #f9f9f9 50%, #f9f9f9 75%, #fff 75%, #fff 100%);
+            background-size: 20px 20px;
+        }
+
+        .qrcode-img {
+            width: 100%;
+            max-width: 250px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+            background-color: white;
+            padding: 10px;
+            border-radius: 4px;
+        }
+
+        .action-btns {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .btn-primary {
+            background-color: #12B7F5;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background-color: #0E9FD9;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background-color: #f0f0f0;
+            color: #555;
+        }
+
+        .btn-secondary:hover {
+            background-color: #e0e0e0;
+            transform: translateY(-2px);
+        }
+
+        .footer {
+            margin-top: 25px;
+            font-size: 12px;
+            color: #999;
+        }
+
+        .qq-icon {
+            width: 40px;
+            height: 40px;
+            margin-bottom: 15px;
+        }
+
+        .instructions {
+            background-color: #f0f9ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: left;
+            font-size: 13px;
+            border-left: 3px solid #12B7F5;
+        }
+
+        .instructions ol {
+            padding-left: 20px;
+        }
+
+        .instructions li {
+            margin-bottom: 8px;
+        }
+
+        .qq-number {
+            font-size: 18px;
+            font-weight: bold;
+            color: #12B7F5;
+            margin: 10px 0;
+            padding: 8px 0;
+            border-top: 1px dashed #ddd;
+            border-bottom: 1px dashed #ddd;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        .btn-icon {
+            margin-right: 5px;
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <svg class="qq-icon" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+                <path fill="#12B7F5"
+                    d="M824.8 613.2c-16-51.2-44.8-96-81.6-129.6 62.4-72 96-164.8 96-265.6 0-219.2-180.8-400-400-400S48 8.8 48 228c0 100.8 33.6 193.6 96 265.6-36.8 33.6-65.6 78.4-81.6 129.6-22.4 107.2-9.6 219.2 33.6 316.8l-38.4 116.8 120-25.6c92.8 24.8 192 16 278.4-22.4 41.6 8 83.2 12 126.4 12 219.2 0 400-180.8 400-400 0-44.8-7.2-88-20.8-129.6 86.4-38.4 185.6-47.2 278.4-22.4l120 25.6-38.4-116.8c41.6-97.6 56-209.6 33.6-316.8zM152 228c0-185.6 152-336 336-336s336 150.4 336 336c0 89.6-35.2 171.2-92.8 232-8 8-12.8 20.8-9.6 33.6 4.8 12.8 16 22.4 28.8 25.6 38.4 8 73.6 25.6 104 49.6 25.6 20.8 44.8 46.4 57.6 73.6 12.8 28.8 20.8 59.2 20.8 89.6 0 30.4-8 60.8-20.8 89.6-12.8 28.8-32 54.4-57.6 73.6-30.4 24-65.6 41.6-104 49.6-12.8 3.2-24 12.8-28.8 25.6-3.2 12.8 1.6 25.6 9.6 33.6 57.6 60.8 92.8 142.4 92.8 232 0 185.6-152 336-336 336-40 0-78.4-6.4-115.2-20.8-96.8 36.8-203.2 44.8-304 19.2l-88 19.2 22.4-68.8c-44.8-96-60.8-206.4-38.4-312 16-51.2 44.8-96 81.6-129.6 8-8 12.8-20.8 9.6-33.6-4.8-12.8-16-22.4-28.8-25.6-38.4-8-73.6-25.6-104-49.6-25.6-20.8-44.8-46.4-57.6-73.6-12.8-28.8-20.8-59.2-20.8-89.6 0-30.4 8-60.8 20.8-89.6 12.8-28.8 32-54.4 57.6-73.6 30.4-24 65.6-41.6 104-49.6 12.8-3.2 24-12.8 28.8-25.6 3.2-12.8-1.6-25.6-9.6-33.6C187.2 399.2 152 317.6 152 228z">
+                </path>
+            </svg>
+            <h1>添加QQ好友</h1>
+            <p>扫描下方二维码或直接搜索QQ号添加</p>
+            <div class="qq-number pulse">79183018</div>
+        </div>
+
+        <div class="qrcode-container">
+            <img class="qrcode-img" src="QQ.png" alt="QQ二维码">
+        </div>
+
+        <div class="action-btns">
+            <button class="btn btn-primary">
+                <svg class="btn-icon" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+                    <path fill="#fff"
+                        d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z">
+                    </path>
+                    <path fill="#fff"
+                        d="M464 336a48 48 0 1 0 96 0 48 48 0 1 0-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z">
+                    </path>
+                </svg>
+                复制QQ号
+            </button>
+            <button class="btn btn-secondary">
+                <svg class="btn-icon" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+                    <path fill="#555"
+                        d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z">
+                    </path>
+                    <path fill="#555"
+                        d="M512 140c-205.4 0-372 166.6-372 372s166.6 372 372 372 372-166.6 372-372-166.6-372-372-372zm171.8 527.1c1.2 1.5 1.9 3.3 1.9 5.2 0 4.5-3.6 8-8 8l-66-.3-99.3-118.4-99.3 118.5-66.1.3c-4.4 0-8-3.6-8-8 0-1.9.7-3.7 1.9-5.2L471 512l-130.1-155.1c-1.2-1.5-1.9-3.3-1.9-5.2 0-4.4 3.6-8 8-8l66.1.3 99.3 118.4 99.3-118.4 66-.3c4.4 0 8 3.6 8 8 0 1.9-.7 3.8-1.9 5.2l-130.1 155 129.9 155.1z">
+                    </path>
+                </svg>
+                刷新二维码
+            </button>
+        </div>
+
+        <div class="instructions">
+            <h3>添加好友指引：</h3>
+            <ol>
+                <li><strong>方法一：扫码添加</strong>
+                    <ul style="list-style-type: none; margin-top: 5px;">
+                        <li>1. 打开手机QQ</li>
+                        <li>2. 点击右上角"+"号</li>
+                        <li>3. 选择"扫一扫"功能</li>
+                        <li>4. 扫描上方二维码</li>
+                    </ul>
+                </li>
+                <li><strong>方法二：搜索QQ号添加</strong>
+                    <ul style="list-style-type: none; margin-top: 5px;">
+                        <li>1. 打开手机QQ</li>
+                        <li>2. 点击右上角"+"号</li>
+                        <li>3. 选择"添加好友"</li>
+                        <li>4. 搜索上方QQ号</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+
+        <div class="footer">
+            <p>添加时请备注来意，通过后请主动打招呼</p>
+        </div>
+    </div>
+
+    <script>
+        // 复制QQ号功能
+        document.querySelector('.btn-primary').addEventListener('click', function () {
+            const qqNumber = document.querySelector('.qq-number').textContent;
+            navigator.clipboard.writeText(qqNumber).then(() => {
+                const originalText = this.innerHTML;
+                this.innerHTML = `
+          <svg class="btn-icon" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+            <path fill="#fff" d="M912 190h-69.9c-9.8 0-19.1 4.5-25.1 12.2L404.7 724.5 207 474a32 32 0 0 0-25.1-12.2H112c-6.7 0-10.4 7.7-6.3 12.9l273.9 347c12.8 16.2 37.4 16.2 50.2 0l488.4-618.9c4.1-5.1.4-12.8-6.3-12.8z"></path>
+          </svg>
+          已复制
+        `;
+                setTimeout(() => {
+                    this.innerHTML = originalText;
+                }, 2000);
+            }).catch(err => {
+                alert('复制失败，请手动复制QQ号');
+                console.error('复制失败:', err);
+            });
+        });
+
+        // 刷新二维码功能
+        document.querySelector('.btn-secondary').addEventListener('click', function () {
+            const qrcodeContainer = document.querySelector('.qrcode-container');
+            qrcodeContainer.style.opacity = '0.5';
+
+            setTimeout(() => {
+                qrcodeContainer.style.opacity = '1';
+                alert('二维码已刷新，请重新扫描');
+            }, 800);
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="litchi-shrimp 的个人主页、PicManager 与 GitHub 中转站。">
+    <meta name="theme-color" content="#181c21">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="litchi-shrimp · Personal Space">
+    <meta property="og:description" content="个人主页、PicManager 项目入口与 GitHub。">
+    <meta property="og:url" content="https://usotsuki-kaze.com/">
+    <meta name="twitter:card" content="summary_large_image">
+    <title>litchi-shrimp · Personal Space</title>
+    <link rel="icon" href="/static/homepage/avatar.jpg" sizes="any">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="/static/homepage/style/main.css?v=20260729-3">
+    <link rel="stylesheet" href="/static/homepage/style/word.css?v=20260729-3">
+    <link rel="stylesheet" href="/static/homepage/style/new.css?v=20260729-3">
+    <link rel="stylesheet" href="/static/homepage/style/icon.css?v=20260729-3">
+    <link rel="stylesheet" href="/static/homepage/style/lan.css?v=20260729-3">
+    <link rel="stylesheet" href="/static/homepage/style/aoo.css?v=20260729-3">
+    <link rel="stylesheet" href="/static/homepage/style/personal.css?v=20260729-20">
+    <link rel="stylesheet" href="/static/homepage/style/music-player.css?v=20260729-4">
+</head>
+
+<body>
+    <div class="bg" aria-hidden="true">
+        <div class="pattern-bg">
+            <svg class="cube-svg" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <pattern id="cube" x="0" y="0" width="60" height="52" patternUnits="userSpaceOnUse">
+                        <path d="M30 0 L60 15 L60 41 L30 52 L0 41 L0 15 Z" fill="none" stroke="rgba(255,255,255,0.06)"
+                            stroke-width="0.5" />
+                        <path d="M30 26 L60 15 M30 26 L0 15 M30 26 L30 52" fill="none" stroke="rgba(255,255,255,0.04)"
+                            stroke-width="0.5" />
+                    </pattern>
+                </defs>
+                <rect width="100%" height="100%" fill="url(#cube)" />
+            </svg>
+        </div>
+    </div>
+    <div class="bg-blur" aria-hidden="true"></div>
+
+    <button class="ameath-pet" id="ameathPet" type="button" aria-label="爱弥斯：悬停互动，点击播放语音">
+        <img id="ameathPetImage" src="/static/homepage/ameath/idle1.gif" alt="游荡的爱弥斯">
+    </button>
+
+    <div class="container">
+        <aside class="sidebar">
+            <div class="avatar-card">
+                <div class="avatar">
+                    <img class="avatar-img" src="/static/homepage/avatar.jpg" alt="litchi-shrimp 的头像">
+                </div>
+            </div>
+
+            <div class="profile-status" aria-label="个人状态">
+                <span class="profile-status-dot" aria-hidden="true"></span>
+                <div>
+                    <strong>刘展序</strong>
+                    <small>时刻保持真诚</small>
+                </div>
+            </div>
+
+            <div class="content" id="appMarquee" aria-label="快捷入口">
+                <div class="benefits">
+                    <div class="basic-marquee basic-marquee-1">
+                        <a class="marquee-link" href="static/contact/QQ.html" aria-label="QQ" style="color:#12B7F5">
+                            <i class="fab fa-qq"></i>
+                        </a>
+                        <a class="marquee-link" href="static/contact/wechat.html" aria-label="微信" style="color:#07C160">
+                            <i class="fab fa-weixin"></i>
+                        </a>
+                        <a class="marquee-link" href="https://github.com/litchi-shrimp" target="_blank"
+                            rel="noopener noreferrer" aria-label="GitHub">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a class="marquee-link" href="https://huggingface.co/zhanxu" target="_blank"
+                            rel="noopener noreferrer" aria-label="HuggingFace" style="color:#FFD21E">
+                            <i class="fa-solid fa-face-smile"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="radio-container" style="--total-radio: 3;">
+                <input type="radio" name="nav" id="nav-about" checked>
+                <label for="nav-about">简介</label>
+                <input type="radio" name="nav" id="nav-projects">
+                <label for="nav-projects">项目</label>
+                <input type="radio" name="nav" id="nav-contact">
+                <label for="nav-contact">联系</label>
+                <div class="glider-container">
+                    <div class="glider"></div>
+                </div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="mobile-avatar-card" id="mobileAvatarCard">
+                <div class="mobile-avatar">
+                    <img class="avatar-img" src="/static/homepage/avatar.jpg" alt="litchi-shrimp 的头像">
+                </div>
+            </div>
+
+            <div class="title-card fade-in">
+                <h1 class="title-wrap">
+                    <span class="title-prefix">欢迎回来，我是</span><span class="title">荔枝虾</span>
+                </h1>
+            </div>
+
+            <div class="subtitle-card fade-in">
+                <h2 class="subtitle-wrap">
+                    <span class="subtitle-prefix">Powered by </span><span class="subtitle-name">Lzx</span>
+                </h2>
+            </div>
+
+            <div class="pixel-banner fade-in" aria-label="心无旁骛" data-text="心无旁骛">
+                <div class="pixel-grid" id="pixelGrid"></div>
+            </div>
+
+            <div class="intro-card fade-in" id="about">
+                <h3 class="section-title">个人简介</h3>
+                <div class="intro-header">
+                    <p class="intro-name">刘展序<span class="intro-tag">荔枝虾</span></p>
+                    <p class="intro-edu">上海财经大学 · 计算机与人工智能学院 · 人工智能与应用方向 · 硕士在读 · 中共党员</p>
+                </div>
+                <div class="intro-stats">
+                    <div class="stat-item"><span class="stat-value">CET-6</span><span class="stat-unit">539</span></div>
+                    <div class="stat-item"><span class="stat-value">竞赛</span><span class="stat-unit">4 项国家奖</span></div>
+                    <div class="stat-item"><span class="stat-value">专利</span><span class="stat-unit">1 项 B 级</span>
+                    </div>
+                    <div class="stat-item"><span class="stat-value">科研</span><span class="stat-unit">目前还没有哦</span></div>
+                </div>
+                <div class="intro-section">
+                    <h4 class="intro-subtitle">荣誉 & 证书</h4>
+                    <div class="intro-tags">
+                        <span>优秀毕业生</span><span>优秀毕业论文</span><span>汇峰深蓝创新基金专项奖学金</span><span>MS Office</span>
+                    </div>
+                </div>
+                <div class="intro-section">
+                    <h4 class="intro-subtitle">英语能力</h4>
+                    <div class="intro-tags">
+                        <span>CET-4 <b>521</b></span><span>CET-6 <b>539</b></span>
+                        <span>外研社·国才杯 全国写作大赛 <b>一等奖</b></span>
+                        <span>外教社·词达人杯 <b>一等奖</b></span>
+                    </div>
+                </div>
+                <div class="intro-section">
+                    <h4 class="intro-subtitle">竞赛奖项</h4>
+                    <ul class="intro-awards">
+                        <li><span class="award-level level-national">国二</span>高教社杯全国大学生数学建模竞赛</li>
+                        <li><span class="award-level level-national">国一(M奖)</span>美国大学生数学建模竞赛</li>
+                        <li><span class="award-level level-national">国二</span>中国大学生计算机设计大赛</li>
+                        <li><span class="award-level level-national">国一</span>全国高校商业精英挑战赛创新创业竞赛</li>
+                    </ul>
+                </div>
+                <div class="intro-section">
+                    <h4 class="intro-subtitle">专利</h4>
+                    <p class="intro-patent">一种基于知识图谱增强检索的智能养蚕平台问答系统及其构建方法 <span class="patent-level">B 级</span></p>
+                </div>
+                <div class="intro-section">
+                    <h4 class="intro-subtitle">技能</h4>
+                    <div class="intro-tags">
+                        <span>Agent</span><span>DL/ML</span><span>推荐算法</span><span>RAG</span><span>多模态</span><span>CV</span><span>大模型</span><span>PyTorch</span><span>Python/Matlab</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="projects-card fade-in" id="projects">
+                <h3 class="section-title">项目</h3>
+                <div class="projects-grid">
+                    <a class="project-item project-link" href="./contract_generation/test_frontend.html" target="_blank"
+                        rel="noopener noreferrer">
+                        <div class="project-icon">
+                            <img src="/static/homepage/gallery-icon.png" alt="合同生成系统图标">
+                        </div>
+                        <div class="project-title">Multi-Agent智能合同生成</div>
+                        <div class="project-desc"> Multi-Agent WorkFlow 端到端实现定制化合同生成</div>
+                    </a>
+                    <a class="project-item project-link" href="https://url2xxx" target="_blank"
+                        rel="noopener noreferrer">
+                        <div class="project-icon">
+                            <img src="/static/homepage/lucy-icon.png" alt="工具集图标">
+                        </div>
+                        <div class="project-title">工具集</div>
+                        <div class="project-desc">独立制作的实用工具箱（如PDF转MD，科研Skill等）</div>
+                    </a>
+                    <a class="project-item project-link" href="./item_silkworm/smart-silkworm.html" target="_blank"
+                        rel="noopener noreferrer">
+                        <div class="project-icon">
+                            <svg viewBox="0 0 24 24" aria-hidden="true">
+                                <path
+                                    d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.4 5.4 0 0 0 4 9c0 3.5 3 5.5 6 5.5" />
+                            </svg>
+                        </div>
+                        <div class="project-title">多模态AIoT智慧桑蚕系统</div>
+                        <div class="project-desc">涉及CV/LLM微调/GraphRAG/Agent等技术。</div>
+                    </a>
+                    <a class="project-item project-link" href="./index.html">
+                        <div class="project-icon">
+                            <img src="/static/homepage/avatar.jpg" alt="个人空间图标">
+                        </div>
+                        <div class="project-title">Personal Space</div>
+                        <div class="project-desc">就是这里~</div>
+                    </a>
+                </div>
+            </div>
+
+            <section class="comms-card fade-in" id="contact">
+                <div class="comms-header">
+                    <h3 class="section-title comms-title">联系我</h3>
+                    <p class="comms-subtitle">你可以直接查看联系方式，或写一封邮件给我。</p>
+                </div>
+                <div class="comms-grid guestbook-layout">
+                    <section class="comms-col comms-contact" aria-label="联系方式">
+                        <h4 class="comms-col-title">联系方式</h4>
+                        <div class="contact-info">
+                            <div class="contact-item">
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <circle cx="12" cy="12" r="10" />
+                                    <path d="M8 15a3.5 3.5 0 0 0 8 0" />
+                                </svg>
+                                QQ: 79183018
+                            </div>
+                            <div class="contact-item">
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22z" />
+                                </svg>
+                                Tel: 15805209417
+                            </div>
+                            <a class="contact-item contact-link" href="mailto:litchi-shrimp@gmail.com">
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <rect x="2" y="4" width="20" height="16" rx="2" />
+                                    <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
+                                </svg>
+                                Email: 2026216119@stu.sufe.edu.cn
+                            </a>
+                            <a class="contact-item contact-link" href="https://github.com/litchi-shrimp" target="_blank"
+                                rel="noopener noreferrer">
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <path
+                                        d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.4 5.4 0 0 0 4 9c0 3.5 3 5.5 6 5.5" />
+                                </svg>
+                                GitHub: github.com/litchi-shrimp
+                            </a>
+                        </div>
+                    </section>
+                    <div class="comms-divider" aria-hidden="true"></div>
+                    <section class="comms-col guestbook-compose" aria-label="留言板">
+                        <h4 class="comms-col-title">留言板</h4>
+                        <form id="guestbookForm" class="guestbook-form">
+                            <label>
+                                <span>昵称</span>
+                                <input id="guestbookNickname" name="nickname" maxlength="32" placeholder="怎么称呼你？"
+                                    required>
+                            </label>
+                            <label>
+                                <span>留言</span>
+                                <textarea id="guestbookContent" name="content" maxlength="500" rows="4"
+                                    placeholder="留下想说的话吧…" required></textarea>
+                            </label>
+                            <div class="guestbook-actions">
+                                <span id="guestbookHint" role="status"></span>
+                                <button type="submit">发送留言</button>
+                            </div>
+                        </form>
+                    </section>
+                </div>
+                <section class="guestbook-comments" aria-label="留言展示">
+                    <div class="guestbook-comments-header">
+                        <h4 class="comms-col-title">最新留言</h4>
+                        <span id="guestbookCount"></span>
+                    </div>
+                    <div id="guestbookList" class="guestbook-list" aria-live="polite"></div>
+                </section>
+            </section>
+
+            <footer class="site-footer fade-in">
+                <span>&copy; <span id="year"></span> litchi-shrimp</span>
+                <span>MADE WITH CURIOSITY</span>
+            </footer>
+        </main>
+    </div>
+
+    <!-- 群聊按钮（已隐藏） -->
+    <button class="group-float" id="groupToggle" type="button" aria-controls="groupPanel" aria-expanded="false"
+        style="display:none">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M16 11a4 4 0 1 0-3.6-5.74" />
+            <path d="M8 11a4 4 0 1 0-3.6-5.74" />
+            <path d="M2 21v-1a5 5 0 0 1 5-5h2a5 5 0 0 1 5 5v1" />
+            <path d="M16 15h1a5 5 0 0 1 5 5v1" />
+        </svg>
+        <span>群聊</span>
+    </button>
+    <aside class="group-panel" id="groupPanel" aria-hidden="true" aria-label="群聊二维码">
+        <button class="group-close" id="groupClose" type="button" aria-label="关闭群聊二维码">&times;</button>
+        <p>扫码加入群聊</p>
+        <img src="/static/homepage/group-qrcode.jpg" alt="群聊二维码">
+    </aside>
+
+    <div class="music-player" id="musicPlayer">
+        <div class="music-cover">
+            <img id="musicCover" src="/static/homepage/avatar.jpg" alt="歌曲封面">
+            <div class="music-cover-placeholder" id="musicCoverPlaceholder" aria-hidden="true">
+                <svg viewBox="0 0 24 24">
+                    <path d="M9 18V5l12-2v13" />
+                    <circle cx="6" cy="18" r="3" />
+                    <circle cx="18" cy="16" r="3" />
+                </svg>
+            </div>
+        </div>
+        <div class="music-info">
+            <div class="music-title" id="musicTitle">背景音乐</div>
+            <div class="music-artist" id="musicArtist">litchi-shrimp</div>
+        </div>
+        <div class="music-controls">
+            <button class="music-btn" id="musicPrev" type="button" title="上一首">
+                <svg viewBox="0 0 24 24">
+                    <path d="M19 20 9 12l10-8v16zM5 19V5" />
+                </svg>
+            </button>
+            <button class="music-btn music-play-btn" id="musicPlay" type="button" title="播放或暂停">
+                <svg class="icon-play" viewBox="0 0 24 24">
+                    <path d="m8 5 11 7-11 7z" />
+                </svg>
+                <svg class="icon-pause" viewBox="0 0 24 24" style="display:none">
+                    <path d="M6 4h4v16H6zM14 4h4v16h-4z" />
+                </svg>
+            </button>
+            <button class="music-btn" id="musicNext" type="button" title="下一首">
+                <svg viewBox="0 0 24 24">
+                    <path d="m5 4 10 8-10 8V4zM19 5v14" />
+                </svg>
+            </button>
+        </div>
+        <audio id="musicAudio" src="/static/homepage/bgm1.mp3" preload="metadata" autoplay></audio>
+        <div class="music-progress-wrap" id="musicProgressWrap">
+            <div class="music-progress-bar" id="musicProgressBar"></div>
+        </div>
+    </div>
+    <audio id="ameathVoiceAudio" preload="none"></audio>
+
+    <script>
+        window.__musicPlayerConfig = {
+            mode: "custom",
+            playlist: [
+                {
+                    name: "BGM · One",
+                    artist: "litchi-shrimp",
+                    cover: "/static/homepage/avatar.jpg",
+                    url: "/static/homepage/bgm1.mp3"
+                },
+                {
+                    name: "BGM · Two",
+                    artist: "litchi-shrimp",
+                    cover: "/static/homepage/avatar.jpg",
+                    url: "/static/homepage/bgm2.mp3"
+                },
+                {
+                    name: "BGM · Three",
+                    artist: "litchi-shrimp",
+                    cover: "/static/homepage/avatar.jpg",
+                    url: "/static/homepage/bgm3.mp3"
+                }
+            ],
+            ameathPlaylist: [],
+            voicePlaylist: []
+        };
+    </script>
+    <script src="/static/homepage/site.js?v=20260729-5" defer></script>
+    <script src="/static/homepage/music-player.js?v=20260801-1" defer></script>
+    <script src="/static/homepage/ameath-pet.js?v=20260729-3" defer></script>
+    <script src="/static/homepage/guestbook.js?v=20260729-2" defer></script>
+</body>
+
+</html>
