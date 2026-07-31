@@ -220,20 +220,36 @@
     });
 
     if (mode === 'custom') {
-        loadSong('next').then(function() {
-            audio.play().then(function() {
-                // 自动播放成功
-            }).catch(function() {
-                // 浏览器阻止自动播放，等待首次用户交互后重试
-                var events = ['click', 'touchstart', 'keydown', 'scroll'];
-                function tryPlay() {
-                    audio.play().catch(function() {});
-                    events.forEach(function(e) {
-                        document.removeEventListener(e, tryPlay, { once: true });
-                    });
-                }
-                events.forEach(function(e) {
-                    document.addEventListener(e, tryPlay, { once: true });
+        loadSong('next').then(function () {
+            audio.play().then(function () {
+                // 直接播放成功
+            }).catch(function () {
+                // 静音绕过自动播放限制，等待任意交互后取消静音
+                audio.muted = true;
+                audio.play().then(function () {
+                    function unmute() {
+                        audio.muted = false;
+                        document.removeEventListener('click', unmute);
+                        document.removeEventListener('touchstart', unmute);
+                        document.removeEventListener('keydown', unmute);
+                        document.removeEventListener('scroll', unmute);
+                    }
+                    document.addEventListener('click', unmute, { once: true });
+                    document.addEventListener('touchstart', unmute, { once: true });
+                    document.addEventListener('keydown', unmute, { once: true });
+                    document.addEventListener('scroll', unmute, { once: true });
+                }).catch(function () {
+                    // 连静音也失败，等待交互后带声播放
+                    audio.muted = false;
+                    function tryPlay() {
+                        audio.play().catch(function () { });
+                        document.removeEventListener('click', tryPlay);
+                        document.removeEventListener('touchstart', tryPlay);
+                        document.removeEventListener('keydown', tryPlay);
+                    }
+                    document.addEventListener('click', tryPlay, { once: true });
+                    document.addEventListener('touchstart', tryPlay, { once: true });
+                    document.addEventListener('keydown', tryPlay, { once: true });
                 });
             });
         });

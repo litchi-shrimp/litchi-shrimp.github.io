@@ -161,4 +161,15 @@
         clearTimeout(resizeTimer);
         resizeTimer = setTimeout(function () { renderPixelBanner(bannerText); }, 180);
     });
+
+    var personalSpaceLink = document.getElementById('personalSpaceLink');
+    if (personalSpaceLink) {
+        personalSpaceLink.addEventListener('click', function (e) {
+            var currentPath = window.location.pathname.replace(/\/$/, '');
+            var targetPath = new URL(personalSpaceLink.href, window.location.href).pathname.replace(/\/$/, '');
+            if (currentPath === targetPath) {
+                e.preventDefault();
+            }
+        });
+    }
 })();
