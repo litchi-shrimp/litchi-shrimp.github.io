@@ -4,12 +4,19 @@
     var form = document.getElementById("guestbookForm");
     var nicknameInput = document.getElementById("guestbookNickname");
     var contentInput = document.getElementById("guestbookContent");
-    var captchaQuestion = document.getElementById("captchaQuestion");
-    var captchaInput = document.getElementById("captchaInput");
-    var captchaRefresh = document.getElementById("captchaRefresh");
     var hint = document.getElementById("guestbookHint");
     var latestEl = document.getElementById("guestbookLatest");
     var count = document.getElementById("guestbookCount");
+
+    // CAPTCHA modal
+    var overlay = document.getElementById("captchaOverlay");
+    var captchaQuestion = document.getElementById("captchaQuestion");
+    var captchaInput = document.getElementById("captchaInput");
+    var captchaRefresh = document.getElementById("captchaRefresh");
+    var captchaCancel = document.getElementById("captchaCancel");
+    var captchaConfirm = document.getElementById("captchaConfirm");
+    var captchaError = document.getElementById("captchaError");
+
     var apiBase = "https://ecosilk.cn";
     var avatarUrl = "/static/homepage/ameath/default_img.jpg";
 
@@ -17,6 +24,8 @@
 
     var captchaToken = null;
     var submitting = false;
+    var pendingNickname = "";
+    var pendingContent = "";
 
     function formatTime(value) {
         var date = new Date(value);
@@ -76,6 +85,9 @@
 
     function loadCaptcha() {
         captchaQuestion.textContent = "加载中…";
+        captchaInput.value = "";
+        captchaError.textContent = "";
+        captchaToken = null;
         fetch(apiBase + "/api/guestbook/captcha")
             .then(function (r) { return r.json(); })
             .then(function (data) {
@@ -83,7 +95,7 @@
                 captchaQuestion.textContent = data.question;
             })
             .catch(function () {
-                captchaQuestion.textContent = "获取失败，点击刷新";
+                captchaQuestion.textContent = "获取失败，点击 ↻ 刷新";
             });
     }
 
@@ -94,40 +106,43 @@
             .catch(function () { renderMessages([]); });
     }
 
-    if (captchaRefresh) {
-        captchaRefresh.addEventListener("click", loadCaptcha);
+    function showCaptchaModal() {
+        overlay.classList.add("show");
+        overlay.setAttribute("aria-hidden", "false");
+        loadCaptcha();
+        captchaInput.focus();
     }
 
-    form.addEventListener("submit", function (event) {
-        event.preventDefault();
-        if (submitting) return;
+    function hideCaptchaModal() {
+        overlay.classList.remove("show");
+        overlay.setAttribute("aria-hidden", "true");
+        captchaInput.value = "";
+        captchaError.textContent = "";
+        captchaToken = null;
+    }
 
-        var nickname = nicknameInput.value.trim();
-        var content = contentInput.value.trim();
+    function doSubmit() {
         var answer = captchaInput.value.trim();
-
-        if (!nickname || !content || !answer) return;
-        if (!captchaToken) {
-            hint.textContent = "请等待验证码加载完成";
+        if (!answer) {
+            captchaError.textContent = "请输入验证码答案";
             return;
         }
-
         var answerNum = parseInt(answer, 10);
         if (isNaN(answerNum)) {
-            hint.textContent = "验证码请输入数字";
+            captchaError.textContent = "请输入数字";
             return;
         }
 
         submitting = true;
-        hint.textContent = "发送中…";
-        form.querySelector("button").disabled = true;
+        captchaConfirm.disabled = true;
+        captchaError.textContent = "";
 
         fetch(apiBase + "/api/guestbook", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
-                nickname: nickname,
-                content: content,
+                nickname: pendingNickname,
+                content: pendingContent,
                 captcha_token: captchaToken,
                 captcha_answer: answerNum
             })
@@ -138,19 +153,53 @@
             });
         }).then(function () {
             contentInput.value = "";
-            captchaInput.value = "";
             hint.textContent = "留言已送达";
-            loadCaptcha();
+            hideCaptchaModal();
             loadMessages();
         }).catch(function (error) {
-            hint.textContent = error.message || "发送失败，请稍后重试";
+            captchaError.textContent = error.message || "发送失败，请稍后重试";
             loadCaptcha();
         }).finally(function () {
             submitting = false;
-            form.querySelector("button").disabled = false;
+            captchaConfirm.disabled = false;
         });
+    }
+
+    // Form submit → show CAPTCHA modal
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        if (submitting) return;
+
+        pendingNickname = nicknameInput.value.trim();
+        pendingContent = contentInput.value.trim();
+        if (!pendingNickname || !pendingContent) return;
+
+        hint.textContent = "";
+        showCaptchaModal();
     });
 
-    loadCaptcha();
+    // CAPTCHA modal buttons
+    captchaRefresh.addEventListener("click", loadCaptcha);
+
+    captchaCancel.addEventListener("click", function () {
+        hideCaptchaModal();
+    });
+
+    captchaConfirm.addEventListener("click", doSubmit);
+
+    captchaInput.addEventListener("keydown", function (event) {
+        if (event.key === "Enter") {
+            event.preventDefault();
+            doSubmit();
+        }
+    });
+
+    // Click overlay backdrop → close
+    overlay.addEventListener("click", function (event) {
+        if (event.target === overlay) {
+            hideCaptchaModal();
+        }
+    });
+
     loadMessages();
 })();

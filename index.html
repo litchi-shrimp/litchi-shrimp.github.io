@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="/static/homepage/style/icon.css?v=20260729-3">
     <link rel="stylesheet" href="/static/homepage/style/lan.css?v=20260729-3">
     <link rel="stylesheet" href="/static/homepage/style/aoo.css?v=20260729-3">
-    <link rel="stylesheet" href="/static/homepage/style/personal.css?v=20260801-2">
+    <link rel="stylesheet" href="/static/homepage/style/personal.css?v=20260801-3">
     <link rel="stylesheet" href="/static/homepage/style/music-player.css?v=20260729-4">
 </head>
 
@@ -253,19 +253,29 @@
                                 <textarea id="guestbookContent" name="content" maxlength="500" rows="4"
                                     placeholder="留下想说的话吧…" required></textarea>
                             </label>
-                            <label class="captcha-label">
-                                <span>验证码</span>
-                                <span class="captcha-row">
-                                    <span id="captchaQuestion" class="captcha-question">加载中…</span>
-                                    <button type="button" id="captchaRefresh" class="captcha-refresh-btn" title="换一题">↻</button>
-                                </span>
-                                <input id="captchaInput" name="captcha" maxlength="4" placeholder="输入答案" required>
-                            </label>
                             <div class="guestbook-actions">
                                 <span id="guestbookHint" role="status"></span>
                                 <button type="submit">发送留言</button>
                             </div>
                         </form>
+
+                        <!-- CAPTCHA 弹窗 -->
+                        <div class="captcha-overlay" id="captchaOverlay" aria-hidden="true">
+                            <div class="captcha-dialog">
+                                <h4 class="captcha-dialog-title">验证码</h4>
+                                <p class="captcha-dialog-desc">请输入下方算式的答案</p>
+                                <div class="captcha-question-row">
+                                    <span id="captchaQuestion" class="captcha-question">加载中…</span>
+                                    <button type="button" id="captchaRefresh" class="captcha-refresh-btn" title="换一题">↻</button>
+                                </div>
+                                <input id="captchaInput" class="captcha-input" maxlength="4" placeholder="输入答案">
+                                <div class="captcha-dialog-actions">
+                                    <span id="captchaError" class="captcha-error"></span>
+                                    <button type="button" id="captchaCancel" class="captcha-cancel-btn">取消</button>
+                                    <button type="button" id="captchaConfirm" class="captcha-confirm-btn">确认发送</button>
+                                </div>
+                            </div>
+                        </div>
                     </section>
                 </div>
                 <section class="guestbook-comments" aria-label="留言展示">
@@ -375,7 +385,7 @@
     <script src="/static/homepage/site.js?v=20260801-1" defer></script>
     <script src="/static/homepage/music-player.js?v=20260801-3" defer></script>
     <script src="/static/homepage/ameath-pet.js?v=20260729-3" defer></script>
-    <script src="/static/homepage/guestbook.js?v=20260801-4" defer></script>
+    <script src="/static/homepage/guestbook.js?v=20260801-5" defer></script>
 </body>
 
 </html>
