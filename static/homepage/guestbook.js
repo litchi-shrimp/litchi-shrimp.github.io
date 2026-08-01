@@ -9,7 +9,6 @@
     var captchaRefresh = document.getElementById("captchaRefresh");
     var hint = document.getElementById("guestbookHint");
     var latestEl = document.getElementById("guestbookLatest");
-    var list = document.getElementById("guestbookList");
     var count = document.getElementById("guestbookCount");
     var apiBase = "https://ecosilk.cn";
     var avatarUrl = "/static/homepage/ameath/ameath_content.png";
@@ -60,24 +59,18 @@
         return article;
     }
 
-    function renderLatest(message) {
+    function renderMessages(messages) {
         latestEl.replaceChildren();
-        if (!message) {
+        count.textContent = messages.length ? messages.length + " 条" : "";
+        if (!messages.length) {
             var empty = document.createElement("p");
             empty.className = "guestbook-empty";
             empty.textContent = "还没有留言，来做第一个留下痕迹的人吧。";
             latestEl.appendChild(empty);
             return;
         }
-        latestEl.appendChild(buildMessageEl(message));
-    }
-
-    function renderAll(messages) {
-        list.replaceChildren();
-        count.textContent = messages.length ? messages.length + " 条" : "";
-        if (!messages.length) return;
         messages.forEach(function (m) {
-            list.appendChild(buildMessageEl(m));
+            latestEl.appendChild(buildMessageEl(m));
         });
     }
 
@@ -95,17 +88,10 @@
     }
 
     function loadMessages() {
-        // Load latest
-        fetch(apiBase + "/api/guestbook/latest")
-            .then(function (r) { return r.json(); })
-            .then(function (data) { renderLatest(data.message); })
-            .catch(function () { renderLatest(null); });
-
-        // Load all
         fetch(apiBase + "/api/guestbook")
             .then(function (r) { return r.json(); })
-            .then(function (data) { renderAll(data.messages || []); })
-            .catch(function () { renderAll([]); });
+            .then(function (data) { renderMessages(data.messages || []); })
+            .catch(function () { renderMessages([]); });
     }
 
     if (captchaRefresh) {
