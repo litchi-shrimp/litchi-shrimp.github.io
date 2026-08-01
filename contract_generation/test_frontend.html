@@ -950,7 +950,7 @@
         </div>
         <div class="sidebar-footer" style="padding:10px 12px;border-top:1px solid var(--border);flex-shrink:0;">
             <div style="font-size:10px;color:var(--text-muted);margin-bottom:4px;white-space:nowrap;">服务地址</div>
-            <input type="text" id="serverUrl" value="http://8.149.244.29:8001"
+            <input type="text" id="serverUrl" value="https://ecosilk.cn"
                 style="width:100%;padding:6px 8px;border:1px solid var(--border);border-radius:4px;font-size:11px;font-family:var(--font-mono);outline:none;background:var(--bg-white);color:var(--text);"
                 onchange="saveServerUrl()">
         </div>
@@ -1229,7 +1229,7 @@
         function getBaseUrl() {
             const el = document.getElementById('serverUrl');
             if (el && el.value) return el.value.replace(/\/+$/, '');
-            return (window.SERVER_URL || 'http://8.149.244.29:8001').replace(/\/+$/, '');
+            return (window.SERVER_URL || 'https://ecosilk.cn').replace(/\/+$/, '');
         }
 
         function fillSampleText() {
@@ -1243,7 +1243,7 @@
         }
 
         function saveServerUrl() {
-            const url = document.getElementById('serverUrl').value.trim() || 'http://8.149.244.29:8001';
+            const url = document.getElementById('serverUrl').value.trim() || 'https://ecosilk.cn';
             try { localStorage.setItem('cg_server_url', url); } catch (_) { }
         }
 
@@ -1939,28 +1939,17 @@
         // ==================== INIT ====================
         document.addEventListener('DOMContentLoaded', () => {
             loadServerUrl();
-            renderHistory();
 
-            // Restore last active session
+            // 刷新即清空：取消后端进行中的会话，清除本地缓存
             const activeId = getActiveSessionId();
             if (activeId) {
-                const sessions = loadSessions();
-                const active = sessions.find(s => s.id === activeId);
-                if (active) {
-                    state.sessionId = active.id;
-                    state.sessionTitle = active.title || '';
-                    document.getElementById('headerTitle').textContent = active.title || '合同智能生成';
-                    document.getElementById('chatWelcome').style.display = 'none';
-                    document.getElementById('userInput').disabled = false;
-                    document.getElementById('btnSend').disabled = false;
-                    document.getElementById('btnSample').style.display = '';
-                    document.getElementById('inputHint').textContent = '输入内容后按 Enter 发送';
-                    document.getElementById('statusDot').className = 'status-dot connected';
-                    renderHistory();
-                    connectSSE();
-                }
+                const baseUrl = getBaseUrl();
+                fetch(`${baseUrl}/api/contract/session/${activeId}`, { method: 'DELETE', keepalive: true }).catch(() => {});
             }
+            setActiveSessionId(null);
+            try { localStorage.removeItem(LS_PREFIX); } catch (_) {}
 
+            renderHistory();
             initOutlineResize();
 
             // Handle window resize
@@ -1970,10 +1959,11 @@
             });
         });
 
-        // Clean up on unload
+        // 离开页面时取消后端会话，不保留任何状态
         window.addEventListener('beforeunload', () => {
             if (state.sessionId) {
-                updateSessionRecord(state.sessionId, { lastActive: Date.now() });
+                const baseUrl = getBaseUrl();
+                fetch(`${baseUrl}/api/contract/session/${state.sessionId}`, { method: 'DELETE', keepalive: true }).catch(() => {});
             }
             if (state.eventSource) state.eventSource.close();
         });
