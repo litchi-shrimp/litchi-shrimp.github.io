@@ -677,28 +677,4 @@ body {
     .projects-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
     .comms-grid { grid-template-columns: 1fr; }
     .comms-divider { display: none; }
-
-    /* 移动端头像卡片 */
-    .mobile-avatar-card {
-        display: flex !important;
-        justify-content: center;
-        padding: 10px 0;
-    }
-    .mobile-avatar {
-        position: relative;
-        width: 80px;
-        height: 80px;
-        border-radius: 50%;
-        overflow: hidden;
-        border: 1.5px solid rgba(255,255,255,0.25);
-    }
-    .mobile-avatar .avatar-img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-}
-
-@media (min-width: 769px) {
-    .mobile-avatar-card { display: none !important; }
 }
