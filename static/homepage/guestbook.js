@@ -11,7 +11,7 @@
     var latestEl = document.getElementById("guestbookLatest");
     var count = document.getElementById("guestbookCount");
     var apiBase = "https://ecosilk.cn";
-    var avatarUrl = "/static/homepage/ameath/ameath_content.png";
+    var avatarUrl = "/static/homepage/ameath/default_img.jpg";
 
     if (!form) return;
 
