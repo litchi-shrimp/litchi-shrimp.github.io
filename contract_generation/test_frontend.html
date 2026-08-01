@@ -1939,28 +1939,17 @@
         // ==================== INIT ====================
         document.addEventListener('DOMContentLoaded', () => {
             loadServerUrl();
-            renderHistory();
 
-            // Restore last active session
+            // 刷新即清空：取消后端进行中的会话，清除本地缓存
             const activeId = getActiveSessionId();
             if (activeId) {
-                const sessions = loadSessions();
-                const active = sessions.find(s => s.id === activeId);
-                if (active) {
-                    state.sessionId = active.id;
-                    state.sessionTitle = active.title || '';
-                    document.getElementById('headerTitle').textContent = active.title || '合同智能生成';
-                    document.getElementById('chatWelcome').style.display = 'none';
-                    document.getElementById('userInput').disabled = false;
-                    document.getElementById('btnSend').disabled = false;
-                    document.getElementById('btnSample').style.display = '';
-                    document.getElementById('inputHint').textContent = '输入内容后按 Enter 发送';
-                    document.getElementById('statusDot').className = 'status-dot connected';
-                    renderHistory();
-                    connectSSE();
-                }
+                const baseUrl = getBaseUrl();
+                fetch(`${baseUrl}/api/contract/session/${activeId}`, { method: 'DELETE', keepalive: true }).catch(() => {});
             }
+            setActiveSessionId(null);
+            try { localStorage.removeItem(LS_PREFIX); } catch (_) {}
 
+            renderHistory();
             initOutlineResize();
 
             // Handle window resize
@@ -1970,10 +1959,11 @@
             });
         });
 
-        // Clean up on unload
+        // 离开页面时取消后端会话，不保留任何状态
         window.addEventListener('beforeunload', () => {
             if (state.sessionId) {
-                updateSessionRecord(state.sessionId, { lastActive: Date.now() });
+                const baseUrl = getBaseUrl();
+                fetch(`${baseUrl}/api/contract/session/${state.sessionId}`, { method: 'DELETE', keepalive: true }).catch(() => {});
             }
             if (state.eventSource) state.eventSource.close();
         });
