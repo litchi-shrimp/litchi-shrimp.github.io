@@ -11,6 +11,7 @@
     var latestEl = document.getElementById("guestbookLatest");
     var list = document.getElementById("guestbookList");
     var count = document.getElementById("guestbookCount");
+    var apiBase = "https://ecosilk.cn";
     var avatarUrl = "/static/homepage/ameath/ameath_content.png";
 
     if (!form) return;
@@ -82,7 +83,7 @@
 
     function loadCaptcha() {
         captchaQuestion.textContent = "加载中…";
-        fetch("/api/guestbook/captcha")
+        fetch(apiBase + "/api/guestbook/captcha")
             .then(function (r) { return r.json(); })
             .then(function (data) {
                 captchaToken = data.token;
@@ -95,13 +96,13 @@
 
     function loadMessages() {
         // Load latest
-        fetch("/api/guestbook/latest")
+        fetch(apiBase + "/api/guestbook/latest")
             .then(function (r) { return r.json(); })
             .then(function (data) { renderLatest(data.message); })
             .catch(function () { renderLatest(null); });
 
         // Load all
-        fetch("/api/guestbook")
+        fetch(apiBase + "/api/guestbook")
             .then(function (r) { return r.json(); })
             .then(function (data) { renderAll(data.messages || []); })
             .catch(function () { renderAll([]); });
@@ -135,7 +136,7 @@
         hint.textContent = "发送中…";
         form.querySelector("button").disabled = true;
 
-        fetch("/api/guestbook", {
+        fetch(apiBase + "/api/guestbook", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
