@@ -685,6 +685,7 @@ body {
         padding: 10px 0;
     }
     .mobile-avatar {
+        position: relative;
         width: 80px;
         height: 80px;
         border-radius: 50%;
