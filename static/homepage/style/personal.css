@@ -275,6 +275,41 @@ html {
     background: rgba(26, 51, 81, 0.42);
 }
 
+/* 验证码 */
+.captcha-label {
+    display: grid;
+    gap: 5px;
+}
+
+.captcha-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.captcha-question {
+    color: rgba(224, 240, 255, 0.8);
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.captcha-refresh-btn {
+    padding: 2px 8px;
+    border: 1px solid rgba(183, 217, 255, 0.25);
+    border-radius: 6px;
+    background: rgba(26, 51, 81, 0.35);
+    color: rgba(224, 240, 255, 0.7);
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1.2;
+    transition: border-color 0.2s, background 0.2s;
+}
+
+.captcha-refresh-btn:hover {
+    border-color: rgba(205, 191, 255, 0.5);
+    background: rgba(26, 51, 81, 0.5);
+}
+
 .guestbook-actions {
     display: flex;
     align-items: center;
@@ -320,6 +355,16 @@ html {
 .guestbook-comments-header span {
     color: rgba(224, 240, 255, 0.5);
     font-size: 11px;
+}
+
+.guestbook-latest {
+    margin-bottom: 14px;
+    min-height: 20px;
+}
+
+.guestbook-latest .guestbook-message {
+    border-color: rgba(205, 191, 255, 0.35);
+    background: linear-gradient(100deg, rgba(57, 107, 153, 0.2), rgba(156, 125, 189, 0.16), rgba(213, 143, 184, 0.14));
 }
 
 .guestbook-list {

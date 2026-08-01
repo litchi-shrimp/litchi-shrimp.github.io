@@ -4,14 +4,19 @@
     var form = document.getElementById("guestbookForm");
     var nicknameInput = document.getElementById("guestbookNickname");
     var contentInput = document.getElementById("guestbookContent");
+    var captchaQuestion = document.getElementById("captchaQuestion");
+    var captchaInput = document.getElementById("captchaInput");
+    var captchaRefresh = document.getElementById("captchaRefresh");
     var hint = document.getElementById("guestbookHint");
+    var latestEl = document.getElementById("guestbookLatest");
     var list = document.getElementById("guestbookList");
     var count = document.getElementById("guestbookCount");
     var avatarUrl = "/static/homepage/ameath/ameath_content.png";
-    var canManage = false;
-    var latestMessages = [];
 
-    if (!form || !nicknameInput || !contentInput || !hint || !list || !count) return;
+    if (!form) return;
+
+    var captchaToken = null;
+    var submitting = false;
 
     function formatTime(value) {
         var date = new Date(value);
@@ -20,164 +25,145 @@
         });
     }
 
-    function renderMessages(messages) {
-        latestMessages = messages;
-        list.replaceChildren();
-        count.textContent = messages.length ? messages.length + " 条" : "";
-        if (!messages.length) {
+    function buildMessageEl(message) {
+        var article = document.createElement("article");
+        article.className = "guestbook-message";
+        var row = document.createElement("div");
+        row.className = "guestbook-message-row";
+
+        var avatar = document.createElement("img");
+        avatar.className = "guestbook-avatar";
+        avatar.src = avatarUrl;
+        avatar.alt = "";
+
+        var body = document.createElement("div");
+        body.className = "guestbook-message-body";
+
+        var meta = document.createElement("div");
+        meta.className = "guestbook-message-meta";
+
+        var name = document.createElement("strong");
+        name.textContent = message.nickname;
+
+        var time = document.createElement("time");
+        time.dateTime = message.created_at;
+        time.textContent = formatTime(message.created_at);
+
+        var content = document.createElement("p");
+        content.textContent = message.content;
+
+        meta.append(name, time);
+        body.append(meta, content);
+        row.append(avatar, body);
+        article.appendChild(row);
+        return article;
+    }
+
+    function renderLatest(message) {
+        latestEl.replaceChildren();
+        if (!message) {
             var empty = document.createElement("p");
             empty.className = "guestbook-empty";
             empty.textContent = "还没有留言，来做第一个留下痕迹的人吧。";
-            list.appendChild(empty);
+            latestEl.appendChild(empty);
             return;
         }
+        latestEl.appendChild(buildMessageEl(message));
+    }
 
-        messages.forEach(function (message) {
-            var item = document.createElement("article");
-            item.className = "guestbook-message";
-            item.appendChild(buildMessage(message, false));
-            (message.replies || []).forEach(function (reply) {
-                var replyItem = document.createElement("article");
-                replyItem.className = "guestbook-message guestbook-reply";
-                replyItem.appendChild(buildMessage(reply, true));
-                item.appendChild(replyItem);
-            });
-            list.appendChild(item);
+    function renderAll(messages) {
+        list.replaceChildren();
+        count.textContent = messages.length ? messages.length + " 条" : "";
+        if (!messages.length) return;
+        messages.forEach(function (m) {
+            list.appendChild(buildMessageEl(m));
         });
     }
 
-    function buildMessage(message, isReply) {
-        var fragment = document.createDocumentFragment();
-        var row = document.createElement("div");
-        row.className = "guestbook-message-row";
-            var avatar = document.createElement("img");
-            avatar.className = "guestbook-avatar";
-            avatar.src = avatarUrl;
-            avatar.alt = "";
-            var body = document.createElement("div");
-            body.className = "guestbook-message-body";
-            var meta = document.createElement("div");
-            meta.className = "guestbook-message-meta";
-            var name = document.createElement("strong");
-            name.textContent = message.nickname;
-            var time = document.createElement("time");
-            time.dateTime = message.created_at;
-            time.textContent = formatTime(message.created_at);
-            var content = document.createElement("p");
-            content.textContent = message.content;
-            meta.append(name, time);
-            body.append(meta, content);
-        row.append(avatar, body);
-        fragment.appendChild(row);
-
-        if (canManage) {
-            var controls = document.createElement("div");
-            controls.className = "guestbook-admin-actions";
-            if (!isReply) {
-                var replyButton = document.createElement("button");
-                replyButton.type = "button";
-                replyButton.textContent = "回复";
-                replyButton.addEventListener("click", function () { showReplyForm(message.id, controls); });
-                controls.appendChild(replyButton);
-            }
-            var deleteButton = document.createElement("button");
-            deleteButton.type = "button";
-            deleteButton.textContent = "删除";
-            deleteButton.addEventListener("click", function () { deleteMessage(message.id); });
-            controls.appendChild(deleteButton);
-            fragment.appendChild(controls);
-        }
-        return fragment;
-    }
-
-    function showReplyForm(messageId, controls) {
-        if (controls.parentElement.querySelector(".guestbook-reply-form")) return;
-        var replyForm = document.createElement("form");
-        replyForm.className = "guestbook-reply-form";
-        var textarea = document.createElement("textarea");
-        textarea.maxLength = 500;
-        textarea.rows = 2;
-        textarea.placeholder = "以 UsotsukiKaze 的身份回复…";
-        textarea.required = true;
-        var submit = document.createElement("button");
-        submit.type = "submit";
-        submit.textContent = "发送回复";
-        replyForm.append(textarea, submit);
-        replyForm.addEventListener("submit", function (event) {
-            event.preventDefault();
-            var content = textarea.value.trim();
-            if (!content) return;
-            submit.disabled = true;
-            fetch("/api/guestbook/" + messageId + "/replies", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ content: content })
-            }).then(handleResponse).then(function () {
-                loadMessages();
-            }).catch(function () {
-                submit.disabled = false;
-            });
-        });
-        controls.parentElement.appendChild(replyForm);
-        textarea.focus();
-    }
-
-    function deleteMessage(messageId) {
-        if (!window.confirm("确定删除这条留言吗？")) return;
-        fetch("/api/guestbook/" + messageId, { method: "DELETE" })
-            .then(function (response) {
-                if (!response.ok) throw new Error("删除失败");
-                return loadMessages();
+    function loadCaptcha() {
+        captchaQuestion.textContent = "加载中…";
+        fetch("/api/guestbook/captcha")
+            .then(function (r) { return r.json(); })
+            .then(function (data) {
+                captchaToken = data.token;
+                captchaQuestion.textContent = data.question;
             })
-            .catch(function () {});
-    }
-
-    function handleResponse(response) {
-        return response.json().then(function (data) {
-            if (!response.ok) throw new Error(data.detail || "操作失败");
-            return data;
-        });
+            .catch(function () {
+                captchaQuestion.textContent = "获取失败，点击刷新";
+            });
     }
 
     function loadMessages() {
-        return fetch("/api/guestbook")
-            .then(handleResponse)
-            .then(function (data) { renderMessages(data.messages || []); })
-            .catch(function () {
-                // 后端不可用时显示空状态
-                renderMessages([]);
-            });
+        // Load latest
+        fetch("/api/guestbook/latest")
+            .then(function (r) { return r.json(); })
+            .then(function (data) { renderLatest(data.message); })
+            .catch(function () { renderLatest(null); });
+
+        // Load all
+        fetch("/api/guestbook")
+            .then(function (r) { return r.json(); })
+            .then(function (data) { renderAll(data.messages || []); })
+            .catch(function () { renderAll([]); });
+    }
+
+    if (captchaRefresh) {
+        captchaRefresh.addEventListener("click", loadCaptcha);
     }
 
     form.addEventListener("submit", function (event) {
         event.preventDefault();
+        if (submitting) return;
+
         var nickname = nicknameInput.value.trim();
         var content = contentInput.value.trim();
-        if (!nickname || !content) return;
+        var answer = captchaInput.value.trim();
 
+        if (!nickname || !content || !answer) return;
+        if (!captchaToken) {
+            hint.textContent = "请等待验证码加载完成";
+            return;
+        }
+
+        var answerNum = parseInt(answer, 10);
+        if (isNaN(answerNum)) {
+            hint.textContent = "验证码请输入数字";
+            return;
+        }
+
+        submitting = true;
         hint.textContent = "发送中…";
         form.querySelector("button").disabled = true;
+
         fetch("/api/guestbook", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ nickname: nickname, content: content })
-        }).then(handleResponse).then(function () {
+            body: JSON.stringify({
+                nickname: nickname,
+                content: content,
+                captcha_token: captchaToken,
+                captcha_answer: answerNum
+            })
+        }).then(function (response) {
+            return response.json().then(function (data) {
+                if (!response.ok) throw new Error(data.detail || "发送失败");
+                return data;
+            });
+        }).then(function () {
             contentInput.value = "";
-            hint.textContent = "留言已送达。";
+            captchaInput.value = "";
+            hint.textContent = "留言已送达";
+            loadCaptcha();
             loadMessages();
         }).catch(function (error) {
-            hint.textContent = error.message || "发送失败，请稍后重试。";
+            hint.textContent = error.message || "发送失败，请稍后重试";
+            loadCaptcha();
         }).finally(function () {
+            submitting = false;
             form.querySelector("button").disabled = false;
         });
     });
 
-    fetch("/api/guestbook/permissions")
-        .then(handleResponse)
-        .then(function (data) {
-            canManage = Boolean(data.can_manage);
-            renderMessages(latestMessages);
-        })
-        .catch(function () {});
+    loadCaptcha();
     loadMessages();
 })();
