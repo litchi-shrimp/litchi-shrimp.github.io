@@ -1,0 +1,3129 @@
+![](images/b9d34336d318ba9a49fd1a75dd3b2382ccdad6b9bd40454af679f823afe05d68.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a rectangular air conditioner unit (no text or symbols)
+</details>
+
+Room Air Conditioner
+
+# USER MANUAL
+
+MODEL NUMBER:
+
+MSXE-10CRDN8
+
+MSXE-13CRDN8
+
+MSXE-19CRDN8
+
+MSXE-25CRDN8
+
+![](images/715ab1d666c1061a0b346a0cf152a39901156c9ea00cddf687643560113e0c06.jpg)
+
+Warning notices: Before using this product, please read this manual and SAFETY MANUAL(if any) carefully and keep it for future reference. The design and specifications are subject to change without prior notice for product improvement. Consult with your dealer or manufacturer for details.The diagram above is just for reference. Please take the appearance of the actual product as the standard.
+
+# THANK YOU LETTER
+
+Thank you for choosing Midea! Before using your new Midea product, please read this manual thoroughly to ensure that you know how to operate the features and functions that your new appliance offers in a safe way.
+
+# CONTENTS
+
+THANK YOU LETTER 01
+
+SAFETY PRECAUTIONS 02
+
+SPECIFICATIONS 06
+
+PRODUCT OVERVIEW 07
+
+PRODUCT INSTALLATION 08
+
+Install Your Indoor Unit 10
+
+Install Your Outdoor Unit 20
+
+Refrigent Piping Connection 25
+
+Air Evacuation 29
+
+Electrical And Gas Leak Checks 31
+
+Test Run 32
+
+Packing And Unpacking The Unit 33
+
+OPERATION INSTRUCTIONS 34
+
+Indoor Unit Display 34
+
+Remote Control Operation 39
+
+CARE AND MAINTENANCE 49
+
+TROUBLESHOOTING 51
+
+TRADEMARKS, COPYRIGHTS AND LEGAL STATEMENT 54
+
+DISPOSAL AND RECYCLING 54
+
+DATA PROTECTION NOTICE 55
+
+# SAFETY PRECAUTIONS
+
+It's really important you read Safety Precautions Before Operation and Installation Incorrect installation due to ignoring instructions can cause serious damage or injury. The seriousness of potential damage or injuries is classified as either a WARNING or CAUTION.
+
+Explanation of Symbols 
+
+<table><tr><td><img src="images/43ec09268afc63ba32e6713683796717a31df28925266188c495e288718b9e84.jpg"/></td><td>Warning of electrical voltageThis symbol indicates that there is a danger to life and health of persons due to voltage.</td></tr><tr><td><img src="images/4dff49604446c8eb66c6c712952195cf0825a845668f8a79509ac1ab5774fadd.jpg"/></td><td>WarningThe signal word indicates a hazard with a medium level of risk which, if not avoided, may result in death or serious injury.</td></tr><tr><td><img src="images/e9904ab3e3f1e9af31189e6b3a3737a2cc82f727ec0f9cc27b6caa664283e77b.jpg"/></td><td>CautionThe signal word indicates a hazard with a low degree of risk which, if not avoided, may result in minor or moderate injury.</td></tr><tr><td><img src="images/61877cca29cfa8998094781021c4740bc7c36a14735ae7f53f85a7ffca9443aa.jpg"/></td><td>AttentionThe signal word indicates important information (e.g. damage to property), but not danger.</td></tr><tr><td><img src="images/8a9a89a3c2c69cf00e852670b3ecf45b103566a28752a50462a53b09c86574d3.jpg"/></td><td>Observe instructionsThis symbol indicates that a service technician should only operate and maintain this appliance in accordance with the operating instructions.</td></tr></table>
+
+Read these operating instructions carefully and attentively before using/commissioning the unit and keep them in the immediate vicinity of the installation site or unit for later use!
+
+![](images/2b78c8028d3ff43e601f4567ec72e2ce6967d44957d48dc12ecc7dc2109fbb8e.jpg)
+
+# WARNING
+
+This appliance can be used by children aged from 8 years and above and persons with reduced physical, sensory or mental capabilities or lack of experience and knowledge if they have been given supervision or instruction concerning use of the appliance in a safe way and understand the hazards involved. Children shall not play with the appliance. Cleaning and user maintenance shall not be made by children without supervision (European Union countries).
+
+This appliance is not intended for use by persons(including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance.
+
+![](images/4c5b313f787359e1aa7fb2b946e46d22279d5b12503ce74312ca88ae8d9ce480.jpg)
+
+# WARNING FOR PRODUCT USE
+
+- If an abnormal situation arises (like a burning smell), immediately turn off the unit and disconnect the power. Call your dealer for instructions to avoid electric shock, fire or injury.   
+- Do not insert fingers, rods or other objects into the air inlet or outlet. This may cause injury, since the fan may be rotating at high speeds.   
+- Do not use flammable sprays such as hair spray, lacquer or paint near the unit. This may cause fire or combustion.   
+- Do not operate the air conditioner in places near or around combustible gases. Emitted gas may collect around the unit and cause explosion.   
+- Do not operate your air conditioner in a wet room such as a bathroom or laundry room. Too much exposure to water can cause electrical components to short circuit.   
+- Do not expose your body directly to cool air for a prolonged period of time.   
+- Do not allow children to play with the air conditioner. Children must be supervised around the unit at all times.   
+- If the air conditioner is used together with burners or other heating devices, thoroughly ventilate the room to avoid oxygen deficiency.   
+- In certain functional environments, such as kitchens, server rooms, etc., the use of specially designed air-conditioning units is highly recommended.
+
+![](images/e64c5c54b067247fe05a985a5188fc128d8ba45129c98d80677c1b4ddbf2216c.jpg)
+
+# ELECTRICAL WARNINGS
+
+- Only use the specified power cord. If the power cord is damaged, it must be replaced by the manufacturer, its service agent or similarly qualified persons in order to avoid a hazard.   
+- The product must be properly grounded at the time of installation, or electrical shock may occur.   
+- For all electrical work, follow all local and national wiring standards, regulations, and the Installation Manual. Connect cables tightly, and clamp them securely to prevent external forces from damaging the terminal. Improper electrical connections can overheat and cause fire, and may also cause shock. All electrical connections must be made according to the Electrical Connection Diagram located on the panels of the indoor and outdoor units.   
+- All wiring must be properly arranged to ensure that the control board cover can close properly. If the control board cover is not closed properly, it can lead to corrosion and cause the connection points on the terminal to heat up, catch fire, or cause electrical shock.   
+- Disconnection must be incorporated in the fixed wiring in accordance with the wiring rules.   
+- Do not pull power cord to unplug unit. Hold the plug firmly and pull it from the outlet. Pulling directly on the cord can damage it, which can lead to fire or electric shock.   
+- Do not modify the length of the power supply cord or use an extension cord to power the unit.   
+- Do not share the electrical outlet with other appliances. Improper or insufficient power supply can cause fire or electrical shock.   
+- Keep power plug clean. Remove any dust or grime that accumulates on or around the plug. Dirty plugs can cause fire or electric shock.   
+- If connecting power to fixed wiring, an all-pole disconnection device which has at least 3mm clearances in all poles, and have a leakage current that may exceed 10mA, the residual current device(RCD) having a rated residual operating current not exceeding 30mA, and disconnection must be incorporated in the fixed wiring in accordance with the wiring rules.
+
+# TAKE NOTE OF FUSE SPECIFICATIONS
+
+The air conditioner's circuit board (PCB) is designed with a fuse to provide overcurrent protection. The specifications of the fuse are printed on the circuit board, such as: T3.15AL/250VAC, T5AL/250VAC, T3.15A/250VAC, T5A/250VAC, T20A/250VAC, T30A/250VAC, etc.
+
+NOTE: For the units with R32 refrigerant, only the blast-proof ceramic fuse can be used.
+
+# UV-C lamp(Applicable to the unit contains an UV-C lamp only)
+
+This appliance contains a UV-C lamp. Read the maintenance instructions before opening the appliance.
+
+- Do not operate UV-C lamps outside of the appliance.   
+- Appliances that are obviously damaged must not be operated.   
+- Unintended use of the appliance or damage to the housing may result in the escape of dangerous UV-C radiation. UV-C radiation may, even in small doses, cause harm to the eyes and skin.   
+- Before opening doors and access panels bearing the ULTRAVIOLET RADIATION hazard symbol for the conducting USER MAINTENANCE, it is recommended to disconnect the power.   
+- The UV-C lamp can not be cleaned, repaired and replaced.   
+- UV-C BARRIERS bearing the ULTRAVIOLET RADIATION hazard symbol should not be removed.
+
+![](images/f5a57e606cf5a1366e650d2de0bd5e9026344165226c653be66dc978f6fa7a4a.jpg)
+
+# WARNING
+
+This appliance contains an UV emitter. Do not stare at the light source.
+
+# ⚠️ WARNINGS FOR PRODUCT INSTALLATION
+
+- Installation must be performed by an authorized dealer or specialist. Defective installation can cause water leakage, electrical shock, or fire.   
+- Installation must be performed according to the installation instructions. (In North America, installation must be performed in accordance with the requirement of NEC and CEC by authorized personnel only).   
+Improper installation can cause water leakage, electrical shock, or fire.   
+- Contact an authorized service technician for repair or maintenance of this unit. This appliance shall be installed in accordance with national wiring regulations.   
+- Only use the included accessories, parts, and specified parts for installation. Using non-standard parts can cause water leakage, electrical shock, fire, and can cause the unit to fail.   
+- Install the unit in a firm location that can support the unit's weight. If the chosen location cannot support the unit's weight, or the installation is not done properly, the unit may drop and cause serious injury and damage.   
+• Install drainage piping according to the instructions in this manual. Improper drainage may cause water damage to your home and property.   
+- For units that have an auxiliary electric heater, do not install the unit within 1 meter (3 feet) of any combustible materials.   
+- Do not install the unit in a location that may be exposed to combustible gas leaks. If combustible gas accumulates around the unit, it may cause fire.   
+- Do not turn on the power until all work has been completed.   
+- When moving or relocating the air conditioner, consult experienced service technicians for disconnection and reinstallation of the unit.   
+- How to install the appliance to its support, please read the information for details in "indoor unit installation" and "outdoor unit installation" sections.
+
+- Turn off the air conditioner and disconnect the power if you are not going to use it for a long time.   
+- Turn off and unplug the unit during storms.   
+- Make sure that water condensation can drain unhindered from the unit.   
+- Do not operate the air conditioner with wet hands. This may cause electric shock.   
+- Do not use device for any other purpose than its intended use.   
+- Do not climb onto or place objects on top of the outdoor unit.   
+- Do not allow the air conditioner to operate for long periods of time with doors or windows open, or if the humidity is very high.
+
+# CLEANING AND MAINTENANCE WARNINGS
+
+- Turn off the device and disconnect the power before cleaning. Failure to do so can cause electrical shock.   
+- Do not clean the air conditioner with excessive amounts of water.   
+- Do not clean the air conditioner with combustible cleaning agents. Combustible cleaning agents can cause fire or deformation.
+
+# Note about Fluorinated Gasses(Not applicable to the unit using R290 Refrigerant)
+
+- This air-conditioning unit contains fluorinated greenhouse gasses. For specific information on the type of gas and the amount, please refer to the relevant label on the unit itself or the “Owner’s Manual - Product Fiche” in the packaging of the outdoor unit. (European Union products only).   
+- Installation, service, maintenance and repair of this unit must be performed by a certified technician.   
+- Product uninstallation and recycling must be performed by a certified technician.   
+- For equipment that contains fluorinated greenhouse gases in quantities of 5 tonnes of CO2 equivalent or more, but of less than 50 tonnes of CO2 equivalent, If the system has a leak-detection system installed, it must be checked for leaks at least every 24 months.   
+- When the unit is checked for leaks, proper record-keeping of all checks is strongly recommended.
+
+![](images/7edc66018ee0dea13f628b21498b32c133ed83cf1d14a590ae189d9d289f664d.jpg)
+
+# WARNING FOR USING R32/R290 REFRIGERANT
+
+- When flammable refrigerant are employed, appliance shall be stored in a well-ventilated area where the room size corresponds to the room area as specified for operation.   
+For R32 frigerant models:   
+- Appliance shall be installed, operated and stored in a room with a floor area larger than $4\mathrm{m}^2$ .   
+- For R290 refrigerant models, appliance shall be installed, operated and stored in a   
+• room with a floor area larger than:   
+<=2.6kW units: 17.33m²   
+>2.6kW and <=3.5kW units: 25.4m $^{2}$   
+• >3.5kW and <=5.2kW units: 34.67m²   
+>5.3kW and <=7.1kW units: 47.33m²   
+Reusable mechanical connectors and flared joints are not allowed indoors.
+
+<table><tr><td>Product Model</td><td>MSXE-10CRDN8</td><td>MSXE-13CRDN8</td><td>MSXE-19CRDN8</td><td>MSXE-25CRDN8</td></tr><tr><td>Power source</td><td colspan="4">220-240V~ 50Hz,1Ph</td></tr><tr><td>Cooling capacity</td><td>10,000(4,981-11,075) Btu/h</td><td>12,000(5,865-13,321) Btu/h</td><td>18,000(7,984-19,786) Btu/h</td><td>24,000(7,200-28,000) Btu/h</td></tr><tr><td>Heating capacity</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Rated current</td><td>6.5A</td><td>7.5A</td><td>14.0A</td><td>19.0A</td></tr><tr><td>Rated power input</td><td>1,150W</td><td>1,370W</td><td>3,200W</td><td>3,700W</td></tr><tr><td>Outdoor unit resistance class</td><td colspan="4">IP24</td></tr></table>
+
+# PRODUCT OVERVIEW
+
+![](images/4a2876ad738fc6c7794f927780c43f26889cd83711a96b3ff605b468c1a38088.jpg)
+
+# NOTE ON ILLUSTRATIONS:
+
+Illustrations in this manual are for explanatory purposes. The actual shape of your indoor unit may be slightly different. The actual shape shall prevail.
+
+![](images/14877faed746f5bcad1afdb4d535c305f0bf9be1df5af66bdc86835ffd896a65.jpg)
+
+① Wall Mounting Plate   
+② Front Panel   
+③ Power Cable(some units)   
+④ Louver
+
+⑤ Functional Filter (On Back of Main Filter - Some Units)   
+⑥ Drainage Pipe   
+⑦ Signal Cable   
+⑧ Refrigerant Piping
+
+⑨ Remote Controller   
+⑩ Remote controller Holder (some units)   
+⑪ Outdoor Unit Power Cable (some units)
+
+# It would be perfect you had these tools
+
+![](images/606ca09f1060af27ef2690db1712d24c478ec9238af09c0ecdc8f404b2c67b43.jpg)  
+Gloves
+
+![](images/75e7ec1b71990a9909887f8b4c49ea366f622400bddaffaaa97097e7e010942c.jpg)  
+Screwdriver & wrench
+
+![](images/04150158ed8462a4a91377a99c48fd355dc3d75d6a3e7a79dac31da7dda4dcc2.jpg)  
+Hammer
+drill
+
+![](images/a7e80bd5ffa419b7c71622a2aa16f850094076420ce8ceef89fd8c67e1da66d7.jpg)  
+Core drill
+
+![](images/66cada2fc9e446a79cc68bbb2704aecb396e421db91ea08cda471aae42219d3b.jpg)  
+Goggles & masks
+
+![](images/870bb3622504b9e3fc45f18196307dfa553340b943fa1a047d00b5b078e23b04.jpg)  
+Vinyl tape
+
+# PRODUCTION INSTALLATION
+
+# ACCESSORIES
+
+The air conditioning system comes with the following accessories. Use all of the installation parts and accessories to install the air conditioner. Improper installation may result in water leakage, electrical shock and fire, or cause the equipment to fail. The items are not included with the air conditioner must be purchased separately.
+
+<table><tr><td>Name of Accessories</td><td>Q&#x27;ty(pc)</td><td>Shape</td><td>Name of Accessories</td><td>Q&#x27;ty(pc)</td><td>Shape</td></tr><tr><td>Manual</td><td>2-3</td><td><img src="images/04ded292191f439e4d008548e1058f9b9bd64ff8de95a52b2fc5102f54c5096e.jpg"/></td><td>Remote controller</td><td>1</td><td>[530Z]</td></tr><tr><td>Drain joint (for cooling &amp; heating models)</td><td>1</td><td><img src="images/452347077fcb7b77830e200aa6355759d374f1e5dd7d3341f1e45bb459f5e867.jpg"/></td><td>Battery</td><td>2</td><td><img src="images/c644c467657f8f641943bdf108ae2bdf65cb22bbea48ccbeef5580d7a3273a17.jpg"/></td></tr><tr><td>Seal (for cooling &amp; heating models)</td><td>1</td><td><img src="images/d0defecd09bdf449547c8aa2ac70f4d5a147f616de87de1d180de9b928f7d56f.jpg"/></td><td>Remote controller holder(purchase separately)</td><td>1</td><td><img src="images/f1945a29d8ea44a43819f3feb28a8316c600cf02836cf1ea00339470b33116c1.jpg"/></td></tr><tr><td>Mounting plate</td><td>1</td><td><img src="images/4162c01a5b85da8a17680ed38ff85b22563bed73f900e64d7a3d658944a0c880.jpg"/></td><td>Fixing screw for remote controller holder(purchase separately)</td><td>2</td><td><img src="images/b6936a91ef702741313b4d120485afb584d443abe9afd2447838680a2d6ef466.jpg"/></td></tr><tr><td>Anchor</td><td>5-8 (depending on models)</td><td><img src="images/6edd7e5f4b96a654d7119bf1357d623576e937681663344a2568a52af4c829c0.jpg"/></td><td rowspan="2">Small Filter (Need to be installed on the back of main air filter by the authorized technician while installing the machine)</td><td rowspan="2">1-2 (depending on models)</td><td rowspan="2"><img src="images/89e66a5502f090bf81c3de64a82964f80fbb174d19314e20237d8046343e7ac6.jpg"/></td></tr><tr><td>Mounting plate fixing screw</td><td>5-8 (depending on models)</td><td><img src="images/122ad418bd86190bc0c419f39c1b79a8d5b94e676e96ea5b5c9e1ddf13667711.jpg"/></td></tr><tr><td>Transfer connector (Φ19( 3/4in) transfer to Φ16( 5/8in). Packed with the indoor unit, the North America market 33K hyper heat unit only.)</td><td>1</td><td colspan="4"><img src="images/23758118d3bab8af8b85764eb562208597009820075b29ed43b708b38e37b754.jpg"/>NOTE: In North America market, when 33K hyper heat indoor unit matches with multi-zone condensers, you must purchase pipe with liquid side Φ9.52( 3/8in) and gas side Φ16( 5/8in).The transfer connector need to be installed on the indoor unit gas side to meet the pipe size.</td></tr></table>
+
+<table><tr><td>Name</td><td colspan="2">Shape</td><td>Quantity(PC)</td></tr><tr><td rowspan="6">Connecting pipe assembly</td><td rowspan="2">Liquid side</td><td>Φ6.35(1/4in)</td><td rowspan="6">Parts you must purchase separately. Consult the dealer about the proper pipe size of the unit you purchased.</td></tr><tr><td>Φ9.52(3/8in)</td></tr><tr><td rowspan="4">Gas side</td><td>Φ9.52(3/8in)</td></tr><tr><td>Φ12.7(1/2in)</td></tr><tr><td>Φ16(5/8in)</td></tr><tr><td>Φ19(3/4in)</td></tr><tr><td>Magnetic ring and belt(if supplied,please refer to the wiring diagram to install it on the connective cable.)</td><td colspan="2"><img src="images/61241a8be9a1720f9d4461c1e71bf80e1167e02bca262f976c6836f42d260507.jpg"/> Pass the belt through the hole of the Magnetic ring to fix it on the cable</td><td>Varies by model</td></tr></table>
+
+# INSTALLATION SUMMARY - INDOOR UNIT
+
+![](images/68329ebb20eaa8e1ad9bbb9436863455ad4622fa557441e351b77f60b8478a53.jpg)
+
+<details>
+<summary>text_image</summary>
+
+≥15cm (5-7/8")
+≥12cm
+(4-3/4")
+≥12cm
+(4-3/4")
+≥2.3m (7/8"
+</details>
+
+Select Installation Location
+
+![](images/6432aaf7f28300fc69c63460cb0fb75c3235d3106c2246ad32621783e9649895.jpg)
+
+<details>
+<summary>text_image</summary>
+
+2
+</details>
+
+Attach Mounting Plate
+
+![](images/017ae5d08263e7b01527b8189adb1db857714f00f54351205a42fe08f63663ef.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Technical line drawing of a mechanical clamp or bracket assembly (no text or symbols)
+</details>
+
+Determine Wall Hole Position
+
+![](images/fe1fd67bf634948e9f9abf63e103819f031fa2975d9ed80cce4f5d90c97c7003.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a hand using a handheld device to adjust a button (no text or symbols present)
+</details>
+
+Drill Wall Hole
+
+![](images/833de74c6492693e166183d9ca284b40057c23b9b1c977d61e8b93247a2666b5.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Diagram showing a mechanical tool interacting with a bolt and nut, with rotation arrows indicating movement (no text or symbols present)
+</details>
+
+Connect Piping
+
+![](images/682171fbeb3936e88ae0945fb5698e98d7ad8d3961dbf6e18fab296178755853.jpg)
+
+<details>
+<summary>text_image</summary>
+
+6
+</details>
+
+Connect Wiring
+(Not applicable for some
+locations in North America )
+
+![](images/053d14428867db268781fed3c410fb58bebda63a4f6243b10eec554ba9f4a440.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of two hands holding a coiled tube with a circular component, no text or symbols present
+</details>
+
+Prepare Drain Hose
+
+![](images/b7a46dc0eb8b470197d4a67346210e29df0bc513432afcda475aa1fd93a0a67b.jpg)
+
+<details>
+<summary>text_image</summary>
+
+8
+locations in North America )
+</details>
+
+Wrap Piping and Cable
+(Not applicable for some locations in North America)   
+![](images/147dd1617bc5093b166a4be4476de47d78752566ea9eb372912feaa6a935b75d.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of two hands holding a blank rectangular frame with a downward arrow, no text or symbols present
+</details>
+
+Mount Indoor Unit
+
+# 1 Select installation location
+
+![](images/080201152bf20995d62894bafe11c19e923ae84a2fdc60c3478edca4430d04f6.jpg)
+
+# NOTE : Prior to installation
+
+Before installing the indoor unit, refer to the label on the product box to make sure that the model number of the indoor unit matches the model number of the outdoor unit.
+
+The following are standards that will help you choose an appropriate location for the unit.
+
+# Proper installation locations meet the following standards:
+
+![](images/f063d8fba2195f224f606683ffeb685360bb6dd46f6f8dae2f7ba888a70b1c80.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a window with horizontal lines and wavy patterns inside (no text or symbols)
+</details>
+
+√ Good air circulation
+
+![](images/621e4a2aaceca73d8cf124b8b9686b63cfd66994b31ed3c2382013b8262c2f9d.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a faucet releasing water, no text or symbols present
+</details>
+
+√ Convenient drainage
+
+![](images/b46b0ef29a981ce1ecf207badb6708f7a22bc457c9122de1155f834fd38555ec.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Silhouette of a person with a megaphone and sound waves, symbolizing communication or audio (no text or symbols present)
+</details>
+
+√ Noise from the unit will not disturb other people.
+
+![](images/c381c25d3f6c8979c3251b07cf6a10f8a8a13bb0b72683b10d532664dd0073db.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Gray gear and chain link icon on white background (no text or symbols)
+</details>
+
+√ Firm and solid—the location will not vibrate   
+√ Strong enough to support the weight of the unit
+
+![](images/013f366c31832132cf1d515ea5c50639ef863158517954a7b254ce5e90c8cd7c.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple icon of a washing machine with a circular label showing '1m' (no text or symbols beyond the label)
+</details>
+
+√ A location at least one meter from all other electrical devices (e.g., TV, radio, computer)
+
+# DO NOT install unit in the following locations:
+
+∅ Near any source of heat, steam, or combustible gas   
+∅ Near flammable items such as curtains or clothing
+
+∅ Near any obstacle that might block air circulation   
+∅ Near the doorway   
+∅ In a location subject to direct sunlight
+
+![](images/ff17268299f297a982faca6310af89a766cf5cf9dcc3ef241679ccd0b1fd01c6.jpg)
+
+# NOTE: FOR PRODUCT INSTALLATION
+
+If there is no fixed refrigerant piping:
+
+While choosing a location, be aware that you should leave ample room for a wall hole (see Drill wall hole for connective piping step) for the signal cable and refrigerant piping that connect the indoor and outdoor units. The default position for all piping is the right side of the indoor unit (while facing the unit). However, the unit can accommodate piping to both the left and right.
+
+# Determine wall hole location
+
+# Step 1:
+
+Remove the screw that attaches the mounting plate to the back of the indoor unit.
+
+![](images/068187557b804a4cc59c402fae6b8a10ff02aae27500bbb464a131ec85e89080.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Screw
+</details>
+
+# Step 2:
+
+Different models have different mounting plates. For the different customization requirements, the shape of the mounting plate may be slightly different. But the installation dimensions are the same for the same size of indoor unit. See Type A and Type B for example.
+
+![](images/4ba2ced55439a8417648ee25b9fc2d96082fdd84eae4d4b4f95c4f5e3d2512fd.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Pure electrical circuit lines without any symbols
+</details>
+
+Type A
+
+![](images/bc667c37e062a2d7282b527029e36975071c3d9b29bf50c2d13636e7b6ed284a.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Pure electrical circuit lines without any symbols
+</details>
+
+Type B
+
+# Step 3:
+
+Secure the mounting plate to the wall with the screws provided. Make sure that mounting plate is flat against the wall.
+
+![](images/e4972c7de51203f9fd8da015fd585b142bc58d64021c503e5040a48d6ff502dc.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Technical diagram showing assembly of a mechanical component with three views and checkmark indicators below.
+</details>
+
+Correct orientation of Mounting Plate
+
+# Step 4:
+
+Confirm the mounting plate you own. Determine the location of the wall hole based on the position of the mounting plate. The dotted rectangular box above shows the size of your product.
+
+![](images/41413bb08d7b101fa7e534ee1dce878a831b98bab116afe5f8f144db3d09e866.jpg)
+
+<details>
+<summary>text_image</summary>
+
+101mm(4.0in)
+348.4mm(13.7in)
+179mm(7.1in)
+136mm(5.4in)
+37mm
+(1.45in)
+49mm
+(1.95in)
+H
+W
+Φ65mm (2.5in)
+</details>
+
+Indoor unit dimensions(WxH):
+
+729mm(28.7in)x292mm(11.5in)   
+![](images/422de3b96c0b3623342e56801d880c99bf0725e8a222478b6ea3240f79a4369b.jpg)
+
+<details>
+<summary>text_image</summary>
+
+230mm(9.1in)
+403mm(15.9in)
+231mm(9.1in)
+190mm(7.5in)
+121mm(4.8in)
+36mm
+(1.4in)
+H
+47mm(1.8in)
+W
+Φ65mm (2.5in)
+53mm
+(2.1in)
+</details>
+
+Indoor unit dimensions(WxH):   
+805mm(31.7in)x295mm(11.6in)
+
+![](images/bb7145a4c333b50e26877924145db19d3866a5653f31d11c72a01e42d9fa90d4.jpg)
+
+<details>
+<summary>text_image</summary>
+
+244mm(9.6in)
+190mm(7.5in)
+418mm(16.5in)
+246mm(9.7in)
+121mm(4.8in)
+36mm
+(1.4in)
+H
+47mm(1.8in)
+W
+Φ65mm (2.5in)
+53mm
+(2.1in)
+</details>
+
+Indoor unit dimensions(WxH):   
+835mm(32.9in)x295mm(11.6in)
+
+![](images/52b4d79d7365c6e1667f47209a49027e725490500f776c9227778cfd387c1004.jpg)
+
+<details>
+<summary>text_image</summary>
+
+165mm(6.5in)
+106mm(4.2in)
+527mm(20.7in)
+247mm(9.7in)
+37mm
+(2.1in)
+H
+48mm(1.9in)
+29mm(1.1in)
+139mm
+(5.5in)
+48mm
+(1.9in)
+W
+Φ65mm (2.5in)
+</details>
+
+Indoor unit dimensions(WxH):   
+971mm(38.2in)x321mm(12.6in)
+
+![](images/7288aff28c51739afda8fdf04118a5cc1997bf51000abe98620d4dfa0250a68a.jpg)
+
+<details>
+<summary>text_image</summary>
+
+199mm(7.8in)
+129mm(5.1in)
+603mm(23.7in)
+322mm(12.7in)
+55mm
+(2.2in)
+H
+54mm
+(2.1in)
+173mm
+(6.8in)
+54mm
+(2.1in)
+W
+Φ90mm (3.54in)
+</details>
+
+Indoor unit dimensions(WxH):   
+1082mm(42.6in)x337mm(13.3in)
+
+![](images/9fb6051e559008c02e2040d4143bd0ebbb8744cd710800bb0a58d8f2552fcea5.jpg)
+
+<details>
+<summary>text_image</summary>
+
+643.6mm (25.3in)
+389mm (15.3in) 257mm (10.1in)
+172mm (6.8in) 332mm (13.05in)
+H
+52mm (2.05in)
+W
+Φ90mm (3.54in)
+52mm (2.05in)
+</details>
+
+Indoor unit dimensions(WxH):   
+1259mm(49.55in)x362mm(14.25in)
+
+![](images/b4cad83dd4e292a68768711d0eb64940229e48cc6cb6c1d3ef3bbe69d54b57a3.jpg)
+
+# NOTE : The wall hole size
+
+The size of the wall hole is determined by the connective pipes. When the pipe size of the gas side is $\Phi16mm(5/8")$ or more, the wall hole should be 90mm(3-9/16"). When the pipe size of gas side is less than $\Phi16mm(5/8")$ , the wall hole should be 65mm(2-1/2").
+
+# Drill wall hole
+
+![](images/6b2b70424adb3f77a26fdf194c9aa2a2da028d93627fc36d058842ea8637d73a.jpg)
+
+# CAUTION
+
+When drilling the wall hole, make sure to avoid wires, plumbing, and other sensitive components.
+
+![](images/bd52fe4bbf6b7667479ef9ae0fb85a40b487ec7d8fa683ba5b7c60e2570f7143.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Φ 65mm
+(2-1/2")
+Φ 90mm
+(3-9/16")
+</details>
+
+Using a 65mm (2-1/2") or 90mm(3-9/16") core drill(depending on models)
+
+![](images/9100d27bb010bb3273a00151342a35fc62db9028687cafb93aa5909dfb8cd447.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Wall
+Indoor
+Outdoor
+5-7mm
+(3/16-5/16")
+</details>
+
+Drill the wall hole
+
+![](images/a5fd69f6196fd94bb8d6b4f2572e4e454901de4f262350f3859d5d013c0122aa.jpg)
+
+<details>
+<summary>text_image</summary>
+
+the protective
+wall cuff
+wall hole.
+</details>
+
+Place the protective wall cuff in the hole.
+
+# Step 1:
+
+Using a 65mm (2.5") or 90mm(3.54") core drill(depending on models), drill a hole in the wall. Make sure that the hole is drilled at a slight downward angle, so that the outdoor end of the hole is lower than the indoor end by about 5mm to 7mm (3/16-5/16"). This will ensure proper water drainage.
+
+# NOTE:
+
+# FOR CONCRETE OR BRICK WALLS
+
+If the wall is made of brick, concrete, or similar material, drill 5mm-diameter (0.2in-diameter) holes in the wall and insert the sleeve anchors provided. Then secure the mounting plate to the wall by tightening the screws directly into the clip anchors.
+
+# Step 2:
+
+Place the protective wall cuff in the hole. This protects the edges of the hole and will help seal it when you finish the installation process.
+
+# 3
+
+# Install refrigerant pipe & drain hose
+
+![](images/93de7a76fac4f37357a7c005b08099974846dbab47190442ab09225f380214fd.jpg)
+
+# NOTE
+
+The refrigerant piping is inside an insulating sleeve attached to the back of the unit. You must prepare the piping before passing it through the hole in the wall.
+
+Prepare refrigerant piping   
+![](images/86f37b72734ee7c170958c8aa8872998bf9bb0dd96d38858e5b4dde7eb058084.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Left-hand
+side
+Right-hand
+side
+Left rear
+Right rear
+Four chooses to exit
+the piping
+</details>
+
+# Step 1:
+
+Based on the position of the wall hole relative to the mounting plate, choose the side from which the piping will exit the unit. You have four options for the exit direction of the piping. The description of the piping angle below for details.
+
+![](images/0b2af46ee492910b62df6369164b28a65b7f97280dc5ca473fe9e8dd20078777.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Knock-out Panel on
+the left & right side
+Knock-out
+Panel
+needle nose pliers
+</details>
+
+# Step 2:
+
+If the wall hole is behind the unit, keep the knock-out panel in place. If the wall hole is to the side of the indoor unit, remove the plastic knock-out panel from that side of the unit. Use needle nose pliers if the plastic panel is too difficult to remove by hand.
+
+# Step 3:
+
+connect the indoor unit's refrigerant piping to the connective piping that will join the indoor and outdoor units. Refer to the Refrigerant Piping Connection section of this manual for detailed instructions.
+
+NOTE: If existing connective piping is already embedded in the wall, proceed directly to the Connect Drain Hose step.
+
+![](images/b3994717c8d02ab97e26afb1047ab1487acb083f9d25aa1413dfc06cd356f22d.jpg)
+
+# CAUTION
+
+Be extremely careful not to dent or damage the piping while bending them away from the unit. Any dents in the piping will affect the unit's performance.
+
+![](images/64c0990acc3deacd29659d0c16426375975730c8ab5880858afde49648c6ea81.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Drain hose
+vinyl tape
+Connecting cable
+Gas side piping
+Liquid side piping
+Drain hose
+Make sure the drain hose is at the bottom
+Drain pipe
+Vinyl tape(narrow)
+Drain pipe extension
+</details>
+
+# Step 1:
+
+The drain hose can be attached to the left or right side. To ensure proper drainage, attach the drain hose on the same side that your refrigerant piping exits the unit. Attach drain hose extension (purchased separately) to the end of drain hose.
+
+\- Wrap the connection point firmly with Teflon tape to ensure a good seal and to prevent leaks.
+
+- For the portion of the drain hose that will remain indoors, wrap it with foam pipe insulation to prevent condensation.   
+- Remove the air filter and pour a small amount of water into the drain pan to make sure that water flows from the unit smoothly.
+
+![](images/30600af95880eccd26762f9a95051623e218f70159f370707f221768b4edaf0c.jpg)
+
+# NOTE ON DRAIN HOSE PLACEMENT
+
+Make sure to arrange the drain hose according to the following figures.
+
+![](images/3450499b087f9b8e1fafa2fb4701d1e2792d9ef0308677aac9a93c2236a4fdb1.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Pure technical line drawing of a mechanical joint or bracket (no text or symbols)
+</details>
+
+# CORRECT
+
+Make sure there are no kinks or dent in drain hose to ensure proper drainage.
+
+![](images/d274d5047ec8d434231f2b6c9479d140e0c784abc12e13303725beeb991956b5.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Pure diagram of a pipe joint with a valve and pipe, no text or symbols present
+</details>
+
+# NOT CORRECT
+
+Kinks in the drain hose will create water traps.
+
+![](images/66c1b97f01a2c756b46d5238e9b42f88f50e794fbbcf15c8db29d5ab31a45885.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Pure technical diagram showing a pipe connection with a wavy line and a cross symbol, no text or labels present.
+</details>
+
+# NOT CORRECT
+
+Kinks in the drain hose will create water traps.
+
+![](images/0ca61c544bf4f5b5f1a379291f5e56d276f8dcd90292b373ee6eb62674a02ef6.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Diagram of a U-shaped pipe connected to a container with liquid, separated by a vertical gap and a cross symbol (no text or labels)
+</details>
+
+# NOT CORRECT
+
+Do not place the end of the drain hose in water or in containers that collect water. This will prevent proper drainage.
+
+![](images/64860455709cf5024e5a56c150ea84eb056ae4b30f566451e4c5935c1cfb683c.jpg)
+
+# CAUTION
+
+# PLUG THE UNUSED DRAIN HOLE
+
+![](images/937fce4f7032b0a176fbd8ab55a54e56f9be0442bc88d9fce281540af5951a93.jpg)
+
+To prevent unwanted leaks you must plug the unused drain hole with the rubber plug provided.
+
+![](images/3da226d4227d7f18935807a2fd148bf92e8e65c4a67f413f70f3787ef004ac14.jpg)
+
+# WARNING
+
+- BEFORE PERFORMING ANY ELECTRICAL WORK, READ THESE REGULATIONS   
+- BEFORE PERFORMING ANY ELECTRLCAL OR WIRING WORK, TURN OFF THE MAIN POWER TO THE SYSTEM.
+
+1. All wiring must comply with local and national electrical codes, regulations and must be installed by a licensed electrician.   
+2. All electrical connections must be made according to the Electrical Connection Diagram located on the panels of the indoor and outdoor units.   
+3. If there is a serious safety issue with the power supply, stop work immediately. Explain your reasoning to the client, and refuse to install the unit until the safety issue is properly resolved.   
+4. If connecting power to fixed wiring, a switch or circuit breaker that disconnects all poles and has a contact separation of at least 1/8in (3mm) must be incorporated in the fixed wiring. The qualified technician must use an approved circuit breaker or switch.   
+5. Only connect the unit to an individual branch circuit outlet. Do not connect another appliance to that outlet.   
+6. Make sure to properly ground the air conditioner.   
+7. Every wire must be firmly connected. Loose wiring can cause the terminal to overheat, resulting in product malfunction and possible fire.   
+8. Do not let wires touch or rest against refrigerant tubing, the compressor, or any moving parts within the unit.   
+9. To avoid getting an electric shock, never touch the electrical components soon after the power supply has been turned off. After turning off the power, always wait 10 minutes or more before you touch the electrical components.   
+10. Power voltage should be within 90-110% of rated voltage. Insufficient power supply can cause malfunction, electrical shock, or fire.
+
+![](images/768fa773c942ba3aff0d1b55dddb4d5afb63ed10bf7dda6325960ae3137d1866.jpg)
+
+# WARNING
+
+All wiring must be performed strictly in accordance with the wiring diagram located on the back of the Indoor Unit's front panel.
+
+# Connect signal and power cables
+
+The signal cable enables communication between the indoor and outdoor units. You must first choose the right cable size before preparing it for connection.
+
+# Cable Types(Not applicable for North America)
+
+- Indoor Power Cable (if applicable):   
+H05VV-F or H05V2V2-F   
+• Outdoor Power Cable: H07RN-F or H05RN-F   
+• Signal Cable: H07RN-F
+
+# Minimum Cross-Sectional Area of
+
+# Power and Signal Cables (For reference)
+
+<table><tr><td>Rated Current of Appliance (A)</td><td>Nominal Cross-Sectional Area ( $mm^2$ )</td></tr><tr><td>&gt;3 and ≤6</td><td>0.75</td></tr><tr><td>&gt;6 and ≤10</td><td>1</td></tr><tr><td>&gt;10 and ≤16</td><td>1.5</td></tr><tr><td>&gt;16 and ≤25</td><td>2.5</td></tr><tr><td>&gt;25 and ≤32</td><td>4</td></tr><tr><td>&gt;32 and ≤40</td><td>6</td></tr></table>
+
+# CHOOSE THE RIGHT CABLE SIZE
+
+The size of the power supply cable, signal cable, fuse, and switch needed is determined by the maximum current of the unit. The maximum current is indicated on the nameplate located on the side panel of the unit. Refer to this nameplate to choose the right cable, fuse, or switch.
+
+1. Open front panel of the indoor unit.   
+2. Using a screwdriver, open the wire box cover on the right side of the unit. This will reveal the terminal block.   
+3. Unscrew the cable clamp below the terminal block and place it to the side.
+
+4. Facing the back of the unit, remove the plastic panel on the bottom left-hand side.   
+5. Feed the signal wire through this slot, from the back of the unit to the front.   
+6. Facing the front of the unit, connect the wire according to the indoor unit's wiring diagram, connect the u-lug and firmly screw each wire to its corresponding terminal.   
+7. After checking to make sure every connection is secure, use the cable clamp to fasten the signal cable to the unit. Screw the cable clamp down tightly.   
+8. Replace the wire cover on the front of the unit, and the plastic panel on the back.
+
+![](images/57717387c349bd387fcf708fbd9afb66b7e3b87944a0daba468460d9c55e7e33.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Terminal block
+Wire cover
+Screw
+Cable clamp
+</details>
+
+# In North America
+
+NOTE: Choose the cable type according to the local electrical codes and regulations. Please choose the right cable size according to the Minimum Circuit Ampacity indicated on the nameplate of the unit.
+
+1. Facing the back of the unit, remove the big plastic konck-out panel to create a slot through which the conduit tube can be installed.
+
+NOTE: For the units with five-core cable, remove the middle small plactic knock-out panel to create a slot through which the cable can exit.
+
+Use needle nose pliers if the plastic panel is too difficult to remove by hand
+
+2. As shown in the illustration, insert the wires including the ground wire into the conduit and secure them with lock nut onto the conduit mounting plate.   
+3. Match wire colors with terminal numbers on indoor and outdoor unit's terminal blocks and firmly screw wires to the corresponding terminals.   
+4. Connect the ground wires to the corresponding terminals.   
+5. Pull the wires and check that the wires are securely fixed to the terminal block.
+
+Back view   
+![](images/d66784632d81f92dfd6a769844839b64b6badea050cf343b6847234f6b956dcf.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Knock-out panel
+</details>
+
+![](images/b4c087e5931e22bee552554f287b2b3f4bca4e17eeeeb5739396ea2bfc8f560c.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Conduit
+</details>
+
+![](images/8b7cc424c4ece1cad6af608c33414bf591e073af08e4799daf4f1be743de5510.jpg)
+
+# DO NOT MIX UP LIVE AND NULL WIRES
+
+This is dangerous, and can cause the air conditioning unit to malfunction.
+
+![](images/d2043f74e5f11602e1144f9c3d9b44599e11710cb1173a7da9014f0a6266bc40.jpg)
+
+# NOTE
+
+Before passing the piping, and drain hose and the signal cable through the wall hole, you must bundle them together to save space, protect them, and insulate them.
+
+![](images/8d844cc4149e0886945ac1279d0066870b61565b7b9e57e49fdeb51327db7894.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Indoor Unit
+Signal wire
+Drain hose
+Space behind unit
+Refrigerant piping
+Insulation tape
+</details>
+
+![](images/a04a4278b115201adb0dabfdb2fd30d8d94a8c50f44432d8aad13fe78ed50a54.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Vinyl tape
+(narrow)
+Wrap with
+insulation tape
+Pipe
+Drain hose
+</details>
+
+# Step 1:
+
+Bundle the drain hose, refrigerant pipes, and signal cable as shown in the figure(Not applicable for some locations in North America).
+
+# Step 2:
+
+Using adhesive vinyl tape, attach the drain hose to the underside of the refrigerant pipes.
+
+# Step 3:
+
+Using insulation tape, wrap the refrigerant pipes, signal wire and drain hose tightly together. Double-check that all items are bundled.
+
+# Do not intertwine signal calbe with other wires
+
+While bundling these items together, do not intertwine or cross the signal cable with any other wiring.
+
+# DRAIN HOSE MUST BE ON BOTTOM
+
+Make sure that the drain hose is at the bottom of the bundle. Putting the drain hose at the top of the bundle can cause the drain pan to overflow, which can lead to fire or water damage.
+
+# DO NOT WRAP ENDS OF PIPING
+
+When wrapping the bundle, keep the ends of the piping unwrapped. You need to access them to test for leaks at the end of the installation process (refer to Electrical Checks and Leak Checks section of this manual).
+
+![](images/1321e00c736843c05d748202fbad3c185363f9516cde661d771f2f903e6f7545.jpg)
+
+# If you installed new connective piping to the outdoor unit, do the following:
+
+- If you have already passed the refrigerant piping through the hole in the wall, proceed to Step 4.   
+- Otherwise, double-check that the ends of the refrigerant pipes are sealed to prevent dirt or foreign materials from entering the pipes.   
+- Slowly pass the wrapped bundle of refrigerant pipes, drain hose, and signal wire through the hole in the wall.   
+- Hook the top of the indoor unit on the upper hook of the mounting plate.   
+- Check that unit is hooked firmly on mounting by applying slight pressure to the left and right-hand sides of the unit. The unit should not jiggle or shift.   
+- Using even pressure, push down on the bottom half of the unit. Keep pushing down until the unit snaps onto the hooks along the bottom of the mounting plate.   
+- Again, check that the unit is firmly mounted by applying slight pressure to the left and the right-hand sides of the unit.
+
+![](images/727ab13edc5730d0d6a6e64a3c94c7c965aab721ba860fd8594c03d0e8c23e74.jpg)
+
+<details>
+<summary>text_image</summary>
+
+30°
+Wedge
+</details>
+
+# If refrigerant piping is already embedded in the wall, do the following:
+
+- Hook the top of the indoor unit on the upper hook of the mounting plate.   
+- Use a bracket or wedge to prop up the unit, giving you enough room to connect the refrigerant piping, signal cable, and drain hose.   
+- Connect drain hose and refrigerant piping (refer to Refrigerant Piping Connection section of this manual for instructions).   
+- Keep pipe connection point exposed to perform the leak test (refer to Electrical Checks and Leak Checks section of this manual).   
+- After the leak test, wrap the connection point with insulation tape.   
+- Remove the bracket or wedge that is propping up the unit.   
+- Using even pressure, push down on the bottom half of the unit. Keep pushing down until the unit snaps onto the hooks along the bottom of the mounting plate.
+
+![](images/9aa4cf4aa61dd846583dc449b8ee01181b3cf9d9212dd10247ee89cb3202d8e9.jpg)
+
+# NOTE : UNIT IS ADJUSTABLE
+
+Keep in mind that the hooks on the mounting plate are smaller than the holes on the back of the unit. If you find that you don't have ample room to connect embedded pipes to the indoor unit, the unit can be adjusted left or right by about 30-50mm (1.18-1.96in), depending on the model.
+
+![](images/59bcd7d6c9096b358644c6e6dc5da98bc5ce3dd7eb97b535a9f8fa939f3724f9.jpg)
+
+<details>
+<summary>text_image</summary>
+
+30-50mm
+(1-3/16~2in)
+30-50mm
+(1-3/16~2in)
+</details>
+
+Move to left or right
+
+![](images/a184bd75e4226f7a7496f1b472b3c6d7f4cf86f55ef4f324fac68c62bd53d6a4.jpg)
+
+# CAUTION
+
+For the units adopt the following pipe connectors, please strictly perform the piping work in accordance with the following instructions.
+
+![](images/e31ea10c70626dc3e1fd605564c222dd8e063fff2e4ce70fe73681ae2736a04a.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Red point
+protruding
+Connector A
+Connector B
+Cross-shape
+part
+</details>
+
+- Before performing the refrigerant piping connection, always wear work gloves and goggles, and remember that the connectors A and B are not allowed to face people directly   
+- Keep pressing the cross-shape part of connector B with a tool for about 5\~10 seconds until the red protuding point of connector A retracts completely.   
+- Remove connectors A and B, then perform the refrigerant piping connection between indoor unit and outdoor unit.
+
+# 1 Select installation location
+
+![](images/38ef785c4e92e4f0e26ba1adb809f199e16529c2bce5d18b45d91e40f7f76545.jpg)
+
+# NOTE : PRIOR TO INSTALLATION
+
+Before installing the outdoor unit, you must choose an appropriate location. The following are standards that will help you choose an appropriate location for the unit.
+
+Proper installation locations meet the following standards:   
+![](images/31479964f26f73f2d21d6ea978c48a051d9fe9a12ce027ad56e0e4e30f691349.jpg)
+
+<details>
+<summary>text_image</summary>
+
+60cm (24") above
+30cm (12") from back wall
+30cm (12") on left
+60cm (24") on right
+200cm (79") in front
+</details>
+
+![](images/7bba2061e893e9c7a293775e8d87b67627d96a429b48d3ff4e32eaf31715337d.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a window with wavy lines inside, no text or symbols present
+</details>
+
+![](images/2cdea935fd6b1c182f302fb74c0807f3e37235fc2d1ccbd6d32000de43e6f657.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Gray icon depicting a chain link between two gears (no text or symbols)
+</details>
+
+![](images/00b8b0669b0975fb902a3e91847fe3e37b0567ef9681573e3e52de0f652f9eed.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Gray icon of a person shouting with a megaphone, no text or symbols present
+</details>
+
+√ Good air circulation and ventilation.
+
+√ Firm and solid—the location can support the unit and will not vibrate.
+
+√ Noise from the unit will not disturb other people.
+
+![](images/b35deccd0865d845a012c39e70767c853dfdcbed0caedd2c3a11d4cd023a71b0.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line icons of sun and crown symbols with a diagonal line, labeled 'Long-term' (no text or numbers on icons)
+</details>
+
+![](images/95e3e62714f679ecad9bacdcd5df8093aa72e5c3a797d0376b4ea8090cabf8b4.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a small air conditioner unit with a snowflake symbol beside it (no text or labels)
+</details>
+
+√ Meets all spatial requirements shown in Installation Space Requirements above.
+
+√ Protected from prolonged periods of direct sunlight or rain.
+
+√ Where snowfall is anticipated, take appropriate measures to prevent ice buildup and coil damage.
+
+![](images/3974d5c08fe614a88f4576468ec77aff7bf913c234bfdf8b9b029c2fec10856a.jpg)
+
+NOTE Install the unit by following local codes and regulations, there may be differ slightly between different regions.
+
+![](images/fc7a01c558df880269a215852961494d00a10f5376d1b75d26e0b1eb315e88db.jpg)
+
+# CAUTION:
+
+# Special considerations for extreme weather If the unit is exposed to heavy wind:
+
+Install unit so that air outlet fan is at a $90^{\circ}$ angle to the direction of the wind. If needed, build a barrier in front of the unit to protect it from extremely heavy winds. See Figures below.
+
+# If the unit is frequently exposed to heavy rain or snow:
+
+Build a shelter above the unit to protect it from the rain or snow. Be careful not to obstruct air flow around the unit.
+
+# If the unit is frequently exposed to salty air(seaside):
+
+Use outdoor unit that is specially designed to resist corrosion.
+
+![](images/7579fc15c3451b8a5d86265c433cffc34c55d361ae0c86deb78d34675c6948ce.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Strong wind
+Strong wind
+</details>
+
+90° angle to the direction of the wind
+
+![](images/84f4e8f3423750985668ab17db1669ac6907cf4bfd4cec60917bd7ab901c32bd.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Wind Baffle
+Strong wind
+</details>
+
+Build a wind Baffle to protect the unit
+
+![](images/f885218c82b116853cb50a4c88499b4dcde4804916e4f3bbf21f545c1a305693.jpg)  
+Build a shelter to protect the unit
+
+# DO NOT install unit in the following locations:
+
+∅ Near an obstacle that will block air inlets and outlets.   
+∅ Near a public street, crowded areas, or where noise from the unit will disturb others.
+
+Near animals or plants that will be harmed by hot air discharge.   
+∅ Near any source of combustible gas.
+
+∅ In a location that is exposed to large amounts of dust   
+∅ In a location exposed to a excessive amounts of salty air.
+
+# 2 Install drain joint(Heat pump unit only)
+
+![](images/2ffe26b1d20e1da480f7adbd91f61d0360eafdd920e1fa2ee254362a4d1071f4.jpg)
+
+# NOTE : PRIOR TO INSTALLATION
+
+Before bolting the outdoor unit in place, you must install the drain joint at the bottom of the unit.
+
+![](images/96e68b8d6f1afab804fe1fbfc4cc3b74e184f55e233a75d64d7c9ec07e61f4f7.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Base pan hole of
+outdoor unit
+</details>
+
+Step 1:
+
+Find out the base pan hole of outdoor unit.
+
+![](images/eabf78f7c8f2de6d57f3e478dfc3557fce717dd19d512a49b6eeb6d7243a723f.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Seal
+</details>
+
+# Step 2:
+
+- Fit the rubber seal on the end of the drain joint that will connect to the outdoor unit.   
+- Insert the drain joint into the hole in the base pan of the unit. The drain joint will click in place.   
+- Connect a drain hose extension (not included) to the drain joint to redirect water from the unit during heating mode.
+
+![](images/017a30927007b9763bab9c910c02ec91b63fcc60a3c70429f71ffaa8e6a902fa.jpg)
+
+# NOTE : IN COLD CLIMATES
+
+In cold climates, make sure that the drain hose is as vertical as possible to ensure swift water drainage. If water drains too slowly, it can freeze in the hose and flood the unit.
+
+# WARNING
+
+# WHEN DRILLING INTO CONCRETE, EYE PROTECTION IS RECOMMENDED AT ALL TIME.
+
+- The outdoor unit can be anchored to the ground or to a wall-mounted bracket with bolt(M10). Prepare the installation base of the unit according to the dimensions below.   
+- The following is a list of different outdoor unit sizes and the distance between their mounting feet. Prepare the installation base of the unit according to the dimensions below.
+
+![](images/50bdcb67e7f4abdb65ffc108507afa264d1bdaae7651244e51650da1d0d0e970.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Air inlet
+Air inlet
+Air outlet
+</details>
+
+Top view
+
+![](images/3e7e17f81a5e33e450040f374a44a653d31e5fb4159d123c2ba1590ca37704f8.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Technical line drawing of a front-end air conditioner unit with fan and ventilation slots (no text or symbols)
+</details>
+
+Front view
+
+<table><tr><td rowspan="2">Outdoor Unit Dimensions (mm)W x H x D</td><td colspan="2">Mounting Dimensions</td></tr><tr><td>Distance A (mm)</td><td>Distance B (mm)</td></tr><tr><td>668x469x252 (26.3&quot;x 18.5&quot;x 9.9&quot;)</td><td>430 (16.9&quot;)</td><td>231 (9.1&quot;)</td></tr><tr><td>680x542x248 (26.8&quot;x 21.3&quot;x 9.8&quot;)</td><td>452 (17.8&quot;)</td><td>230 (9.1&quot;)</td></tr><tr><td>700x550x275 (27.5&quot;x 21.6&quot;x 10.8&quot;)</td><td>450 (17.7&quot;)</td><td>260 (10.2&quot;)</td></tr><tr><td>720x495x270 (28.3&quot;x 19.5&quot;x 10.6&quot;)</td><td>452 (17.8&quot;)</td><td>255 (10.0&quot;)</td></tr><tr><td>765x555x303 (30.1&quot;x 21.8&quot;x 11.9&quot;)</td><td>452 (17.8&quot;)</td><td>286(11.3&quot;)</td></tr><tr><td>770x555x300 (30.3&quot;x21.8&quot;x11.8&quot;)</td><td>487 (19.2&quot;)</td><td>298 (11.7&quot;)</td></tr><tr><td>800x554x333 (31.5&quot;x21.8&quot;x13.1&quot;)</td><td>514 (20.2&quot;)</td><td>340 (13.4&quot;)</td></tr><tr><td>805x554x330 (31.7&quot;x 21.8&quot;x 12.9&quot;)</td><td>511 (20.1&quot;)</td><td>317 (12.5&quot;)</td></tr><tr><td>845x702x363 (33.3&quot;x 27.6&quot;x 14.3&quot;)</td><td>540 (21.3&quot;)</td><td>350 (13.8&quot;)</td></tr><tr><td>890x673x342 (35.0&quot;x 26.5&quot;x 13.5&quot;)</td><td>663 (26.1&quot;)</td><td>354 (13.9&quot;)</td></tr><tr><td>946x810x420 (37.2&quot;x 31.9&quot;x 16.5&quot;)</td><td>673 (26.5&quot;)</td><td>403 (15.9&quot;)</td></tr><tr><td>946x810x410 (37.2&quot;x 31.9&quot;x 16.1&quot;)</td><td>673 (26.5&quot;)</td><td>403 (15.9&quot;)</td></tr></table>
+
+# If you will install the unit on the ground or on a concrete mounting platform, do the following:
+
+- Mark the positions for four expansion bolts based on dimensions chart.   
+• Pre-drill holes for expansion bolts.   
+- Place a nut on the end of each expansion bolt.   
+- Hammer expansion bolts into the pre-drilled holes.   
+- Remove the nuts from expansion bolts, and place outdoor unit on bolts.   
+- Put washer on each expansion bolt, the replace the nuts.   
+• Using a wrench, tighten each nut until snug.
+
+# If you will install the unit on a wall-mounted bracket, do the following:
+
+- Mark the position of bracket holes based on dimensions chart.   
+- Pre-drill the holes for the expansion bolts.   
+- Place a washer and nut on the end of each expansion bolt.   
+- Thread expansion bolts through holes in mounting brackets, put mounting brackets in position, and hammer expansion bolts into the wall.   
+- Check that the mounting brackets are level.   
+- Carefully lift unit and place its mounting feet on brackets.   
+- Bolt the unit firmly to the brackets.   
+- If allowed, install the unit with rubber gaskets to reduce vibrations and noise.
+
+![](images/2f8c4894e0030604670b2debe195ff1bad483927c5f36afcc4d24997a6ca56e4.jpg)
+
+# CAUTION
+
+Make sure that the wall is made of solid brick, concrete, or of similarly strong material. The wall must be able to support at least four times the weight of the unit.
+
+![](images/ba387d0d68a66a2f692aa0cb1f2553f6e144e72440857053a8cbbb0b6aa3c3e1.jpg)
+
+# WARNING - BEFORE THE OPERATION
+
+- ALL WIRING WORK MUST BE PERFORMED STRICTLY IN ACCORDANCE WITH THE WIRING DIAGRAM LOCATED INSIDE OF WIRE COVER OF THE OUTDOOR UNIT.   
+- BEFORE PERFORMING ANY ELECTRICAL OR WIRING WORK, TURN OFF THE MAIN POWER TO THE SYSTEM.
+
+# Prepare the cable for connection
+
+Please choose the right cable according to the “Cable types” in page 15.
+
+- Using wire strippers, strip the rubber jacket from both ends of cable to reveal about 40mm (1.57in) of the wires inside.   
+- Strip the insulation from the ends of the wires.   
+- Using a wire crimper, crimp u-lugs on the ends of the wires.
+
+# Choose the right cable size
+
+The size of the power supply cable, signal cable, fuse, and switch needed is determined by the maximum current of the unit. The maximum current is indicated on the nameplate located on the side panel of the unit.
+
+# Pay attention to live wire
+
+While crimping wires, make sure you clearly distinguish the Live (“L”) Wire from other wires.
+
+The outside unit's terminal block is protected by an electrical wiring cover on the side of the unit. A comprehensive wiring diagram is sticked on the inside of the wiring cover.
+
+- Unscrew the electrical wiring cover and remove it.   
+- Unscrew the cable clamp below the terminal block and place it to the side.   
+- Connect the wire according to the wiring diagram, and firmly screw the u-lug of each wire to its corresponding terminal.   
+- After checking to make sure every connection is secure, loop the wires around to prevent rain water from flowing into the terminal.   
+- Using the cable clamp, fasten the cable to the unit. Screw the cable clamp down tightly.   
+- Insulate unused wires with PVC electrical tape. Arrange them so that they do not touch any electrical or metal parts.   
+- Replace the wire cover on the side of the unit, and screw it in place.
+
+NOTE: The unit you purchased may be slightly different. The illustrations are for explanatory purposes. The actual shape shall prevail.
+
+![](images/4f4e6cb4962844c80540c4d1a75552dae3ee8dee9ae0d2bd7b0b1edb461f1a34.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Remove four
+screws
+Cover
+</details>
+
+![](images/dc2ccd7759efc3fcc8ff243f526c760757ab4c2d0aa0282fb7b17b76a4659dd5.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Cover
+Screw
+</details>
+
+NOTE: If the cable clamp looks like the following, please select the appropriate through-hole according to the diameter of the wire.
+
+![](images/097374fcce87dfd21feedee46ee4c159c59d0b8e55f1ccd6d0601e01c806d3be.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+3D mechanical component diagram labeled 'Buckle' showing a bracket and mounting base (no other text or symbols)
+</details>
+
+Three size hole: Small, Large, Medium
+
+![](images/ca0e425afcb5765454d6ac0e8bcd8d173573b71d8299a59b89ec15e8bfd976ba.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+3D mechanical component diagram showing a bracket with mounting points and a central h-axis indicator (no text or symbols)
+</details>
+
+When the calbe is not fasten enough, use the buckle to prop it up, so it can be clamped tightly.
+
+# In North America
+
+The outside unit's terminal block is protected by an electrical wiring cover on the side of the unit. A comprehensive wiring diagram is sticked on the inside of the wiring cover.
+
+- Remove the wire cover from the unit by loosening the 3 screws.   
+- Dismount caps on the conduit panel.   
+- Temporarily mount the conduit tubes (not included) on the conduit panel.   
+- Properly connect both the power supply and low voltage lines to the corresponding terminals on the terminal block.   
+- Ground the unit in accordance with local codes.   
+- Be sure to size each wire allowing several inches longer than the required length for wiring.   
+- Use lock nuts to secure the conduit tubes.
+
+NOTE: Please choose the right cable size according to the Minimum Circuit Ampacity indicated on the nameplate of the unit.
+
+![](images/14da6c79f7b0c904735e1f2ee2b56bcc8b07b41929d489cbf36bcff677cd3024.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Terminal block
+Over 1-9/16"
+(40mm)
+Connecting cable
+Power supply cord
+Conduit panel
+Wire Cover
+</details>
+
+Please select the appropriate through-hole according to the diameter of the wire.
+
+# How to properly connect the wire lines.
+
+![](images/f414541963f1c6c5df28126de45f4951c0c2b2829fbcfb8e2d47e941e1367b20.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Strip 25mm(15/16")
+Insulation
+Loop
+Solid wire
+Strip 10mm(3/8")
+Round terminal
+Strand wire
+</details>
+
+# Step 1:
+
+The treatment about the end of the wire.
+
+![](images/8de596e3182e4e239306d64b0522c3b3c481a129d024408c58f5070354227a85.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Screw with
+special
+washer
+Round terminal
+Terminal plate
+Wire
+Screw with
+special
+washer
+Round terminal
+Wire
+</details>
+
+# Step 2:
+
+connecting the line to the corresponding terminals on the terminal block.
+
+![](images/a75955268210b1bd66a0e63418bc11df3342aedc9d4e5e97792a6978298e9219.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph TD
+    A["Wall receptacle or Air break switch (North America) (purchased separately)"] --> B["Outdoor unit power wires"]
+    C["Indoor & Outdoor connective wires (purchased separately)"] --> D["Outdoor unit"]
+    D --> E["Indoor unit"]
+    E --> F["Ground"]
+```
+</details>
+
+(A)
+
+![](images/9ef7ccb8c6bec9abd33eaa4c051d8775b0235b584bed94665e585bcafd598a34.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph TD
+    A["Indoor unit power wires"] --> B["Indoor unit"]
+    C["Indoor & Outdoor connective wires (purchased separately)"] --> D["Indoor unit"]
+    E["Wall receptacle or Air break switch (North America) (purchased separately)"] --> B
+    F["Ground"] --> A
+    G["Ground"] --> C
+```
+</details>
+
+(B)
+
+# 1
+
+# Piping Connection Precautions
+
+![](images/2bc67326e967a297e2bdab6c6a4c0587059eaf1bc8867ef8aabc5134c170a899.jpg)
+
+# WARNING
+
+WHEN CONNECTING REFRIGERANT PIPING, DO NOT LET SUBSTANCES OR GASES OTHER THAN THE SPECIFIED REFRIGERANT ENTER THE UNIT. THE PRESENCE OF OTHER GASES OR SUBSTANCES WILL LOWER THE UNIT'S CAPACITY, AND CAN CAUSE ABNORMALLY HIGH PRESSURE IN THE REFRIGERATION CYCLE. THIS CAN CAUSE EXPLOSION AND INJURY.
+
+# Note on Pipe Length
+
+The length of refrigerant piping will affect the performance and energy efficiency of the unit. Nominal efficiency is tested on units with a pipe length of 5 meters (16.5ft). ( In North America, the standard pipe length is 7.5m (25'). For the R290 refrigerant models, no refrigerant can be added and the maximum length of refrigerant pipe should not exceed 5 meters(16.5ft).A minimum pipe run of 3 metres is required to minimise vibration & excessive noise. Connection Instructions – Refrigerant Piping.
+
+Maximum Length and Drop Height of Refrigerant Piping per Unit Model 
+
+<table><tr><td>Model</td><td>Capacity (BTU/h)</td><td>Max. Length (m)</td><td>Max. Drop Height (m)</td></tr><tr><td rowspan="4">R410A,R32 Inverter Split Air Conditioner</td><td>&lt; 15,000</td><td>25 (82ft)</td><td>10 (33ft)</td></tr><tr><td>≥ 15,000 and &lt; 24,000</td><td>30 (98.5ft)</td><td>20 (66ft)</td></tr><tr><td>≥ 24,000 and &lt; 36,000</td><td>50 (164ft)</td><td>25 (82ft)</td></tr><tr><td>≥ 36,000 and &lt; 60,000</td><td>65 (213ft)</td><td>30 (98.5ft)</td></tr><tr><td rowspan="4">R22 Fixed-speed Split Air Conditioner</td><td>&lt; 18,000</td><td>10 (33ft)</td><td>5 (16ft)</td></tr><tr><td>≥ 18,000 and &lt; 21,000</td><td>15 (49ft)</td><td>8(26ft)</td></tr><tr><td>≥ 21,000 and &lt; 35,000</td><td>20 (66ft)</td><td>10(33ft)</td></tr><tr><td>≥ 35,000 and &lt; 41,000</td><td>25 (82ft)</td><td>10 (33ft)</td></tr><tr><td rowspan="3">R410A, R32 Fixed-speed Split Air Conditioner</td><td>&lt; 18,000</td><td>20 (66ft)</td><td>8(26ft)</td></tr><tr><td>≥ 18,000 and &lt; 36,000</td><td>25 (82ft)</td><td>10(33ft)</td></tr><tr><td>≥ 36,000 and &lt; 60,000</td><td>30 (98.5ft)</td><td>15 (49ft)</td></tr></table>
+
+# Connection Instructions – Refrigerant Piping
+
+# Step 1: Cut pipes
+
+When preparing refrigerant pipes, take extra care to cut and flare them properly. This will ensure efficient operation and minimize the need for future maintenance.
+
+- Measure the distance between the indoor and outdoor units.   
+- Using a pipe cutter, cut the pipe a little longer than the measured distance.   
+- Make sure that the pipe is cut at a perfect 90° angle.
+
+![](images/41ee1212dd770c9f66087b1e809858c19f45b41fc294102b5057867cb8d52e42.jpg)
+
+<details>
+<summary>text_image</summary>
+
+90°
+Oblique Rough Warped
+</details>
+
+![](images/0b0807e2b03d057ff82b52f2692c378c91cd9dc593a66b4d021c18112df4cb29.jpg)
+
+# DO NOT DEFORM PIPE WHILE CUTTING
+
+Be extra careful not to damage, dent, or deform the pipe while cutting. This will drastically reduce the heating efficiency of the unit.
+
+MUST BE CHECK OVER THE END OF THE PIPE FOR CRACKS AND EVEN FLARING. ENSURE THE PIPE IS SEALED.
+
+# Step 2: Remove burrs
+
+Burrs can affect the air-tight seal of refrigerant piping connection. They must be completely removed.
+
+- Hold the pipe at a downward angle to prevent burrs from falling into the pipe.   
+- Using a reamer or deburring tool, remove all burrs from the cut section of the pipe.
+
+![](images/0bf0fda4d0582d6724a51f3fae375b7f9f3fcc829aca3292374d7b4da95da00b.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Pipe
+Point down
+Reamer
+</details>
+
+# Step 3: Flare pipe ends
+
+Proper flaring is essential to achieve an airtight seal.
+
+- After removing burrs from cut pipe, seal the ends with PVC tape to prevent foreign materials from entering the pipe.   
+- Sheath the pipe with insulating material.   
+- Place flare nuts on both ends of pipe. Make sure they are facing in the right direction, because you can't put them on or change their direction after flaring.
+
+![](images/a19630cb880dbfcf5ec5f96c8579f96b3e17a7f1fbbb25d5f723edd2f84f8d7a.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Flare nut
+Copper pipe
+</details>
+
+- Remove PVC tape from ends of pipe when ready to perform flaring work.   
+- Clamp flare form on the end of the pipe. The end of the pipe must extend beyond the edge of the flare form in accordance with the dimensions shown in the table below.
+
+![](images/e333926afaf4ddf7b971873ceddb8bca8f683a8482e6790ac82afcfa62bed949.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Handle
+Bar
+Yoke
+Cone
+Clamp handle
+Red arrow mark
+</details>
+
+PIPING EXTENSION BEYOND FLARE FORM 
+
+<table><tr><td rowspan="2">Outer Diameter of Pipe (mm)</td><td colspan="2">A (mm)</td></tr><tr><td>Min.</td><td>Max.</td></tr><tr><td>∅ 6.35 (∅ 1/4&quot;)</td><td>0.7 (0.0275&quot;)</td><td>1.3 (0.05&quot;)</td></tr><tr><td>∅ 9.52 ( ∅ 3/8&quot;)</td><td>1.0 (0.04&quot;)</td><td>1.6 (0.063&quot;)</td></tr><tr><td>∅12.7 ( ∅ 1/2&quot;)</td><td>1.0 (0.04&quot;)</td><td>1.8 (0.07&quot;)</td></tr><tr><td>∅ 16 ( ∅ 5/8&quot;)</td><td>2.0 (0.078&quot;)</td><td>2.2 (0.086&quot;)</td></tr><tr><td>∅ 19 ( ∅ 3/4&quot;)</td><td>2.0 (0.078&quot;)</td><td>2.4 (0.094&quot;)</td></tr></table>
+
+![](images/8dd69440725cb50cf166280a06b12869469f1f852938ffe4060e6f9891e8b608.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Flare form
+A
+Pipe
+</details>
+
+- Place flaring tool onto the form.   
+- Turn the handle of the flaring tool clockwise until the pipe is fully flared.   
+- Remove the flaring tool and flare form, then inspect the end of the pipe for cracks and even flaring.
+
+# 2 Refer to Torque Requirement to connect pipes
+
+![](images/43a8566eab62c5bde7c0dd238fb9033bbdef763298649ab1a2de4a431bdec9d6.jpg)
+
+# CAUTION
+
+WHEN CONNECTING REFRIGERANT PIPES, BE CAREFUL NOT TO USE EXCESSIVE TORQUE OR TO DEFORM THE PIPING IN ANY WAY. YOU
+
+SHOULD FIRST CONNECT THE LOW-PRESSURE PIPE, THEN THE HIGH-PRESSURE PIPE.
+
+# MINIMUM BEND RADIUS
+
+When bending connective refrigerant piping, the minimum bending radius is 10cm.
+
+![](images/fa0497ccae7487b4e66ffe5365694d691ff12ac9e945a276c4493790d8278e73.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Radius ≥10cm
+(4")
+</details>
+
+# Instructions for Connecting Piping to Indoor Unit
+
+# Step 1:
+
+\- Align the center of the two pipes that you will connect.
+
+![](images/4a0a947565cd80474d1e136a149edf602e01cf2714b96f04e7fc58928dd8cec9.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Indoor unit tubing
+Flare nut
+Pipe
+</details>
+
+# Step 2:
+
+- Tighten the flare nut as tightly as possible by hand.   
+• Using a spanner, grip the nut on the unit tubing.   
+- While firmly gripping the nut on the unit tubing, use a torque wrench to tighten the flare nut according to the torque values in the Torque Requirements table below. Loosen the flaring nut slightly, then tighten again.
+
+![](images/cba54220867eee443bb52235bb9722b0626002e187ca71ade13161b227bba5c6.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Spanner (fixed)
+Flare nut
+Torque wrench
+Connection pipe
+Indoor unit tubing
+</details>
+
+TORQUE REQUIREMENTS 
+
+<table><tr><td>Outer Diameter of Pipe(mm)</td><td>Tightening Torque(N·m)</td><td>Flare dimension(B)(mm)</td><td>Flare shape</td></tr><tr><td>∅ 6.35 (∅ 1/4&quot;)</td><td>18~20(180~200kgf.cm)</td><td>8.4~8.7 (0.33~0.34&quot;)</td><td rowspan="5"><img src="images/c4b0766615d4e6a2575ccc0720ff48aadd5b12f5cf79fae85528e00250fad52b.jpg"/></td></tr><tr><td>∅ 9.52 (∅ 3/8&quot;)</td><td>32~39(320~390kgf.cm)</td><td>13.2~13.5 (0.52~0.53&quot;)</td></tr><tr><td>∅ 12.7 (∅ 1/2&quot;)</td><td>49~59(490~590kgf.cm)</td><td>16.2~16.5 (0.64~0.65&quot;)</td></tr><tr><td>∅ 16 (∅ 5/8&quot;)</td><td>57~71(570~710kgf.cm)</td><td>19.2~19.7 (0.76~0.78&quot;)</td></tr><tr><td>∅ 19 (∅ 3/4&quot;)</td><td>67~101(670~1010kgf.cm)</td><td>23.2~23.7 (0.91~0.93&quot;)</td></tr></table>
+
+![](images/ddd838f69dbcb8595d16cf3cb8b94dec5683e44b680d954558d11eca833c0a2a.jpg)
+
+# DO NOT USE EXCESSIVE TORQUE
+
+Excessive force can break the nut or damage the refrigerant piping. You must not exceed torque requirements shown in the table above.
+
+# 3
+
+# Connecting Piping to Outdoor Unit
+
+![](images/8618ec96ff12a630d0ad7b0360c2c93d60a257aa240f28285865112872e04be6.jpg)
+
+# NOTE
+
+This section still needs to be operated according to the TORQUE REQUIREMENTS chart on the previous page.
+
+![](images/5010c4711057a245fbddcaf8fb65b38ac0c780b30b154bbbd322d7b9a83cfb31.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Valve cover
+Unscrew
+the cover
+</details>
+
+![](images/480c4e6ed44cea7cb7529836cf2cf4bf9b845fc6bf3a3b87109717ec2d33e051.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Torque wrench
+</details>
+
+![](images/6541ef9ce979bcdfb53d0d3cb225e8dca5236aff5a602dd89449924183759cc6.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Connect all
+pipes
+</details>
+
+# Step 1:
+
+\- Unscrew the cover from the packed valve on the side of the outdoor unit.
+
+# Step 2:
+
+- Remove protective caps from ends of valves.   
+- Align flared pipe end with each valve, and tighten the flare nut as tightly as possible by hand.   
+- Using a spanner, grip the body of the valve. Do not grip the nut that seals the service valve.
+
+![](images/55d36823278a2fd563b47a5f7fb7066749058acea5aba46f4caed277cdfd558d.jpg)
+
+# USE SPANNER TO GRIP MAIN BODY OF VALVE
+
+Torque from tightening the flare nut can snap off other parts of valve.
+
+# Step 3:
+
+- While firmly gripping the body of the valve, use a torque wrench to tighten the flare nut according to the correct torque values.   
+- Loosen the flaring nut slightly, then tighten again.   
+- Repeat Steps 1 to 3 for the remaining pipe.
+
+# Air Evacuation
+
+![](images/6ec65399c4028c4907325c578e946fbdb14c045550dddc8c6bb90d6ddba6fc4c.jpg)
+
+# NOTE : PREPARATIONS AND PRECAUTIONS
+
+Air and foreign matter in the refrigerant circuit can cause abnormal rises in pressure, which can damage the air conditioner, reduce its efficiency, and cause injury. Use a vacuum pump and manifold gauge to evacuate the refrigerant circuit, removing any non-condensable gas and moisture from the system. Evacuation should be performed upon initial installation and when unit is relocated.
+
+![](images/e913ad13cd73313b36cbbf8faca395ea1468020165bf0da588672bb21fe83ee4.jpg)
+
+# BEFORE PERFORMING EVACUATION
+
+√ Make sure the connective pipes between the indoor and outdoor units are connected properly.   
+√ Check to make sure all wiring is connected properly.
+
+# Evacuation Instructions
+
+![](images/a7597626716fe20fe2c0cee4baea78a6d222e135dc1d871f58c18c852b73cee2.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Indoor unit
+Outdoor unit
+Manifold valve
+-76cmHg
+Compound gauge
+Pressure gauge
+Low pressure valve
+Pressure hose or Charge hose
+Low pressure valve
+High pressure valve
+Charge hose
+Vacuum pump
+Step:
+• Co
+ga
+lo
+• Co
+m
+• Op
+ga
+• Tu
+sy
+• Ru
+un (-1
+• Cl
+ga
+• W
+ha
+</details>
+
+# Step 1:
+
+- Connect the charge hose of the manifold gauge to service port on the outdoor unit's low pressure valve.   
+- Connect another charge hose from the manifold gauge to the vacuum pump.   
+- Open the Low Pressure side of the manifold gauge. Keep the High Pressure side closed.   
+- Turn on the vacuum pump to evacuate the system.   
+- Run the vacuum for at least 15 minutes, or until the Compound Meter reads -76cmHG (-10 Pa).   
+- Close the Low Pressure side of the manifold gauge, and turn off the vacuum pump.   
+- Wait for 5 minutes, then check that there has been no change in system pressure.
+
+![](images/885d4137396ce1f1399248bab6c78d1bcb6c7b6b567f6dcaf7c80ce37251ef6f.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Flare nut
+valve body
+valve stem
+Cap
+</details>
+
+# Step 2:
+
+- If there is a change in system pressure, refer to Gas Leak Check section for information on how to check for leaks. If there is no change in system pressure, unscrew the cap from the packed valve (high pressure valve). Insert hexagonal wrench into the packed valve(high pressure valve) and open the valve by turning the wrench in a 1/4 counterclockwise turn. Listen for gas to exit the system, then close the valve after 5 seconds.   
+- Watch the Pressure Gauge for one minute to make sure that there is no change in pressure. The Pressure Gauge should read slightly higher than atmospheric pressure.   
+- Remove the charge hose from the service port.   
+- Using hexagonal wrench, fully open both the high pressure and low pressure valves.   
+- Tighten valve caps on all three valves (service port, high pressure, low pressure) by hand. You may tighten it further using a torque wrench if needed.
+
+![](images/9f412402c17936c3f04afa46ef8df0eb63ad9b1347d176ef6cab9fe7e2e73a0b.jpg)
+
+# OPEN VALVE STEMS GENTLY
+
+When opening valve stems, turn the hexagonal wrench until it hits against the stopper. Do not try to force the valve to open further.
+
+![](images/93cfd971f88fcbe68558e51f11025aa94867b7a53634fb9e29a08e1025e72d41.jpg)
+
+# NOTE ON ADDING REFRIGERANT
+
+Some systems require additional charging depending on pipe lengths. The standard pipe length varies according to local regulations. For example, in North America, the standard pipe length is 7.5m (25'). In other areas, the standard pipe length is 5m (16'). The refrigerant should be charged from the service port on the outdoor unit's low pressure valve. For the R290 refrigerant models, no refrigerant can be added. The additional refrigerant to be charged can be calculated using the following formula:
+
+ADDITIONAL REFRIGERANT PER PIPE LENGTH 
+
+<table><tr><td>Connective Pipe Length (m)</td><td>Air Purging Method</td><td colspan="2">Additional Refrigerant</td></tr><tr><td>≤ Standard pipe length</td><td>Vacuum Pump</td><td colspan="2">N/A</td></tr><tr><td>&gt; Standard pipe length</td><td>Vacuum Pump</td><td>Liquid Side: ∅ 6.35 (1/4&quot;)R410A:(Pipe length - standard length) x 15g/m(Pipe length - standard length) x 0.16oZ/ftR32:(Pipe length - standard length) x 12g/m(Pipe length - standard length) x 0.13oZ/ftR22:(Pipe length - standard length) x 20g/m(Pipe length - standard length) x 0.21oZ/ft</td><td>Liquid Side: ∅ 9.52 (3/8&quot;)R410A:(Pipe length - standard length) x 30g/m(Pipe length - standard length) x 0.32oZ/ftR32:(Pipe length - standard length) x 24g/m(Pipe length - standard length) x 0.26oZ/ftR22:(Pipe length - standard length) x 40g/m(Pipe length - standard length) x 0.42oZ/ft</td></tr></table>
+
+![](images/40b2542fefbd34c503792fcf3213d589b1b46d1f6f845c93ead6d596bdd6b517.jpg)
+
+DO NOT MIX REFRIGERANT TYPES.
+
+![](images/262e7c8cef4ae424c0cb077339a9a3a87e67e88140757682c2097a29d15a2d13.jpg)
+
+# WARNING - RISK OF ELECTRIC SHOCK
+
+# ALL WIRING MUST COMPLY WITH LOCAL AND NATIONAL ELECTRICAL CODES, AND MUST BE INSTALLED BY A LICENSED ELECTRICIAN.
+
+![](images/79e738c09db82040c079280d106ec0cd8ed9f081da0f008c3957aeaaf1c2955e.jpg)
+
+# BEFORE TEST RUN
+
+Only perform test run after you have completed the following steps:
+
+- Electrical Safety Checks – Confirm that the unit's electrical system is safe and operating properly   
+- Gas Leak Checks – Check all flare nut connections and confirm that the system is not leaking   
+- Confirm that gas and liquid (high and low pressure) valves are fully open
+
+# Electrical Safety Checks
+
+After installation, confirm that all electrical wiring is installed in accordance with local and national regulations, and according to the Installation Manual.
+
+# BEFORE TEST RUN
+
+# Check Grounding Work
+
+Measure grounding resistance by visual detection and with grounding resistance tester.
+
+# DURING TEST RUN
+
+# Check for Electrical Leakage
+
+During the Test Run, use an electroprobe and multimeter to perform a comprehensive electrical leakage test.
+
+If electrical leakage is detected, turn off the unit immediately and call a licensed electrician to find and resolve the cause of the leakage.
+
+Note: This may not be required for some locations in North America.
+
+# Gas Leak Checks
+
+There are two different methods to check for gas leaks.
+
+# Soap and Water Method
+
+Using a soft brush, apply soapy water or liquid detergent to all pipe connection points on the indoor unit and outdoor unit. The presence of bubbles indicates a leak.
+
+# Leak Detector Method
+
+If using leak detector, refer to the device's operation manual for proper usage instructions.
+
+![](images/8a89bf5649a37947bee12ddbeff3179564803c06f45728a508b2108a65f41b53.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Check-point of
+indoor unit
+Check-point of
+outdoor unit
+A
+B
+C
+D
+</details>
+
+A: Low pressure stop valve   
+B: High pressure stop valve   
+C& D: Indoor unit flare nuts
+
+# AFTER PERFORMING GAS LEAK CHECKS
+
+After confirming that the all pipe connection points DO NOT leak, replace the valve cover on the outside unit.
+
+# Test Run Instructions
+
+You should perform the Test Run for at least 30 minutes.
+
+- Connect power to the unit.   
+- Press the ON/OFF button on the remote controller to turn it on.   
+- Press the MODE button to scroll through the following functions, one at a time:   
+• COOL-Select lowest possible temperature   
+- HEAT-Select highest possible temperature   
+- Let each function run for 5 minutes, and perform the following checks:
+
+<table><tr><td>List of Checks to Perform</td><td colspan="2">PASS/FAIL</td></tr><tr><td>No electrical leakage</td><td></td><td></td></tr><tr><td>Unit is properly grounded</td><td></td><td></td></tr><tr><td>All electrical terminals properly covered</td><td></td><td></td></tr><tr><td>Indoor and outdoor units are solidly installed</td><td></td><td></td></tr><tr><td>All pipe connection points do not leak</td><td>Outdoor (2):</td><td>Indoor (2):</td></tr><tr><td>Water drains properly from drain hose</td><td></td><td></td></tr><tr><td>All piping is properly insulated</td><td></td><td></td></tr><tr><td>Unit performs COOL function properly</td><td></td><td></td></tr><tr><td>Unit performs HEAT function properly</td><td></td><td></td></tr><tr><td>Indoor unit louvers rotate properly</td><td></td><td></td></tr><tr><td>Indoor unit responds to remote controller</td><td></td><td></td></tr></table>
+
+# DOUBLE-CHECK PIPE CONNECTIONS
+
+During operation, the pressure of the refrigerant circuit will increase. This may reveal leaks that were not present during your initial leak check. Take time during the Test Run to double-check that all refrigerant pipe connection points do not have leaks. Refer to Gas Leak Check section for instructions.
+
+- After the Test Run is successfully completed, and you confirm that all checks points in List of Checks to Perform have PASSED, do the following:   
+a. Using remote control, return unit to normal operating temperature.   
+b. Using insulation tape, wrap the indoor refrigerant pipe connections that you left uncovered during the indoor unit installation process.
+
+# IF AMBIENT TEMPERATURE IS BELOW 17°C(62°F)
+
+You can't use the remote controller to turn on the COOL function when the ambient temperature is below $62^{\circ}\mathrm{F}$ . In this instance, you can use the MANUAL CONTROL button to test the COOL function.
+
+- Lift the front panel of the indoor unit.   
+Note: For some units, there is a supporting rod located on the left or right side. Please use it to prop up the panel.   
+- The MANUAL CONTROL button is located on the right-hand side of the unit. Press two times to select FORCED COOL mode.   
+• Perform Test Run as normal.
+
+![](images/7481ec627d205c48e3e2bc58e4ea3f12b6f3aa93fc31f9ed2c94bb58dd05d656.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Supporting rod
+(located on the
+left or right,
+model dependent )
+AUTO/COOL
+Manual
+control
+button
+</details>
+
+# Packing And Unpacking The Unit
+
+# Instructions for packing and unpacking the unit:
+
+# Unpacking:
+
+# Indoor unit:
+
+1. Cut the sealing tape on the carton with a knife, one cut on the left, one cut in the middle and one cut on the right.   
+2. Use the vice to take out the sealing nails on the top of the carton.   
+3.Open the carton.   
+4. Take out the middle support plate if it is included.   
+5. Take out the accessory package, and take out the connecting wire if it is included.   
+6. Lift the machine out of the carton and lay it flat.   
+7. Remove the left and right package foam or the upper and lower packaging foam, untie the packaging bag.
+
+# Outdoor Unit
+
+1. Cut the packing belt.   
+2. Take the unit out of the carton.   
+3. Remove the foam from the unit.   
+4. Remove the packaging bag from the unit.
+
+# Packing:
+
+# Indoor unit:
+
+1. Put the indoor unit into the packing bag.   
+2. Attach the left and right package foam or the upper and lower packaging foam to the unit.   
+3. Put the unit into the carton, then put accessory package in.   
+4. Close the carton and seal it with the tape.   
+5. Using the packing belt if necessary.
+
+# Outdoor unit:
+
+1. Put the outdoor unit into the packing bag.   
+2. Put the bottom foam into the box.   
+3. Put the unit into the carton, then put the upper packaging foam on the unit.   
+4. Close the carton and seal it with the tape.   
+5. Using the packing belt if necessary.
+
+NOTE: Please keep all packaging items if you may need in the future.
+
+# OPERATION INSTRUCTIONS
+
+![](images/f3e2cb48bc94ebcbe5decaefd41a85e00491cf0835737a0913b23c93fa10dafb.jpg)
+
+# NOTE
+
+- Different models have different front panel and display window. Not all the indicators describing below are available for the air conditioner you purchased. Please check the indoor display window of the unit you purchased.   
+- Illustrations in this manual are for explanatory purposes. The actual shape of your indoor unit may be slightly different. The actual shape shall prevail.
+
+Indoor Unit Display   
+![](images/136f8a1b3fc1e9315fd8fa397f703ff039f7fd6abe543bf582026b79acaa4a23.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Front Panel
+Air Outlet
+Functional Filter
+(On Back of Main Filter-Some Units)
+Remote Control
+Display window
+Remote Control Holder
+(purchase separately)
+</details>
+
+![](images/29e0467c76745ebcfcd90456ea13e6c99121020a20e2c0b418bd37869faadbf2.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Air Filter
+</details>
+
+<table><tr><td>Display Windows</td><td><img src="images/54a09f7915b734d9882a1ab29c01e053b7b39b5e7146042ad88ecaa8d0ab0c40.jpg"/> (Model A)</td><td><img src="images/771adab8e0c0cb964a94f7505174b09fccb7793a2e13d89660638e2b7650c175.jpg"/> (Model B)</td></tr><tr><td>Display Code</td><td colspan="2">Display Code Meanings</td></tr><tr><td>fresh</td><td colspan="2">When Fresh and UV-C lamp(if any) feature is activated(some units).</td></tr><tr><td>defrost</td><td colspan="2">When defrost feature is activated.</td></tr><tr><td>run</td><td colspan="2">When the unit is on.</td></tr><tr><td>timer</td><td colspan="2">When TIMER is set.</td></tr><tr><td></td><td colspan="2">When Wireless Control feature is activated(some units).</td></tr><tr><td>00</td><td colspan="2">Displays temperature, operation feature and Error codes:</td></tr><tr><td>ON(for 3s when)</td><td colspan="2">TIMER ON is set (if the unit is OFF, “ON” remains on when TIMER ON is set ).FRESH, UV-C lamp, SWING, TURBO, SILENCE or SOLAR PV ECO feature is turned on.</td></tr><tr><td>OF(for 3s when)</td><td colspan="2">TIMER OFF is set.FRESH, UV-C lamp, SWING, TURBO, SILENCE or SOLAR PV ECO feature is turned off.</td></tr><tr><td>cF</td><td colspan="2">When anti-cold air feature is turned on.</td></tr><tr><td>dF</td><td colspan="2">When defrosting(cooling &amp; heating units).</td></tr><tr><td>DL</td><td colspan="2">When Active Clean feature(For Inverter split units)/self-cleaning feature(For Fixed-speed units ) is turned on.</td></tr><tr><td>FP</td><td colspan="2">When 8°C heating feature is turned on(some units).</td></tr></table>
+
+# Operating Temperature
+
+When your air conditioner is used outside of the following temperature ranges, certain safety protection features may activate and cause the unit to disable.
+
+Inverter Split Type 
+
+<table><tr><td></td><td>COOL Mode</td><td>HEAT Mode</td><td>DRY Mode</td></tr><tr><td>Room Temp.</td><td>16°C~32°C(60°F~90°F)</td><td>0°C~30°C(32°F~86°F)</td><td>10°C~32°C(50°F~90°F)</td></tr><tr><td rowspan="3">Outdoor Temp.</td><td>0°C~50°C(32°F~122°F)</td><td rowspan="2">-15°C~24°C(5°F~75°F)</td><td rowspan="2">0°C~50°C(32°F~122°F)</td></tr><tr><td>-15°C~50°C(5°F~122°F)For models withlow temp. cooling systems.</td></tr><tr><td>0°C~52°C(32°F~126°F)For special tropical models</td><td>-15°C~24°C(5°F~75°F)</td><td>0°C~52°C(32°F~126°F)For special tropical models</td></tr></table>
+
+# FOR OUTDOOR UNITS WITH AUXILIARY ELECTRIC HEATER
+
+When outside temperature is below $0^{\circ}$ C ( $32^{\circ}$ F), we strongly recommend keeping the unit plugged in at all time to ensure smooth ongoing performance.
+
+Fixed-speed Type 
+
+<table><tr><td></td><td>COOL Mode</td><td>HEAT Mode</td><td>DRY Mode</td></tr><tr><td>Room Temp.</td><td>16°C~32°C (60°F~90°F)</td><td>0°C~30°C (32°F~86°F)</td><td>10°C~32°C(50°F~90°F)</td></tr><tr><td rowspan="3">Outdoor Temp.</td><td>18°C~43°C (64°F~109°F)</td><td rowspan="2">-7°C~24°C(19°F~75°F)</td><td>11°C~43°C (52°F~109°F)</td></tr><tr><td>-7°C~43°C (19°F~109°F)For models with low-temp cooling systems</td><td>18°C~43°C (64°F~109°F)</td></tr><tr><td>18°C~52°C (64°F~126°F)For special tropical models</td><td>-7°C~24°C(19°F~75°F)</td><td>18°C~52°C (64°F~126°F)For special tropical models</td></tr></table>
+
+NOTE: Room relative humidity less than 80%. If the air conditioner operates in excess of this figure, the surface of the air conditioner may attract condensation. Please sets the vertical air flow louver to its maximum angle (vertically to the floor), and set HIGH fan mode.
+
+# To further optimize the performance of your unit, do the following:
+
+- Keep doors and windows closed.   
+- Limit energy usage by using TIMER ON and TIMER OFF functions.   
+- Do not block air inlets or outlets.   
+- Regularly inspect and clean air filters.
+
+# More features
+
+![](images/e6815604510d3572012a8f0bbe4c1ea69b8a7eb99351ce5733760a9881a3995e.jpg)
+
+# NOTE
+
+Not all the functions are available for the air conditioner you purchased, please check the indoor display and remote control of your unit.
+
+# - Auto-Restart
+
+If the unit loses power, it will automatically restart with the prior settings once power has been restored.
+
+# - Anti-mildew
+
+When turning off the unit from COOL, AUTO (COOL), or DRY modes, the air conditioner will continue operate at very low power to dry up condensed water and prevent mildew growth.
+
+# • Wireless Control (Model dependent)
+
+Wireless control allows you to control your air conditioner using your mobile phone and a wireless connection.
+
+For the USB device access, replacement, maintenance operations must be carried out by professional staff.
+
+# • Active Clean function(some units)
+
+-- The Active Clean Technology washes away dust when it adheres to the heat exchanger by automatically freezing and then rapidly thawing the frost. A “pi-pi” sound will be heard. The Active clean operation is used to produce more condensed water to improve the cleaning effect, and the cold air will blow out. After cleaning, the internal wind wheel then keeps operating with hot air to blow-dry the evaporator, thus keeping the inside clean.   
+-- When this function is turned on, the indoor unit display window appears “CL”, after 20 to 130 minutes, the unit will turn off automatically and cancel Active Clean function.   
+-- For some units, the system will start high-temperature cleaning process, and the temperature of air outlet is very high. Please keep away from it. And this would lead to the rising of the room temperature.
+
+# - Louver Angle Memory
+
+When turning on your unit, the louver will automatically resume its former angle.
+
+# • Refrigerant Leakage Detection
+
+The indoor unit will automatically display “EC” or “ELOC” or flash LEDS (model dependent) when it detects refrigerant leakage.
+
+# - Breeze Away (some units)
+
+This feature avoids direct air flow blowing on the body and make you feel indulging in silky coolness.
+
+# - Sleep Operation
+
+The SLEEP function is used to decrease energy use while you sleep (and don't need the same temperature settings to stay comfortable).
+
+Press the SLEEP button on remote control when in COOL mode, the unit will increase the temperature by $1^{\circ}$ C ( $2^{\circ}$ F) after 1 hour, and will increase an additional $1^{\circ}$ C ( $2^{\circ}$ F) after another hour.
+
+When in HEAT mode, the unit will decrease the temperature by $1^{\circ}$ C ( $2^{\circ}$ F) after 1 hour, and will decrease an additional $1^{\circ}$ C ( $2^{\circ}$ F) after another hour.
+
+The sleep feature will stop after 8 hours and the system will keep running with final situation.
+
+![](images/72b7a33ada4bd0a7d872d8db755a1365d391b41363ba48095d93f8c8c24df053.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph LR
+    A["Set temperature"] --> B["1hr"]
+    B --> C["1hr"]
+    C --> D["Keep running"]
+    E["Heat mode (-1 C/2 F) per hour for the first two hours"] --> F["Sun icon"]
+    G["Saving energy during sleep"] --> H["Bed with person"]
+```
+</details>
+
+![](images/c3c50cfd1cffceb47b4c053f12d121dfd02860cee245790041c2685cc6cb454a.jpg)
+
+# NOTE : Setting vertical angle of air flow(Remote control)
+
+While the unit is on, use the SWING/DIRECT button on remote control to set the direction (vertical angle) of airflow. Please refer to the Remote Control Manual for details.
+
+# NOTE ON LOUVER ANGLES
+
+- Do not set louver at too vertical an angle for long periods of time. When using COOL or DRY mode. It would be condense the water on the louver blade, which will drop on your floor or furnishings.   
+- Setting the louver at too small an angle when using COOL or HEAT mode, can reduce the performance of the AC due to restricted air flow.   
+- According to the relative standards requirement, please sets the vertical air flow louver to its maximum angle under heating capacity test.
+
+![](images/726a04960557e84ee8d5751891291e58cd0672170456a909cf2f52efa75f1b9e.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Pure technical line drawing of a mechanical part or bracket (no text or symbols)
+</details>
+
+![](images/4277a30971a354efa164f8f5ef6f83bc7052e674a4d0c5ebef8b394afd0d4e4a.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a door-shaped object with no text or symbols
+</details>
+
+![](images/7e34d2b98f9329f46c0dce297ff05166fdd292096bf22b681cf27c54d33a6d4e.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Heating
+Capacity
+Test
+</details>
+
+![](images/2c4785371a62c712b0cfd3353cc5373e9a1bd34051cfccf9ed71c4c336937ec4.jpg)
+
+# NOTE
+
+Do not move louver by hand. You can turn off the unit and unplug it for a few seconds to restart the unit. It will be reset the louver when you try.
+
+# Setting horizontal angle of air flow(Manual operation)
+
+The horizontal angle of the airflow must be set manually. Grip the deflector rod and manually adjust it to your preferred direction.
+
+For some units, the horizontal angle of the airflow can be set by remote control. please refer to the Remote Control Manual.
+
+![](images/df7a8d52b3251a0b866cf2a0965336499f808158282abd32886cd41369f568f6.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Diagram of a car air conditioner unit with a hand inserting a button into the air gap (no text or symbols present)
+</details>
+
+Deflector rod
+
+![](images/ce8ffcc15c18d9b28e0bf811f7baf0c2dbb5c85fb356c78ecff8522e3a155d2c.jpg)
+
+# CAUTION
+
+Do not put your fingers in or near the blowerand suction side of the unit. The high-speed fan inside the unit may cause injury.
+
+# Manual Operation(without remote)
+
+![](images/3364e2aed4545cfa10998f49765088bf7e1e030566572336239d5053aabe62b7.jpg)
+
+# CAUTION : FOR PRODUCT USE
+
+The manual button is intended for testing purposes and emergency operation only. Please do not use this function unless the remote control is lost and it is absolutely necessary. To restore regular operation, use the remote control to activate the unit. Unit must be turned off before manual operation.
+
+# To operate your unit manually:
+
+- Open the front panel of the indoor unit.   
+Note: For some units, there is a supporting rod located on the left or right side. Please use it to prop up the panel.   
+- Locate the MANUAL CONTROL button on the right-hand side of the unit.   
+- Press the MANUAL CONTROL button one time to activate FORCED AUTO mode.   
+- Press the MANUAL CONTROL button again to activate FORCED COOLING mode.   
+- Press the MANUAL CONTROL button a third time to turn the unit off.   
+- Release the supporting rod(if any), then close the front panel.
+
+![](images/f331780171f3d3390623fba852cf06ba0f6254d5abecef13d9b28bb33949a1d2.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Supporting rod
+(located on the
+left or right,
+model dependent )
+AUTO/COOL
+Manual
+control
+button
+</details>
+
+# Remote Control Operation
+
+<table><tr><td>Model</td><td>RG10A(B2S)/BGEF, RG10A(B2S)/BGEFU1, RG10A1(B2S)/BGEF,RG10A2(B2S)/BGEFU1, RG10A2(B2S)/BGCEFU1, RG10A2(B2S)/BGCEF, RG10A10(B2S)/BGEF</td></tr><tr><td>Rated Voltage</td><td>3.0V( Dry batteries R03/LR03×2)</td></tr><tr><td>Signal Receiving Range</td><td>8m</td></tr><tr><td>Environment</td><td>-5°C~60°C(23°F~140°F)</td></tr></table>
+
+# Quick Start Guide
+
+1 FIT BATTERIES   
+![](images/c5fbfb55650b1e8accb963ca8e31a0b432f8f64bdaa84b9a57b40d7e9964bf35.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Diagram of a remote device with internal components and directional arrows indicating movement (no text or symbols)
+</details>
+
+2 SELECT MODE   
+![](images/5ea2e4e8919bda12256e9dfc0c04f50ea0b5b4b2a6525f5a143a54d0420718b2.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph TD
+    A["AUTO"] --> B["COOL"]
+    B --> C["DRY"]
+    C --> D["HEAT"]
+    D --> E["FAN"]
+    E --> A
+    F["Mode"] --> G["Arrow pointing inward"]
+```
+</details>
+
+![](images/6f8c649ede84e354511aa4918e2f3c66d6dfb07bb51188292f006b295c4a57d7.jpg)
+
+3 SELECT TEMPERATURE  
+![](images/ed6f81fb851014a4d0ba96ad3a7ee5b8945b1fc85571cc04c166d6cc5cccb409.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Diagram showing finger pressing a button with checkmark and upward/downward arrows, indicating action or navigation
+</details>
+
+6 PRESS POWER BUTTON   
+![](images/5b0231eac7be69f6223280e6af74fbe78928abde84e62fefdb29575569aa09bc.jpg)
+
+<details>
+<summary>text_image</summary>
+
+ON / OFF
+</details>
+
+5 POINT REMOTE TOWARD UNIT   
+![](images/ced740cb45c9d55ec6def476eb432bda592d76dc01d4782ef64ad764ce884795.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of an air conditioner unit with a remote control panel and indicator lights (no text or symbols)
+</details>
+
+4 SELECT FAN SPEED   
+![](images/00a6c23a9adc09f85cef0f1117430d53d43afe456d55ae5f0d445929b6163d15.jpg)
+
+<details>
+<summary>text_image</summary>
+
+AU-100%
+</details>
+
+# NOT SURE WHAT A FUNCTION DOES?
+
+Refer to the How to Use Basic Functions and How to Use Advanced Functions sections of this manual for a detailed description of how to use your air conditioner.
+
+# SPECIAL NOTE
+
+- Button designs on your unit may differ slightly from the example shown.   
+- If the indoor unit does not have a particular function, pressing that function's button on the remote control will have no effect.   
+- When there are wide differences between “Remote controller Manual” and “USER’S MANUAL” on function description, the description of “USER’S MANUAL” shall prevail.
+
+# Inserting and Replacing Batteries
+
+Your air conditioning unit may come with two batteries(some units). Put the batteries in the remote control before use.
+
+1. Slide the back cover from the remote control downward, exposing the battery compartment.   
+2. Insert the batteries, paying attention to match up the (+) and (-) ends of the batteries with   
+3. the symbols inside the battery compartment.
+Slide the battery cover back into place.
+
+![](images/02e148f9d7aa0c6e222a56e12d529d2dda37abd9af65a7f523eefa41da2caef8.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a hand holding a remote control panel with arrows indicating movement (no text or symbols)
+</details>
+
+![](images/4d46e3b17bbca4d7689069a5ba57e46ecbeed292855a24f51e8df76096d5a899.jpg)
+
+# BATTERY NOTES
+
+For optimum product performance:
+
+- Do not mix old and new batteries, or batteries of different types.   
+- Do not leave batteries in the remote control if you don't plan on using the device for more than 2 months.
+
+![](images/dd7ff5612a61661e354576e2f83d2f4dc2fae7a8c4a90344952e6cd9d9d75366.jpg)
+
+# BATTERY DISPOSAL
+
+Do not dispose of batteries as unsorted municipal waste. Refer to local laws for proper disposal of batteries.
+
+# TIPS FOR USING REMOTE CONTROL
+
+- The remote control must be used within 8 meters of the unit.   
+- The unit will beep when remote signal is received.   
+- Curtains, other materials and direct sunlight can interfere with the infrared signal receiver.   
+- Remove batteries if the remote will not be used more than 2 months.
+
+# NOTES FOR USING REMOTE CONTROL
+
+The device could comply with the local national regulations.
+
+- In Canada, it should comply with CAN ICES-3(B)/NMB-3(B).   
+- In USA, this device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions:
+
+(1) This device may not cause harmful interference, and   
+(2) this device must accept any interference received, including interference that may cause undesired operation.
+
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
+
+- Reorient or relocate the receiving antenna.   
+- Increase the separation between the equipment and receiver.   
+- Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.   
+- Consult the dealer or an experienced radio/TV technician for help.   
+- Changes or modifications not approved by the party responsible for compliance could void user's authority to operate the equipment.
+
+![](images/0b07caa80197eb72adc0f2b00c58d3d89eaf232fc88d374ccb0d535396df43a6.jpg)
+
+<details>
+<summary>text_image</summary>
+
+1
+2
+3
+4
+5
+6
+7
+SET
+OK
+8
+9
+10
+11
+12
+Boost
+LED
+Clean
+13
+14
+</details>
+
+# Model:
+
+RG10A2(B2S)/BGEFU1.
+
+RG10A10(B2S)/BGEF(20-28°C/68-82°F).
+
+RG10A(B2S)/BGEF & RG10A(B2S)/BGEFU1
+
+( Fresh feature is not available)
+
+RG10A2(B2S)/BGCEFU1 & RG10A2(B2S)/
+
+BGCEF(Cooling only models, AUTO mode and HEAT mode are not available)
+
+<table><tr><td colspan="2">Description</td></tr><tr><td>No.1</td><td>ON/OFF<img src="images/b673ab7b8c58a8d2b17a952faab07433c22d00683c3d7ff46d1f97baa25bf7f2.jpg"/>Turn the unit on or off.</td></tr><tr><td>No.2</td><td>MODE<img src="images/2233160838e54172a2209fbd19cc352de597479844a853ab4f997d726dd6dfce.jpg"/>Auto &gt; Cool &gt; Dry &gt; Heat &gt; FanNOTE:HEAT mode is not supported by the cooling only appliance.</td></tr><tr><td>No.3</td><td>ECO/GEARECO &gt; GEAR(75%) &gt; GEAR(50%) &gt; Previous setting mode &gt; ECO</td></tr><tr><td>No.4</td><td>TEMP.[ZCTS]Increases temperature in 1°C (1°F) increments. Max. temperature is 30°C (86°F).(Press together ∧ &amp; ∨ buttons at the same time for 3 seconds will alternate the temperature display between the °C &amp; °F).</td></tr><tr><td>No.5</td><td>SET<img src="images/fd17a96ddd60207d15db78d0b0f1ac297d41080cceb5264ba93b332f386acf8d.jpg"/>Air magic/UV lamp* &gt; Sleep &gt; Follow Me &gt; AP mode * &gt; Air magic/UV lamp*[*]: Model dependent</td></tr><tr><td>No.6</td><td>OK<img src="images/421938d3f227516d5f9eb7933d5ae6226deb89e8932717bd4a787f9ef74a4a35.jpg"/>Used to confirm the selected functions</td></tr><tr><td>No.7</td><td>TEMP.<img src="images/d964bbbbb68f289856f64abd2925e33160db0648c5d5a66b18fef54ebc54b266.jpg"/>Set timer to turn unit on or off</td></tr><tr><td>No.8</td><td>TEMP.[ST6T]Decreases temperature in 1°C (1°F) increments. Min. temperature is 16°C (60°F)</td></tr><tr><td>No.9</td><td>FAN SPEED[AU &gt; 20% &gt; 40% &gt;60% &gt; 80% &gt; 100%Press the TEMP ∧ or ∨ button to increase/ decrease the fan speed in 1% increments.</td></tr><tr><td>No.10</td><td>SWING<img src="images/3e7e2709b503f0fe6e4b2723272a9ec518a998e8b20c1e7079759c327a4378e5.jpg"/>Starts and stops the horizontal louver movement. Hold down for 2 seconds to initiate vertical louver auto swing feature(some units).</td></tr><tr><td>No.11</td><td>BREEZE AWAY<img src="images/bfafc6861e5bd90d4d903586f8313210181f2d3888dc7f8a1ed1a83655ded69f.jpg"/>Avoids direct air flow blowing on the body(This feature is available under cool, Fan and Dry mode only)</td></tr><tr><td>No.12</td><td>BOOST<img src="images/515038efcc00340866223fd0301388ccfb7c4eed755b93c965ea8a4ac6d1bef1.jpg"/>Reach desired temperature in shortest possible time.</td></tr><tr><td>No.13</td><td>LED<img src="images/32a5c7a3a5255b662eb066eab8cd5741b1d4940d55b25b8f5bc3814604c8f68d.jpg"/>Turns LED display &amp; air conditioner buzzer on and off</td></tr><tr><td>No.14</td><td>CLEAN<img src="images/8f58773a39ee30ca1ecd485b7e246675de3726ce7a4eba3bd64070d9524c75f9.jpg"/>Used to start/stop the Self Clean or Active Clean function.</td></tr><tr><td>No.15</td><td>B<img src="images/245b8573aa75c5990b55cf93f3a0e725c4da90d8a7e2148dd13b08b2c69ad381.jpg"/> — 📁 — CleanLOCKPress together these two buttons simultaneously for 5 seconds to lock the keyboard. Press together these two buttons for 2 seconds to unlock the keyboard.</td></tr></table>
+
+![](images/44e135bfd4e0eef304d6265ffec18f88f03d9ac065fe2c7f9dcf10898da7d558.jpg)
+
+<details>
+<summary>text_image</summary>
+
+1
+Mode
+leco
+gear
+2
+3
+4
+5
+SET
+OK
+6
+7
+8
+9
+Swing
+air
+magic
+10
+11
+13
+14
+Boost
+LED
+Clean
+</details>
+
+Model:   
+RG10A1(B2S)/BGEF
+
+<table><tr><td colspan="2">Description</td></tr><tr><td>No.1</td><td>ON/OFF<img src="images/bdb8bc4149411d7330ccf336d2a919ab61c4544f01151965e662b1b48045add6.jpg"/>Turn the unit on or off.</td></tr><tr><td>No.2</td><td>MODE[8DZS]Auto &gt; Cool &gt; Dry &gt; Heat &gt; FanNOTE:HEAT mode is not supported by the cooling only appliance.</td></tr><tr><td>No.3</td><td>ECO/GEARECO &gt; GEAR(75%) &gt; GEAR(50%) &gt; Previous setting mode &gt; ECO</td></tr><tr><td>No.4</td><td>TEMP.Increases temperature in 1°C (1°F) increments. Max. temperature is 30°C (86°F).(Press together ∧ &amp; ∨ buttons at the same time for 3 seconds will alternate the temperature display between the °C &amp; °F).</td></tr><tr><td>No.5</td><td>SETBreeze away* &gt; Sleep &gt; Follow Me &gt; AP mode* &gt; Breeze away*[*]: Model dependent</td></tr><tr><td>No.6</td><td>OKUsed to confirm the selected functions</td></tr><tr><td>No.7</td><td>TEMP.Set timer to turn unit on or off</td></tr><tr><td>No.8</td><td>TEMP.Decreases temperature in 1°C (1°F) increments. Min. temperature is 16°C (60°F)</td></tr><tr><td>No.9</td><td>FAN SPEEDAU &gt; 20% &gt;40% &gt; 60% &gt; 80% &gt; 100%Press the TEMP ∧ or ∨ button to increase/ decrease the fan speed in 1% increments.</td></tr><tr><td>No.10</td><td>SWINGStarts and stops the horizontal louver movement. Hold down for 2 seconds to initiate vertical louver auto swing feature(some units).</td></tr><tr><td>No.11</td><td>Air magicUsed to start/stop the Air magic and UV-C lamp (if any) function.</td></tr><tr><td>No.12</td><td>BOOSTReach desired temperature in shortest possible time.</td></tr><tr><td>No.13</td><td>LEDTurns LED display &amp; air conditioner buzzer on and off</td></tr><tr><td>No.14</td><td>CLEANUsed to start/stop the Self Clean or Active Clean function.</td></tr><tr><td>No.15</td><td>Boost —— ▲ —— Clean<img src="images/64b21efa372c9e61d95090c5a16a8110616f8ac2cebd600d4d2f54e487ca68cc.jpg"/>LOCKPress together these two buttons simultaneously for 5 seconds to lock the keyboard. Press together these two buttons for 2 seconds to unlock the keyboard.</td></tr></table>
+
+# Remote Screen Indicators
+
+Information are displayed when the remote controller is power up.
+
+![](images/5c8ec0e54a1d6735f6041b0d5bcb17a5192aac23c63288d4bb7df867c2cea1d8.jpg)
+
+<details>
+<summary>other</summary>
+
+| Category | Value |
+| -------- | ----- |
+| Breeze * Away | 88.8% |
+| Active clean | 88.8% |
+| Air magic/* UV lamp mode | 88.8% |
+| Sleep mode | 88.8% |
+| Follow me | 88.8% |
+| Wireless* control | 88.8% |
+| Low battery (If flashes) | 88.8% |
+| MODE display Displays the current mode | 88.8% |
+| Transmission Indicator | 88.8% |
+| ECO Feature | 88.8% |
+| GEAR Feature | 88.8% |
+| Timer ON | 88.8% |
+| Timer OFF | 88.8% |
+| Lock Feature | 88.8% |
+| Slience Feature | 88.8% |
+| Temperature/Timer/Fan speed display Displays the set temperature by default, or fan speed or timer setting when using TIMER ON/OFF functions. | 88.8% |
+| FAN SPEED | 88.8% |
+| AUTO | 1% - 20% |
+| SLIENCE | 21-40% |
+| LOW | 41-60% |
+| MED | 61-80% |
+| HIGH | 81-100% |
+Horizontal louver swing
+A B Not available for this unit
+Boost mode
+</details>
+
+[\*]: Model dependent
+
+# NOTE
+
+1. All indicators shown in the figure are for the purpose of clear presentation. But during the actual operation, only the relative function signs are shown on the display window.
+
+![](images/8e9c68304be44e3110da59bd1c1d95ff0b902a503e3e341e6352fcfac94a6223.jpg)
+
+# NOTE
+
+Before operation, please ensure the unit is plugged in and power is available.
+
+# AUTO Mode
+
+Select AUTO mode
+
+![](images/277cbe9c22fb91581095975d49b606bbd86e63fff7cbcdae7f2d02c23f971451.jpg)
+
+![](images/67ddef12d11630251ab146153b6ed5c36ac9b41f521f5f1b974b09689ad01589.jpg)
+
+Set your desired temperature
+
+![](images/351ed56b700ce09fb402bc2d195e9eef2c4a004c89ebf8b3928bc1eb3a0a4350.jpg)
+
+![](images/857695d522ea0f618d960b75b015acbe4308e056866e17621e98cbe8e1b7b43f.jpg)
+
+Turn on the air conditioner
+
+![](images/bc1679551edf2304c7fdc2895172e3a46360b9971711d35b2f4ae178826fa82a.jpg)
+
+# NOTE:
+
+1. In AUTO mode, the unit will automatically select the COOL, FAN, or HEAT function based on the set temperature.   
+2. In AUTO mode, fan speed can not be set.
+
+# COOL or HEAT Mode
+
+Select COOL/HEAT mode
+
+![](images/ddf0511f0a51bcd3cc71fa0ea7605fba68d074c7aabcd264786e84415e981af6.jpg)
+
+![](images/45832bfcdf62b3ecf69b7c9b3c5e12fcdabf07a4b04e03ff47a2946a727d37bb.jpg)
+
+Set the temperature
+
+![](images/2c35bec728b854ee1bfe8bb8cc3c1f04a3d776a257f2b6eab034908e6a0e90a0.jpg)
+
+![](images/3a02ac6150407d06efd51821096a095f2a4202ff33bfd12ede87bc278cae5ed5.jpg)
+
+Set the fan speed
+
+![](images/7f4240868fbab26d06ad1383a885c4dd777474cce7d0e9ca2ac6ce6cf7074763.jpg)
+
+![](images/969f170e45c907840c0fdd9d66af11576bf3f0c167b5b63cea9c0c9c57925a26.jpg)
+
+Turn on the air
+conditioner
+
+![](images/ac446f8451b8363492d2b2247cda4b1f6846a3fb410bfebd207f546dc1870a9d.jpg)
+
+# DRY Mode
+
+Select DRY mode
+
+![](images/d073c09f7bc22086a919b544e48d910a7d1f8141a593db4da7eea1b7bbefef17.jpg)
+
+Set your desired temperature
+
+![](images/b3046d1d66725a0b82de64cfef9537297065fee1c063f3e6eeb26fcacda5c0f6.jpg)
+
+![](images/50de6e201ed6851663d5535182620ea390af3d783cdc024e9b5e16a74e70b956.jpg)
+
+![](images/537c8ea5bf70fdccf2f3a64f81dce3fd6661a6b11234376f62505a7af749c26c.jpg)
+
+Turn on the air conditioner
+
+![](images/6253b45d772e878792093a699a6915b0cb4f9af01b4704393bf5f742ab419149.jpg)
+
+NOTE: In DRY mode, fan speed can not be set since it has already been automatically controlled.
+
+# FAN Mode
+
+Select FAN mode
+
+![](images/29679cd3d1ec2078d6bd8381a4bca808580e00cb381c60d298c34388216e5c13.jpg)
+
+![](images/c6b24994fbf2034df2e07b1b8c6f1bec1cc08763c25efddcf2fccc41ea3cab00.jpg)
+
+Set the fan speed
+
+![](images/3e3bf82b33a4031f9b31cbe350a8e8ec93f80c649220a9d47046f29162f74e78.jpg)
+
+![](images/64b40af17dbad5263e0ca2caa5b6cb8eda065800e0f0a9b355704b8300fc6525.jpg)
+
+Turn on the air conditioner
+
+![](images/71df8145125a63ef1de4b93d1307c4270f4bd7296bad9f687ec76e3ab3ebcf01.jpg)
+
+NOTE: In FAN mode, you can't set the temperature. As a result, no temperature displays in remote screen.
+
+# Setting the TIMER
+
+TIMER ON/OFF - Set the amount of time after which the unit will automatically turn on/off.
+
+# TIMER ON setting
+
+Press TIMER button to initiate the ON time sequence.
+
+Press Temp. up or down button for for multiple times to set the desired time to turn on the unit.
+
+Point remote to unit and wait 1sec, the TIMER ON will be activated.
+
+![](images/76be51d9c0ffcdd0b361249c4109f3af9af0385392c10938a3fdace8a4a8421a.jpg)
+
+# TIMER OFF setting
+
+Press TIMER button to initiate the OFF time sequence.
+
+Press Temp. up or down button for for multiple times to set the desired time to turn off the unit.
+
+Point remote to unit and wait 1sec, the TIMER OFF will be activated.
+
+![](images/fe248f059ba2c3b05680303a3d9b4e14c36aaa72a948682779f3b8f590d9a1b4.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph LR
+    A["Hand icon: Clock"] --> B["Time to turn on unit"]
+    B --> C["5x5 timer icon"]
+    C --> D["9.0h display speed"]
+    D --> E["1sec device with monitor and phone icon"]
+```
+</details>
+
+# NOTE:
+
+1. When setting the TIMER ON or TIMER OFF, the time will increase by 30 minutes increments with each press, up to 10 hours. After 10 hours and up to 24, it will increase in 1 hour increments. (For example, press 5 times to get 2.5h, and press 10 times to get 5h,) The timer will revert to 0.0 after 24.   
+2. Cancel either function by setting its timer to 0.0h.
+
+# TIMER ON & OFF setting(example)
+
+Keep in mind that the time periods you set for both functions refer to hours after the current time.
+
+![](images/1e211dec6428aa25721a24c1736a800da4f3c8f9d6009f67dcfa5cd1490a6abe.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph LR
+    A["Start"] --> B["2.5h On"]
+    B --> C["2.5h Off"]
+    C --> D["5.0h ON"]
+    D --> E["1sec Off"]
+```
+</details>
+
+![](images/b9f1eaa389b488d4a81b358d9a49b6c945ab9f8c9c00751907d0519d6a879fd7.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph TD
+    A["Timer starts"] --> B["Current time 1PM"]
+    B --> C["2:00PM"]
+    C --> D["3:00PM"]
+    D --> E["3:30PM"]
+    E --> F["4PM"]
+    F --> G["5PM"]
+    G --> H["6PM"]
+    I["Unit turns ON"] --> E
+    J["Unit turns OFF"] --> H
+```
+</details>
+
+Example: If current timer is 1:00PM, to set the timer as above steps, the unit will turn on 2.5h later (3:30PM) and turn off at 6:00PM.
+
+![](images/5ccac66b0985813f51085e38d850966893b96503e35d369d83b007f0db8ac7ee.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph LR
+    A["2.5 hours late"] --> B["5 hours later"]
+```
+</details>
+
+# How to Use Advanced Functions
+
+# Swing function
+
+Press Swing button   
+![](images/aa3d39f1997943cb8e5a604c911e4a3d5737dd789772a504b3759c70dc37452e.jpg)
+
+![](images/a23351ef0703b43fead00f5178cc77968686bff08679832f8f964813b0a6e90e.jpg)
+
+![](images/f974be74a7bdc614a7a574e32d014fa517cb239f5cbe5e710bf3cd28726ca89b.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a rectangular device with a stack of books underneath, no text or symbols present.
+</details>
+
+The horizontal louver will swing up and down automatically when pressing Swing button. Press again to make it stop.
+
+Airflow direction   
+![](images/b5c9dcd4475f4be4bec8e0efc6245bf58738a4fa845839c905c0887e9730927c.jpg)
+
+![](images/56125fb42e57835199ce3a75e0b1c8d765b7a9652bdfafab94a2782e1304b02d.jpg)
+
+![](images/9bb95f157988c965b8b40478ffff72dcbef9d1dc3385711b35d72731021764ff.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a rectangular object with a stack of stacked layers below, no text or symbols present.
+</details>
+
+If continue to press the SWING button, five different airflow directions can be set. The louver can be move at a certain range each time you press the button. Press the button until the direction you prefer is reached.
+
+# LED DISPLAY
+
+![](images/1ea780fc738df9ea1db8e4b4bbf1c8480dc1212e6985a6ec31c57b9d66d7d591.jpg)
+
+Press this button to turn on and turn off the display on the indoor unit.
+
+![](images/699fb77430c7f6ebf95b33eaf1d512be0d92b88674365e39bc1e81a8ea526e07.jpg)
+
+Press this button more than 5 seconds(some units)
+
+Keep pressing this button more than 5 seconds, the indoor unit will display the actual room temperature. Press more than 5 seconds again will revert back to display the setting temperature.
+
+# BOOST Function
+
+Press Boost button   
+![](images/aad5eadc83fe863e0534c5568b18bf608557dde5f3a3329097e491737a845812.jpg)
+
+![](images/0c6862004f273a075f8cf4eb4d870eb8e30ad18ca37b03bf7210fae9c504a380.jpg)
+
+When you select Boost feature in COOL mode, the unit will blow cool air with strongest wind setting to jump-start the cooling process.
+
+When you select Boost feature in HEAT mode, the unit will blow heat air with strongest wind setting to jump-start the heating process(some units). For units with Electric heat elements, the Electric HEATER will activate and jump-start the heating process.
+
+![](images/0f19ed60ea52068c899babce23a7742e80abd0538107dfcceeed1ac88cfd68a9.jpg)
+
+![](images/e4c0cd0329c6f46efe44e515f8e8955157e510524e94c84564050d0d1859983d.jpg)
+
+Press this button to enter the energy efficient mode in a sequence of following:
+ECO → GEAR(75%) → GEAR(50%) → Previous setting mode → ECO......
+Note:This function is only available under COOL mode.
+
+# ECO operation:
+
+Under cooling mode, press this button, the remote controller will adjust the temperature automatically to $24^{\circ}$ C/ $75^{\circ}$ F, fan speed of Auto to save energy (only when the set temperature is less than $24^{\circ}$ C/ $75^{\circ}$ F). If the set temperature is above $24^{\circ}$ C/ $75^{\circ}$ F, press the ECO button, the fan speed will change to Auto, the set temperature will remain unchanged.
+
+NOTE: Pressing the ECO button, or modifying the mode or adjusting the set temperature to less than $24^{\circ}$ C/ $75^{\circ}$ F will stop ECO operation. Under ECO operation, the set tmeperature should be $24^{\circ}$ C/ $75^{\circ}$ F or above, it may result in insufficient cooling. If you feel uncomfortable, just press the ECO button again to stop it.
+
+# GEAR operation:
+
+Press the ECO/GEAR button to enter the GEAR operation as following:
+75%(up to 75% electrical energy consumption) → 50%(up to 50% electrical energy consumption)→ Previous setting mode.
+
+Under GEAR operation, the display on the remote controller will alternate between electrical energy consumption and set temperature.
+
+# Silence function
+
+![](images/539910dffd12a0739324c40580067ad3606f3b1d282a2f971ae73c2d1bb106ec.jpg)
+
+Keep pressing Fan button for more than 2 seconds to activate/disable Silence function.
+
+Due to low frequency operation of compressor, it may result in insufficient cooling and heating capacity. Press ON/OFF, Mode, Sleep, Boost or Clean button while operating will cancel silence function.
+
+# FP function
+
+Press this button 2 times during one second under HEAT Mode and setting temperature of $16^{\circ}\mathrm{C} / 60^{\circ}\mathrm{F}$ to activate the FP function.
+
+![](images/6f855c6c1c12e8b69944cedf3c53705455928e375abcfeaab098c4570e16c3b7.jpg)
+
+<details>
+<summary>text_image</summary>
+
+X2
+</details>
+
+The unit will operate at high fan speed (while compressor on) with temperature automatically set to $8^{\circ}$ C/ $46^{\circ}$ F.
+
+![](images/da9fbd53f01b2d4f186fe1fd9e5e71127700bacf96fada7e786fee095894b45c.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph LR
+    A["SET"] --> B["SET"]
+    B --> C["OR"]
+    C --> D["SET TEMP. 26 °C"]
+    D --> E["OK"]
+```
+</details>
+
+- Press the SET button to enter the function setting, then press SET button or TEMP √ or TEMP ∧ button to select the desired function. The selected symbol will flash on the display area, press the OK button to confirm.   
+- To cancel the selected function, just perform the same procedures as above.   
+- Press the SET button to scroll through operation functions as follows:
+
+Breeze Away $^{*}$ ( $Ⓠ$ )→ Air magic/UV lamp $^{*}$ ( $Ⓞ$ )→ Sleep( $Ⓥ$ )→ Follow Me( $Ⓛ$ )→ AP mode $^{*}$ ( $Ⓦ$ )
+[\*]: If your remote controller has Breeze Away button or Air magic button, you can not use the SET button to select the Breeze Away or Air magic/UV lamp feature.
+
+# Breeze Away function (some units):
+
+This feature avoids direct air flow blowing on the body and makes you feel indulging in silky coolness.
+
+NOTE: This feature is available under cool, Fan and Dry mode only.
+
+# Air magic/UV-C function(some units)
+
+When the Air magic function is initiated, the ion generator is energized and will help to purify the air inside. When the UV function is initiated, the UV lamp emit UV-C radiation to help to purify the air inside.
+
+# Sleep function
+
+The SLEEP function is used to decrease energy use while you sleep(and don't need the same temperature settings to stay comfortable).
+
+NOTE: The SLEEP function is not available in FAN and DRY mode.
+
+# AP function(some units) :
+
+Choose AP mode to do wireless network configuration. For some units, it doesn't work by pressing the SET button. To enter the AP mode, continuously press the LED button seven times in 10 seconds.
+
+# Follow me function
+
+The FOLLOW ME function enables the remote control to measure the temperature at its current location and send this signal to the air conditioner every 3 minutes interval. When using AUTO, COOL or HEAT modes, measuring ambient temperature from the remote control (instead of from the indoor unit itself) will enable the air conditioner to optimize the temperature around you and ensure maximum comfort.
+
+NOTE: Press and hold Boost button for seven seconds to start/stop memory feature of Follow Me function.
+
+- If the memory feature is activated, "On" displays for 3 seconds on the screen.   
+- If the memory feature is stopped, "OF" displays for 3 seconds on the screen.   
+- While the memory feature is activated, press the ON/OFF button, shift the mode or power failure will not cancel the Follow me function.
+
+# CARE AND MAINTENANCE
+
+![](images/f682fe9db265db173fb08459c548bb0ca2f4e058e038b4fe202ed86812b17200.jpg)
+
+# CAUTION
+
+- The cooling efficiency of your unit and your health would be damaged for the glogged AC, Make sure to clean the filter every two weeks.   
+- Always TURN OFF your AC system and disconnect its power supply before cleaning or maintenance.   
+- Do not touch air freshening (Plasma) filter at least 10 minutes after turning off the unit.   
+- Only use a soft, dry cloth to wipe the unit clean. You can use a cloth soaked in warm water to wipe it clean if the unit is especially dirty.   
+- Do not use chemicals or chemically treated cloths to clean the unit   
+- Do not use benzene, paint thinner, polishing powder or other solvents to clean the unit. They can cause the plastic surface to crack or deform.   
+- Do not use water hotter than $40^{\circ}\mathrm{C}$ (104°F) to clean the front panel. This can cause the panel to deform or become discolored.
+
+# Cleaning Your Indoor Unit, Air Filter
+
+![](images/35e63ea0e9764bfbd28fd3bdb536d77a09c0706cb3cb0a8fb42ef7650cb070a8.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Grab the clasp
+and lift
+</details>
+
+# Step 1:
+
+Lift the front panel of the indoor unit. For the unit with supporting rod, please use it to prop up the front panel.
+
+![](images/10bff1f99b0ee1c3b423d0ba1c80c7be88898f9b0e2441ede04429f9513ca1ce.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Filter Tabs
+</details>
+
+# Step 2:
+
+Grip the tab on the end of the filter, lift it up, then pull it towards yourself and pull the filter out.
+
+![](images/8c47b643ffc01cc4ce6fa2200082613773f337f9d377c798803449a6249822d8.jpg)  
+1. Flip to back
+
+![](images/f007b80010d37a5aa6ba8421d670f438ddcdfcc73de98fbc2d18053f292d5ecf.jpg)
+
+<details>
+<summary>text_image</summary>
+
+(Back)
+</details>
+
+2. Remove air freshening filter off (some units)
+
+![](images/630cb7d874dc9ed3f2810fd4ab3658455319a8cd90ae2639b1fc2ec527e9ee72.jpg)
+
+<details>
+<summary>text_image</summary>
+
+7. Clean it by
+</details>
+
+3. Clean it by vacuum cleaner
+
+# Step 3:
+
+If your filter has a small air freshening filter, unclip it from the larger filter. Clean this air freshening filter with a hand-held vacuum.
+
+![](images/c86e43fc79deda0ccd7618e02794f335cfa4fc9e1e59387de8a63239d9f9f078.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Don't forget to
+install me back
+</details>
+
+# Step 4:
+
+Clean the large air filter with warm, soapy water. Be sure to use a mild detergent. Rinse the filter with fresh water, then shake off excess water. Dry it in a cool, dry place, and refrain from exposing it to direct sunlight.
+
+![](images/125e05c1caf381a221a8339eea1ca4fd1792466c45758e54c51e3168ee2f6ba3.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a rectangular object with sparkles on both sides (no text or symbols)
+</details>
+
+# Step 5:
+
+When dry, re-clip the air freshening filter to the larger filter, then slide it back into the indoor unit. Finally, Close the front panel of the indoor unit.
+
+![](images/0aa42c8a0fedf02d7745cb91e9a73ace61edf632a880560f4a469d19ee8f0e5f.jpg)
+
+# CAUTION
+
+- Before changing the filter or cleaning, turn off the unit and disconnect its power supply.   
+- When removing filter, do not touch metal parts in the unit. The sharp metal edges can cut you.   
+- Do not use water to clean the inside of the indoor unit. This can destroy insulation and cause electrical shock.   
+- Do not expose filter to direct sunlight when drying. This can shrink the filter.   
+- Any maintenance and cleaning of outdoor unit should be performed by an authorized dealer or a licensed service provider.   
+- Any unit repairs should be performed by an authorized dealer or a licensed service provider.
+
+# Air Filter Reminders (Optional)
+
+![](images/1b7a59cc71725496baa536fc54b806bff8eb7d477b9a486ae848ec53567ce4e3.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a laptop with a screen, enclosed in a circle (no text or symbols)
+</details>
+
+Display window: "CL"
+
+![](images/1fbb95f548bb81b6a17d0abe12cb7bb0371874a39aa10adf4781ac06dc02c64f.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a device inside a circle (no text or symbols)
+</details>
+
+Display window: "nF"
+
+# Air Filter Cleaning Reminder
+
+- After 240 hours of use, the display window on the indoor unit will flash “CL.” This is a reminder to clean your filter. After 15 seconds, the unit will revert to its previous display.   
+- To reset the reminder, press the LED button on your remote control 4 times, or press the MANUAL CONTROL button 3 times. If you don't reset the reminder, the "CL" indicator will flash again when you restart the unit.
+
+# Air Filter Replacement Reminder
+
+- After 2,880 hours of use, the display window on the indoor unit will flash “nF.” This is a reminder to replace your filter. After 15 seconds, the unit will revert to its previous display.   
+- To reset the reminder, press the LED button on your remote control 4 times, or press the MANUAL CONTROL button 3 times. If you don't reset the reminder, the "nF" indicator will flash again when you restart the unit.
+
+# Maintenance your AC.
+
+# Maintenance - Long Periods of Non-Use
+
+If you plan not to use your air conditioner for an extended period of time, do the following:
+
+![](images/7b9bf230c5f88ff3bcde3a6224a6c53808055694da601ec815861ac2b45835a7.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a hand cleaning a grid with a magnifying glass (no text or symbols)
+</details>
+
+Clean all filters
+
+![](images/7129bda0723069487b8201ac8b1c4643a25ac9edeb627656e7a0e58517f15267.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line icon of a house with wavy lines indicating airflow or ventilation (no text or symbols)
+</details>
+
+Turn on FAN function until unit dries out completely
+
+![](images/96df200630ecda356fc8835c31d9f14bc5f36df27c67c09795bd4dadcc918c70.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Prohibition symbol with crossed-out arrows inside a circle, enclosed in a rounded square (no text or numbers)
+</details>
+
+Turn off the unit and disconnect the power
+
+![](images/79194bbd06df294ee1939429b64293a0548761f58619bcb4aa709a1573e7e00a.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a smartphone showing internal components (no text or symbols)
+</details>
+
+Remove batteries from remote control
+
+# Maintenance - Pre-Season Inspection
+
+After long periods of non-use, or before periods of frequent use, do the following:
+
+![](images/b27a6533baee36f1532a05f34b7b22dc8db2710df5496bbb9281bc3681f8993c.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Symbolic illustration of a crossed-out electrical hazard zone with lightning and sparks (no text or labels)
+</details>
+
+Check for damaged wires
+
+![](images/c959fce362c83d0b12220997a64f5c9ee93e296587a612533d0796ae98111735.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a hand cleaning a grid (no text or symbols)
+</details>
+
+Clean all filters
+
+![](images/54fd5d3c7f59f24711c7c1e102a560d655ac467a122a6267562944dd61888a1b.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Prohibition sign with no text, numbers, or symbols (no readable document text)
+</details>
+
+Check for leaks
+
+![](images/1dbe42d294c5305dbde2fde8aac0f2705192bf4716148437714879fcf92636f1.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Simple line drawing of a prohibition sign with no text or symbols
+</details>
+
+Make sure nothing is blocking all air inlets and outlets
+
+![](images/9ecbafff135dd46e8866d5e45f6f6e5d20e192e59626be1d2b2d9a81384a122d.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Prohibition symbol of a microwave oven with a potted plant inside, enclosed in a circle (no text or numbers)
+</details>
+
+![](images/3819dd6d5c012c91a20a8cae8d7ef67051cba5d9d12a9c19d465f77f43654e5b.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a smartphone showing internal components (no text or symbols)
+</details>
+
+Replace batteries
+
+# TROUBLESHOOTING
+
+![](images/c578ed09bfa3dfcc30535c33385001c5efaac6c470c8e6185ca3886edcee5ebb.jpg)
+
+# CAUTION
+
+If any of the following conditions occurs, turn off your unit immediately!
+
+- The power cord is damaged or abnormally warm   
+- You smell a burning odor   
+- The unit emits loud or abnormal sounds   
+- A power fuse blows or the circuit breaker frequently trips   
+• Water or other objects fall into or out of the unit
+
+DO NOT ATTEMPT TO FIX THESE YOURSELF! CONTACT AN AUTHORIZED SERVICE PROVIDER IMMEDIATELY.
+
+# Common Issues
+
+The following problems are not a malfunction and in most situations will not require repairs.
+
+NOTE: If problem persists, contact a local dealer or your nearest customer service center. Provide them with a detailed description of the unit malfunction as well as your model number. 
+
+<table><tr><td>Issue</td><td>Possible Causes</td></tr><tr><td>Unit does not turn on when pressing ON/OFF button</td><td>The Unit has a 3-minute protection feature that prevents the unit from overloading. The unit cannot be restarted within three minutes of being turned off.</td></tr><tr><td>The unit changes from COOL/HEAT mode to FAN mode</td><td>The unit may change its setting to prevent frost from forming on the unit. Once the temperature increases, the unit will start operating in the previously selected mode again.The set temperature has been reached, at which point the unit turns off the compressor. The unit will continue operating when the temperature fluctuates again.</td></tr><tr><td>The indoor unit emits white mist</td><td>In humid regions, a large temperature difference between the room's air and the conditioned air can cause white mist.</td></tr><tr><td>Both the indoor and outdoor units emit white mist</td><td>When the unit restarts in HEAT mode after defrosting, white mist may be emitted due to moisture generated from the defrosting process.</td></tr><tr><td>The indoor unit makes noises</td><td>A rushing air sound may occur when the louver resets its position.A squeaking sound may occur after running the unit in HEAT mode due to expansion and contraction of the unit's plastic parts.</td></tr><tr><td rowspan="3">Both the indoor unit and outdoor unit make noises</td><td>Low hissing sound during operation: This is normal and is caused by refrigerant gas flowing through both indoor and outdoor units.</td></tr><tr><td>Low hissing sound when the system starts, has just stopped running, or is defrosting: This noise is normal and is caused by the refrigerant gas stopping or changing direction.</td></tr><tr><td>Squeaking sound: Normal expansion and contraction of plastic and metal parts caused by temperature changes during operation can cause squeaking noises.</td></tr><tr><td>The outdoor unit makes noises</td><td>The unit will make different sounds based on its current operating mode.</td></tr><tr><td>Dust is emitted from either the indoor or outdoor unit</td><td>The unit may accumulate dust during extended periods of non-use, which will be emitted when the unit is turned on. This can be mitigated by covering the unit during long periods of inactivity.</td></tr><tr><td rowspan="2">The unit emits a bad odor</td><td>The unit may absorb odors from the environment (such as furniture, cooking, cigarettes, etc.) which will be emitted during operations.</td></tr><tr><td>The unit's filters have become moldy and should be cleaned.</td></tr><tr><td>The fan of the outdoor unit does not operate</td><td>During operation, the fan speed is controlled to optimize product operation.</td></tr><tr><td>Operation is erratic, unpredictable, or unit is unresponsive</td><td>Interference from cell phone towers and remote boosters may cause the unit to malfunction.In this case, try the following:Disconnect the power, then reconnect.Press ON/OFF button on remote control to restart operation.</td></tr></table>
+
+![](images/4242645dd0c63404eefafa185ef09ad160be7dd595cfc4476e923bef42fc65d9.jpg)
+
+# CAUTION
+
+When troubles occur, please check the following points before contacting a repair company.
+
+NOTE: If your problem persists after performing the checks and diagnostics above, turn off your unit mmediately and contact an authorized service center. 
+
+<table><tr><td>Problem</td><td>Possible Causes</td><td>Solution</td></tr><tr><td rowspan="9">Poor Cooling Performance</td><td>Temperature setting may be higher than ambient room temperature</td><td>Lower the temperature setting</td></tr><tr><td>The heat exchanger on the indoor or outdoor unit is dirty</td><td>Clean the affected heat exchanger</td></tr><tr><td>The air filter is dirty</td><td>Remove the filter and clean it according to instructions</td></tr><tr><td>The air inlet or outlet of either unit is blocked</td><td>Turn the unit off, remove the obstruction and turn it back on</td></tr><tr><td>Doors and windows are open</td><td>Make sure that all doors and windows are closed while operating the unit</td></tr><tr><td>Excessive heat is generated by sunlight</td><td>Close windows and curtains during periods of high heat or bright sunshine</td></tr><tr><td>Too many sources of heat in the room (people, computers, electronics, etc.)</td><td>Reduce amount of heat sources</td></tr><tr><td>Low refrigerant due to leak or long-term use</td><td>Check for leaks, re-seal if necessary and top off refrigerant</td></tr><tr><td>SILENCE function is activated (optional function)</td><td>SILENCE function can lower product performance by reducing operating frequency. Turn off SILENCE function.</td></tr><tr><td rowspan="6">The unit is not working</td><td>Power failure</td><td>Wait for the power to be restored</td></tr><tr><td>The power is turned off</td><td>Turn on the power</td></tr><tr><td>The fuse is burned out</td><td>Replace the fuse</td></tr><tr><td>Remote control batteries are dead</td><td>Replace batteries</td></tr><tr><td>The Unit's 3-minute protection has been activated</td><td>Wait three minutes after restarting the unit</td></tr><tr><td>Timer is activated</td><td>Turn timer off</td></tr><tr><td rowspan="4">The unit starts and stops frequently</td><td>There's too much or too little refrigerant in the system</td><td>Check for leaks and recharge the system with refrigerant.</td></tr><tr><td>Incompressible gas or moisture has entered the system.</td><td>Evacuate and recharge the system with refrigerant</td></tr><tr><td>The compressor is broken</td><td>Replace the compressor</td></tr><tr><td>The voltage is too high or too low</td><td>Install a manostat to regulate the voltage</td></tr><tr><td rowspan="3">Poor heating performance</td><td>The outdoor temperature is extremely low</td><td>Use auxiliary heating device</td></tr><tr><td>Cold air is entering through doors and windows</td><td>Make sure that all doors and windows are closed during use</td></tr><tr><td>Low refrigerant due to leak or long-term use</td><td>Check for leaks, re-seal if necessary and top off refrigerant</td></tr><tr><td>Indicator lamps continue flashing</td><td colspan="2"></td></tr><tr><td>Error code appears and begins with the letters as the following in the window display of indoor unit:• E(x), P(x), F(x)• EH(xx), EL(xx), EC(xx)• PH(xx), PL(xx), PC(xx)</td><td colspan="2">The unit may stop operation or continue to run safely. If the indicator lamps continue to flash or error codes appear, wait for about 10 minutes. The problem may resolve itself.If not, disconnect the power, then connect it again. Turn the unit on.If the problem persists, disconnect the power and contact your nearest customer service center.</td></tr></table>
+
+# TRADEMARKS, COPYRIGHTS AND LEGAL STATEMENT
+
+Midea logo, word marks, trade name, trade dress and all versions thereof are valuable assets of Midea Group and/or its affiliates (“Midea”), to which Midea owns trademarks, copyrights and other intellectual property rights, and all goodwill derived from using any part of an Midea trademark. Use of Midea trademark for commercial purposes without the prior written consent of Midea may constitute trademark infringement or unfair competition in violation of relevant laws.
+
+This manual is created by Midea and Midea reserves all copyrights thereof. No entity or individual may use, duplicate, modify, distribute in whole or in part this manual, or bundle or sell with other products without the prior written consent of Midea.
+
+All the described functions and instructions were up to date at the time of printing this manual. However, the actual product may vary due to improved functions and designs.
+
+# DISPOSAL AND RECYCLING
+
+# Important instructions for environment(European Disposal Guidelines)
+
+Compliance with the WEEE Directive and Disposing of the Waster Product: This product complies with EU WEEE Directive (2012/19/EU). This product bears a classification symbol for waster electrical and electronic equipment (WEEE).
+
+This symbol indicates that this product shall not be disposed with other household wastes at the end of its service life. Used device must be returned to official collection point for recycling of electrical electronic devices. To find these collection systems please contact to your local authorities or retailer where the product was purchased. Each household performs important role in recovering and recycling of old appliance. Appropriate disposal of used appliance helps prevent potential negative consequences for the environment and human health.
+
+![](images/3c5b3250ccafe6b1f6483814c75eac0db649620749455b43c3108320ff12aaac.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Symbol of a trash bin crossed with a diagonal line and a horizontal bar below (no text or labels)
+</details>
+
+# DATA PROTECTION NOTICE
+
+For the provision of the services agreed with the customer,
+
+we agree to comply without restriction with all stipulations of applicable data protection law, in line with agreed countries within which services to the customer will be delivered, as well as, where applicable, the EU General Data Protection Regulation (GDPR).
+
+Generally, our data processing is to fulfil our obligation under contract with you and for product safety reasons, to safeguard your rights in connection with warranty and product registration questions. In some cases, but only if appropriate data protection is ensured, personal data might be transferred to recipients located outside of the European Economic Area.
+
+Further information are provided on request. You can contact our Data Protection Officer via MideaDPO@midea.com. To exercise your rights such as right to object your personal date being processed for direct marketing purposes, please contact us via MideaDPO@midea.com. To find further information, please follow the QR Code.
+
+The design and specifications are subject to change without prior notice for product improvement. Consult with the sales agency or manufacturer for details. Any updates to the manual will be uploaded to the service website, please check for the latest version.
+
+Importer: MIDEA SCOTT & ENGLISH ELECTRONICS SDN BHD.
+NO.16 JALAN CHAN SOW LIN,55200 KUALA LUMPUR
+
+Manufacturer: GD Midea Air-Conditioning Equipment Co., Ltd.  
+Lingang Road Beijiao Shunde Foshan Guangdong  
+People's Republic of China 528311
+
+![](images/de7cba7333bf2aa5697ae15712e5cd9c50401ded7addc862f730484c753459c7.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Midea
+</details>
+
+make yourself at home
+
+![](images/698a84e61d38ee94d8c71ecc85fc8d6869b3cdcdda4b506906a13d2d8545df1c.jpg)

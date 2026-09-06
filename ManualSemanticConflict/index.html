@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SpecAudit — 说明书合规审查</title>
+  <link rel="stylesheet" href="css/viewer.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- 顶部导航栏 -->
+  <header class="topbar">
+    <div class="topbar-brand">
+      <svg class="brand-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+        <polyline points="14 2 14 8 20 8"/>
+        <line x1="16" y1="13" x2="8" y2="13"/>
+        <line x1="16" y1="17" x2="8" y2="17"/>
+        <polyline points="10 9 9 9 8 9"/>
+      </svg>
+      <span class="brand-name">SpecAudit</span>
+    </div>
+    <div class="topbar-file">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+        <polyline points="14 2 14 8 20 8"/>
+      </svg>
+      <select id="fileSelect" class="file-select">
+        <option value="">加载中...</option>
+      </select>
+    </div>
+  </header>
+
+  <!-- 主体布局 -->
+  <div class="main-layout" id="mainLayout">
+    <!-- 左侧：PDF 展示面板 -->
+    <section class="pdf-panel" id="pdfPanel">
+      <!-- 工具栏 -->
+      <div class="pdf-toolbar">
+        <div class="toolbar-group">
+          <button class="tool-btn" id="btnZoomOut" title="缩小">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="11" x2="14" y2="11"/>
+            </svg>
+          </button>
+          <span class="zoom-level" id="zoomLevel">100%</span>
+          <button class="tool-btn" id="btnZoomIn" title="放大">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="11" y1="8" x2="11" y2="14"/><line x1="8" y1="11" x2="14" y2="11"/>
+            </svg>
+          </button>
+        </div>
+        <div class="toolbar-group">
+          <button class="tool-btn" id="btnFitWidth" title="适配宽度">适合宽度</button>
+          <button class="tool-btn" id="btnFitPage" title="适配页面">适合页面</button>
+        </div>
+        <div class="toolbar-group">
+          <button class="tool-btn" id="btnPrev" title="上一页">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="15 18 9 12 15 6"/>
+            </svg>
+          </button>
+          <div class="page-nav">
+            <input type="number" id="pageInput" class="page-input" value="1" min="1">
+            <span class="page-total" id="pageTotal">/ 1</span>
+          </div>
+          <button class="tool-btn" id="btnNext" title="下一页">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="9 18 15 12 9 6"/>
+            </svg>
+          </button>
+        </div>
+        <div class="toolbar-search">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="search-icon">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input type="text" id="searchInput" class="search-input" placeholder="搜索说明书内容...">
+          <span class="search-stats" id="searchStats"></span>
+          <button class="tool-btn" id="btnSearchPrev" title="上一个匹配">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="18 15 12 9 6 15"/>
+            </svg>
+          </button>
+          <button class="tool-btn" id="btnSearchNext" title="下一个匹配">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- PDF 渲染区：三层结构 -->
+      <div class="pdf-container" id="pdfContainer">
+        <div class="pdf-viewport" id="pdfViewport">
+          <canvas id="pdfCanvas" class="pdf-layer"></canvas>
+          <div id="textLayer" class="pdf-layer text-layer"></div>
+          <div id="highlightLayer" class="pdf-layer highlight-layer"></div>
+          <div id="evidenceLayer" class="pdf-layer evidence-layer"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 可拖拽分隔条 -->
+    <div class="split-divider" id="splitDivider" title="拖动调整面板宽度"></div>
+
+    <!-- 右侧：审查结果面板 -->
+    <aside class="side-panel" id="sidePanel">
+      <!-- 空状态 -->
+      <div class="panel-empty" id="panelEmpty">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#CBD5E1" stroke-width="1.5">
+          <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+          <line x1="3" y1="9" x2="21" y2="9"/>
+          <line x1="9" y1="21" x2="9" y2="9"/>
+        </svg>
+        <p class="empty-title">审查面板</p>
+        <p class="empty-desc">选择 PDF 文档后将在此处展示审查结果</p>
+      </div>
+
+      <!-- 审查内容 -->
+      <div class="panel-content" id="panelContent" style="display:none;">
+        <!-- 统计总览 -->
+        <div class="stats-bar" id="statsBar"></div>
+
+        <!-- 统计折叠按钮 -->
+        <button class="stats-toggle" id="statsToggle" title="折叠统计">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <polyline points="6 9 12 15 18 9"/>
+          </svg>
+        </button>
+
+        <!-- 筛选栏 -->
+        <div class="filter-bar">
+          <div class="filter-tabs" id="filterTabs">
+            <button class="filter-tab active" data-type="all">全部</button>
+            <button class="filter-tab" data-type="Risk">充分性</button>
+            <button class="filter-tab" data-type="Clarity">清晰性</button>
+            <button class="filter-tab" data-type="Consistency">一致性</button>
+          </div>
+          <div class="filter-levels" id="filterLevels">
+            <button class="level-chip active" data-level="all">全部等级</button>
+            <button class="level-chip chip-high" data-level="high">高</button>
+            <button class="level-chip chip-medium" data-level="medium">中</button>
+            <button class="level-chip chip-low" data-level="low">低</button>
+          </div>
+        </div>
+
+        <!-- 排序栏 -->
+        <div class="sort-bar">
+          <span class="sort-count" id="sortCount">0 条结果</span>
+          <select class="sort-select" id="sortSelect">
+            <option value="level">按严重程度</option>
+            <option value="confidence">按置信度</option>
+          </select>
+        </div>
+
+        <!-- 问题列表 -->
+        <div class="issue-list" id="issueList"></div>
+      </div>
+    </aside>
+  </div>
+
+  <!-- PDF.js -->
+  <script src="js/pdfjs/pdf.min.js"></script>
+  <script src="js/pdf_viewer.js"></script>
+  <script src="js/review_panel.js"></script>
+</body>
+</html>

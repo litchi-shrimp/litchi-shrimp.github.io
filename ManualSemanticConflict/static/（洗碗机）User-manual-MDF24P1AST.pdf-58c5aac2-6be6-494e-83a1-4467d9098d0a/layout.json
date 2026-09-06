@@ -1,0 +1,5211 @@
+[
+  {
+    "page_no": 1,
+    "width": 419.0,
+    "height": 595.0009765625,
+    "elements": [
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          39.3250732421875,
+          31.81713104248047,
+          156.4165496826172,
+          79.24370574951172
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P1_img_0.png"
+      },
+      {
+        "label": "section_header",
+        "text": "USER MANUAL",
+        "bbox": [
+          296.0141,
+          95.21969999999999,
+          404.9075629999999,
+          107.16764520547946
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "Dishwasher",
+        "bbox": [
+          30.6496,
+          139.99739999999997,
+          100.96473999999998,
+          147.31246849315067
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Power supply: 120 V Rated power: 1000 W Frequency: 60Hz Capacity: 14 Place Settings",
+        "bbox": [
+          30.6496,
+          200.35989999999998,
+          149.06479999999996,
+          238.24710136986295
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          217.92831420898438,
+          139.52337646484375,
+          378.3146057128906,
+          365.7530822753906
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P1_img_1.png"
+      },
+      {
+        "label": "text",
+        "text": "Warning: Before using this product, please read this manual carefully and keep it for future reference. The design and specifications are subject to change without prior notice for product improvement. Consult with your dealer or manufacturer for details.",
+        "bbox": [
+          30.9016,
+          442.50509999999997,
+          162.57805750000003,
+          539.334797260274
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "*The warranty extension is for the three months immediately following the completion of the product's original warranty period.",
+        "bbox": [
+          271.6362,
+          479.24159999999995,
+          373.0497000000001,
+          508.07179178082185
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Free 3 months extension* of the original limited warranty period! Simply text a picture of your proof of purchase to:",
+        "bbox": [
+          280.6472,
+          417.8957,
+          368.27759999999995,
+          462.33667260273967
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "1-844-224-1614",
+        "bbox": [
+          293.2923,
+          467.3597,
+          351.04769999999985,
+          473.33367260273974
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "www.midea.com MODEL NUMBER MDF24P1AST, MDF24P1ABB, MDF24P1AWW",
+        "bbox": [
+          256.4563,
+          545.8321,
+          406.8262155,
+          572.783612328767
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 2,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "Dear user",
+        "bbox": [
+          59.301,
+          54.52999999999997,
+          154.56050000000002,
+          71.59849315068493
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "dishwasher.",
+        "bbox": [
+          59.301,
+          126.31,
+          110.70919799999999,
+          133.9908219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Register your new dishwasher at https://www.midea.com/ us/support.",
+        "bbox": [
+          58.208999999999996,
+          136.882,
+          321.0330000000001,
+          156.5628219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Model Number________________________________________",
+        "bbox": [
+          57.301,
+          188.062,
+          342.15999999999974,
+          195.74282191780821
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Serial Number_________________________________________",
+        "bbox": [
+          57.301,
+          203.14600000000002,
+          338.82270099999965,
+          210.82682191780822
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          48.858612060546875,
+          238.29833984375,
+          374.7339172363281,
+          514.277099609375
+        ],
+        "html": "<table><tbody><tr><td>DISHWASHER SAFETY ......................................................................</td><th>3</th></tr><tr><th>OPERATING REQUIREMENTS ...........................................................</th><td>7</td></tr><tr><td></td><td>8</td></tr><tr><th>START UP GUIDE</th><td>.............................................................................. 10</td></tr><tr><td></td><td>11</td></tr><tr><th>LED Indicator Lights...............................................................................14</th><td></td></tr><tr><th>Cycle and Option Charts</th><td>......................................................................15</td></tr><tr><th>Upper Rack</th><td>..............................................................................................19</td></tr><tr><th>Load Upper Rack ....................................................................................21</th><td></td></tr><tr><th>Lower Rack ...............................................................................................22</th><td></td></tr><tr><th>Recommended Load Patterns</th><td>..........................................................26</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 3,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          50.02189254760742,
+          36.57334899902344,
+          372.2069396972656,
+          162.20057678222656
+        ],
+        "html": "<table><tbody><tr><td>DISHWASHER USE ......................................................................... 28</td></tr><tr><td>DISHWASHER CARE ....................................................................... 32</td></tr><tr><td>CLEANING ...............................................................................................32</td></tr><tr><td>Storing .......................................................................................................34</td></tr><tr><td>TROUBLESHOOTING ..................................................................... 35</td></tr><tr><td>40</td></tr><tr><td>WARRANTY ..................................................................................... 41</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "YOUR SAFETY AND THE SAFETY OF OTHERS ARE VERY IMPORTANT",
+        "bbox": [
+          42.5231,
+          211.301,
+          331.13549,
+          228.83524657534247
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          42.6863899230957,
+          285.0469055175781,
+          74.08174896240234,
+          317.1878967285156
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P3_img_2.png"
+      },
+      {
+        "label": "text",
+        "text": "WARNING",
+        "bbox": [
+          44.027378999999996,
+          313.5729,
+          72.77551577999999,
+          318.320501369863
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "This injury.",
+        "bbox": [
+          96.639,
+          292.84999999999997,
+          123.68430000000001,
+          311.3308219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          43.326751708984375,
+          327.0700378417969,
+          73.66610717773438,
+          363.405517578125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P3_img_3.png"
+      },
+      {
+        "label": "text",
+        "text": "CAUTION",
+        "bbox": [
+          44.193461000000006,
+          359.178,
+          73.08410300000001,
+          363.91450684931505
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "This symbol indicates the possibility of injury or damage property.",
+        "bbox": [
+          96.6407,
+          334.664,
+          345.43664,
+          351.3448219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          42.930397033691406,
+          368.5587463378906,
+          74.09867858886719,
+          401.5394287109375
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P3_img_4.png"
+      },
+      {
+        "label": "text",
+        "text": "WARNING",
+        "bbox": [
+          44.027378999999996,
+          397.19489999999996,
+          72.77551577999999,
+          401.942501369863
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 4,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          47.19180679321289,
+          38.998451232910156,
+          66.23583221435547,
+          55.1618537902832
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P4_img_5.png"
+      },
+      {
+        "label": "section_header",
+        "text": "WARNING/GROUNDING INSTRUCTIONS",
+        "bbox": [
+          71.176,
+          46.11099999999999,
+          275.38659999999993,
+          54.64524657534241
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Improper connection of the equipment-grounding conductor can result in a risk of electric shock. Check with a qualified electrician or service electrician.",
+        "bbox": [
+          44.64,
+          66.31100000000004,
+          365.9399009999999,
+          118.99182191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "For a grounded, cord-connected appliance:",
+        "bbox": [
+          44.64,
+          129.31099999999998,
+          237.70790100000005,
+          136.99182191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "breakdown, grounding will reduce the risk of electric shock by providing with a cord having an equipment-grounding conductor and a grounding and grounded in accordance with all local codes and ordinances.",
+        "bbox": [
+          44.64,
+          152.89099999999996,
+          369.76420799999994,
+          196.57182191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "For a permanently connected appliance:",
+        "bbox": [
+          44.64,
+          207.39499999999998,
+          224.61229800000004,
+          215.07582191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "This appliance must be connected to a grounded metal, permanent wiring circuit conductors and connected to the equipment-grounding terminal or",
+        "bbox": [
+          44.64,
+          221.97499999999997,
+          378.87319799999995,
+          247.65582191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          47.129058837890625,
+          292.948974609375,
+          65.8673095703125,
+          309.32525634765625
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P4_img_6.png"
+      },
+      {
+        "label": "section_header",
+        "text": "WARNING",
+        "bbox": [
+          71.176,
+          301.412,
+          123.37570000000002,
+          309.94624657534246
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          339.63599999999997,
+          59.532000000000004,
+          351.5839452054795
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          351.65999999999997,
+          59.532000000000004,
+          363.6079452054795
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "a dishwasher and keep them out of the reach of children.",
+        "bbox": [
+          48.64,
+          363.683,
+          316.50819899999993,
+          381.36482191780823
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "When loading items to be washed:",
+        "bbox": [
+          48.64,
+          384.70799999999997,
+          217.03140599999995,
+          396.6559452054795
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "seal.",
+        "bbox": [
+          62.637,
+          397.812,
+          96.227,
+          415.4928219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "type injuries.",
+        "bbox": [
+          62.637,
+          419.917,
+          133.44200000000004,
+          437.59682191780826
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Do not wash plastic items unless they are marked 'Dishwasher",
+        "bbox": [
+          48.641000000000005,
+          440.94,
+          340.85380299999997,
+          452.88794520547947
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "fire hazard.",
+        "bbox": [
+          48.64,
+          470.964,
+          112.39720799999999,
+          488.6448219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          491.98900000000003,
+          55.332,
+          503.93694520547945
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          504.012,
+          59.532000000000004,
+          515.9599452054795
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 5,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "Do not tamper with controls.",
+        "bbox": [
+          46.523,
+          40.797000000000025,
+          189.13019799999998,
+          52.74494520547944
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          46.523,
+          52.821000000000026,
+          53.215,
+          64.76894520547944
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "dishwasher.",
+        "bbox": [
+          46.523,
+          64.84500000000003,
+          111.927703,
+          82.5268219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          46.523,
+          85.87099999999992,
+          57.415000000000006,
+          97.8189452054794
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "unqualified service technicians or non-original replacement parts. only original equipment factory replacement parts.",
+        "bbox": [
+          46.523,
+          151.894,
+          354.765199,
+          187.5748219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          46.523,
+          190.918,
+          57.415000000000006,
+          202.86594520547948
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          46.523,
+          220.942,
+          57.415000000000006,
+          232.88994520547948
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Do not use the dishwasher if it has a damaged power line or plug, and do not plug the dishwasher into a damaged outlet. Failure to",
+        "bbox": [
+          46.523,
+          241.966,
+          352.89290199999994,
+          259.6468219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "may occur.",
+        "bbox": [
+          46.523,
+          271.991,
+          108.669604,
+          289.6708219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "old dishwasher from service or discarding it.",
+        "bbox": [
+          46.523,
+          293.015,
+          257.61040599999995,
+          310.6948219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          43.84949493408203,
+          413.9796142578125,
+          62.523189544677734,
+          429.33587646484375
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P5_img_7.png"
+      },
+      {
+        "label": "section_header",
+        "text": "WARNING",
+        "bbox": [
+          68.083,
+          421.845,
+          120.28270000000002,
+          430.37924657534245
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          45.90708923339844,
+          438.40386962890625,
+          101.67670440673828,
+          487.194091796875
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P5_img_8.png"
+      },
+      {
+        "label": "list_item",
+        "text": "Do not use dishwasher until completely installed.",
+        "bbox": [
+          123.523,
+          455.381,
+          355.3468020000002,
+          467.32894520547944
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Do not push down on open door.",
+        "bbox": [
+          123.52399999999999,
+          467.40500000000003,
+          284.63589999999994,
+          479.35294520547944
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Doing so can result in serious injury or cuts.",
+        "bbox": [
+          123.52399999999999,
+          479.42900000000003,
+          331.678297,
+          491.37694520547944
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 6,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          47.64212417602539,
+          52.00303649902344,
+          66.05410766601562,
+          68.15361022949219
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P6_img_9.png"
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          46.44237518310547,
+          99.21695709228516,
+          64.75460052490234,
+          114.99821472167969
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P6_img_10.png"
+      },
+      {
+        "label": "section_header",
+        "text": "WARNING",
+        "bbox": [
+          70.2,
+          107.03500000000003,
+          122.40000000000002,
+          115.5692465753425
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "Suffocation Hazard",
+        "bbox": [
+          48.64,
+          121.70300000000003,
+          136.37180199999997,
+          129.38382191780823
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          134.20300000000003,
+          59.532000000000004,
+          146.1509452054795
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          155.226,
+          59.532000000000004,
+          167.17394520547947
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          47.65599060058594,
+          193.72201538085938,
+          63.209678649902344,
+          209.44070434570312
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P6_img_11.png"
+      },
+      {
+        "label": "section_header",
+        "text": "CAUTION",
+        "bbox": [
+          71.176,
+          201.60700000000003,
+          119.82590000000002,
+          210.1412465753425
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "health hazards!",
+        "bbox": [
+          48.64,
+          216.83100000000002,
+          130.28939699999998,
+          243.5128219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "consequences.",
+        "bbox": [
+          48.64,
+          246.85500000000002,
+          128.21970299999998,
+          273.5368219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          276.88,
+          59.532000000000004,
+          288.82794520547947
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          315.90299999999996,
+          59.532000000000004,
+          327.85094520547943
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          354.927,
+          59.532000000000004,
+          366.87494520547943
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          375.952,
+          59.532000000000004,
+          387.89994520547947
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          396.976,
+          55.332,
+          408.92394520547947
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          48.64,
+          426.999,
+          59.532000000000004,
+          438.94694520547944
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 7,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "OPERATING REQUIREMENTS",
+        "bbox": [
+          42.523,
+          38.605999999999995,
+          277.8962,
+          52.26079452054796
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "ELECTRICAL REQUIREMENTS",
+        "bbox": [
+          42.523,
+          65.77400000000011,
+          224.23800399999996,
+          76.01509589041109
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          44.32597351074219,
+          86.9124526977539,
+          63.38218688964844,
+          103.02208709716797
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P7_img_12.png"
+      },
+      {
+        "label": "section_header",
+        "text": "WARNING",
+        "bbox": [
+          68.626,
+          95.10399999999998,
+          120.82570000000003,
+          103.63824657534246
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "Electrical Shock Hazard",
+        "bbox": [
+          47.066,
+          109.77099999999996,
+          155.48000000000002,
+          117.45182191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Electrically ground dishwasher.",
+        "bbox": [
+          47.066,
+          122.27099999999996,
+          199.08639700000006,
+          134.21894520547943
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          47.066,
+          134.29499999999996,
+          53.758,
+          146.24294520547943
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          47.067,
+          146.31900000000002,
+          57.959,
+          158.2669452054795
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "electrical shock.",
+        "bbox": [
+          47.067,
+          158.34299999999996,
+          132.595,
+          176.02382191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "individual 120 V, 60 Hz, 15- or 20-amp fused electrical supply with copper an outlet is used, the outlet should be placed in adjacent cabinet.",
+        "bbox": [
+          42.523,
+          201.96699999999998,
+          372.8223970000001,
+          236.6478219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "LOCATION REQUIREMENTS",
+        "bbox": [
+          42.523,
+          256.236,
+          211.51719999999997,
+          266.4770958904109
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Install where dishwasher is protected from the elements. Protect 'Storing' in the 'Dishwasher Care' section.",
+        "bbox": [
+          42.523,
+          277.705,
+          343.808802,
+          313.3858219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          42.523,
+          316.729,
+          53.415000000000006,
+          328.67694520547946
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "WATER SUPPLY REQUIREMENTS",
+        "bbox": [
+          42.523,
+          352.022,
+          241.91240799999997,
+          362.26309589041097
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "66°C).",
+        "bbox": [
+          42.522000000000006,
+          373.491,
+          85.041,
+          391.1718219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "·",
+        "bbox": [
+          42.523,
+          394.515,
+          49.215,
+          406.46294520547946
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 8,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "PARTS AND FEATURES",
+        "bbox": [
+          44.6397,
+          38.605999999999995,
+          233.58210000000003,
+          52.26079452054796
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          70.52289581298828,
+          67.8684310913086,
+          342.3096618652344,
+          358.1787414550781
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P8_img_13.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          74.8227,
+          82.71699999999998,
+          82.3277,
+          90.82453424657535
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "B",
+        "bbox": [
+          74.9509,
+          164.144,
+          81.8099,
+          172.25153424657532
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "C",
+        "bbox": [
+          74.9747,
+          259.62800000000004,
+          81.9857,
+          267.73553424657536
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "E",
+        "bbox": [
+          75.2312,
+          295.002,
+          81.5962,
+          303.1095342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "F",
+        "bbox": [
+          75.2454,
+          309.014,
+          81.4774,
+          317.1215342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "D",
+        "bbox": [
+          75.2757,
+          275.341,
+          82.7047,
+          283.4485342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "K",
+        "bbox": [
+          330.562,
+          271.192,
+          337.4495,
+          279.2995342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "G",
+        "bbox": [
+          330.69,
+          92.62700000000001,
+          338.138,
+          100.73453424657532
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "H",
+        "bbox": [
+          330.69,
+          117.27800000000002,
+          337.91,
+          125.38553424657533
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "J",
+        "bbox": [
+          331.982,
+          238.192,
+          337.2925,
+          246.29953424657532
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "I",
+        "bbox": [
+          332.856,
+          206.10200000000003,
+          335.8675,
+          214.20953424657534
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Upper Spray Arm A",
+        "bbox": [
+          101.061,
+          384.57399999999996,
+          189.96470000000002,
+          392.6815342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Cup Shelf G",
+        "bbox": [
+          240.335,
+          385.11199999999997,
+          297.06239000000005,
+          393.21953424657534
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Middle Spray Arm B",
+        "bbox": [
+          101.189,
+          399.591,
+          191.9864,
+          407.6985342465754
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Upper Rack H",
+        "bbox": [
+          240.397,
+          399.591,
+          304.92139,
+          407.6985342465754
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Lower Spray Arm C",
+        "bbox": [
+          101.213,
+          414.06899999999996,
+          189.97,
+          422.17653424657533
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Silverware Basket I",
+        "bbox": [
+          242.501,
+          414.06899999999996,
+          330.60769000000005,
+          422.17653424657533
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Cleanable Filters D",
+        "bbox": [
+          101.514,
+          428.547,
+          187.48940000000002,
+          436.65453424657534
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Lower Rack J",
+        "bbox": [
+          241.627,
+          428.499,
+          304.73139,
+          436.60653424657534
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Detergent Dispenser E",
+        "bbox": [
+          101.47,
+          443.025,
+          203.90330000000003,
+          451.13253424657535
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Heating Element K",
+        "bbox": [
+          240.207,
+          443.025,
+          324.905192,
+          451.13253424657535
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Rinse Aid Dispenser F",
+        "bbox": [
+          101.484,
+          457.503,
+          202.5490000000001,
+          465.6105342465753
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 9,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.62938690185547,
+          35.537906646728516,
+          375.49212646484375,
+          145.63189697265625
+        ],
+        "html": "<table><tbody><tr><td colspan=\"2\">SPECIFICATIONS</td></tr><tr><td>Capacity:</td><td>14 Place Settings</td></tr><tr><td>Dimensions (WxDxH):</td><td>23 7/8 1/2 &quot; x 33 3/4</td></tr><tr><td></td><td>88 lb (40 kg)</td></tr><tr><td>Power Supply:</td><td></td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          82.93370819091797,
+          228.41017150878906,
+          236.96029663085938,
+          358.0088195800781
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P9_img_14.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          86.5599,
+          301.023,
+          94.0649,
+          309.13053424657534
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          251.22659301757812,
+          286.6302795410156,
+          264.2651062011719,
+          300.5081481933594
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P9_img_15.png"
+      },
+      {
+        "label": "list_item",
+        "text": "Filter Location A",
+        "bbox": [
+          254.347,
+          290.08500000000004,
+          329.3519999999999,
+          299.2001923076923
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 10,
+    "width": 419.52801513671875,
+    "height": 595.2760009765625,
+    "elements": [
+      {
+        "label": "text",
+        "text": "through the spray arms against soiled surfaces.",
+        "bbox": [
+          43.0509,
+          160.74069999999995,
+          253.12850000000003,
+          168.42152191780815
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "pumped through the multiple filters and spray arms. Soil particles are",
+        "bbox": [
+          43.0509,
+          184.82469999999995,
+          354.7738,
+          192.50552191780815
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "1.",
+        "bbox": [
+          43.0509,
+          267.63829999999996,
+          52.1229,
+          275.31912191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          43.0509,
+          290.6422999999999,
+          53.9319,
+          298.3231219178081
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "1.",
+        "bbox": [
+          43.0509,
+          373.45989999999995,
+          52.1229,
+          381.14072191780815
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Add detergent. See 'Proper Use of Detergent.'",
+        "bbox": [
+          43.0509,
+          387.46389999999997,
+          265.74659999999994,
+          395.14472191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "3.",
+        "bbox": [
+          43.0509,
+          401.46789999999993,
+          53.9139,
+          409.1487219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "4.",
+        "bbox": [
+          43.0546,
+          413.3829999999999,
+          54.5296,
+          421.0638219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Light above each selected Cycle and Option will illuminate to indicate they are selected.",
+        "bbox": [
+          71.2412,
+          441.09959999999995,
+          346.5064,
+          458.4281219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "5.",
+        "bbox": [
+          43.0546,
+          464.64699999999993,
+          53.9986,
+          472.3278219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "IMPORTANT: The door must be closed prior to pressing start for the dishwasher to begin operating.",
+        "bbox": [
+          57.04790000000003,
+          479.73189999999994,
+          363.33709999999996,
+          497.0604219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Upon the completion of the cycle. The indicator light on the front of the door will illuminate blue and remain on for 30 minutes. After 30 minutes the dishwasher will enter a low power mode and all lights will turn off. 6.",
+        "bbox": [
+          43.0546,
+          502.28909999999996,
+          365.1725,
+          538.9131219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 11,
+    "width": 419.52801513671875,
+    "height": 595.2760009765625,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "CONTROLS",
+        "bbox": [
+          44.904,
+          38.743999999999915,
+          138.312,
+          52.39879452054788
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          41.392635345458984,
+          58.98186111450195,
+          376.1412658691406,
+          141.779541015625
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P11_img_0.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          53.021,
+          63.355999999999995,
+          60.526,
+          71.46353424657536
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "B",
+        "bbox": [
+          103.74000000000001,
+          63.89499999999998,
+          110.599,
+          72.00253424657535
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "C",
+        "bbox": [
+          193.364,
+          63.894000000000005,
+          200.375,
+          72.00153424657537
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "D",
+        "bbox": [
+          234.623,
+          131.40799999999996,
+          242.052,
+          139.51553424657527
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "D",
+        "bbox": [
+          275.443,
+          63.894000000000005,
+          282.87199999999996,
+          72.00153424657537
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "E",
+        "bbox": [
+          335.225,
+          63.894000000000005,
+          341.59000000000003,
+          72.00153424657537
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "F",
+        "bbox": [
+          358.27,
+          64.05899999999997,
+          364.502,
+          71.89907592190889
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "A",
+        "bbox": [
+          45.309,
+          157.85299999999995,
+          52.814,
+          165.96053424657526
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "CYCLES B",
+        "bbox": [
+          45.437,
+          216.43399999999997,
+          99.4134,
+          224.96824657534245
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "The light above the selected wash cycle illuminates to indicate the cycle selected.",
+        "bbox": [
+          59.30600000000001,
+          235.83599999999996,
+          347.11939699999994,
+          252.5348219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "HEAVY",
+        "bbox": [
+          58.901,
+          308.10599999999994,
+          90.995396,
+          315.78682191780814
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "or baked on soil.",
+        "bbox": [
+          58.901,
+          332.18999999999994,
+          132.440099,
+          339.87082191780814
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "NORMAL",
+        "bbox": [
+          58.901,
+          347.27399999999994,
+          103.36100000000002,
+          354.9548219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "to completely wash and dry a full load of normally soiled dishes. The the upper rack in the raised position.",
+        "bbox": [
+          58.901,
+          371.35799999999995,
+          366.746297,
+          397.03882191780815
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "QUICK",
+        "bbox": [
+          58.901,
+          404.48499999999996,
+          89.59100000000001,
+          412.1658219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "C OPTIONS",
+        "bbox": [
+          44.88,
+          443.009,
+          107.43600000000004,
+          451.54324657534244
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "The light above the selected option(s) illuminates to indicate which option(s) have been selected.",
+        "bbox": [
+          71.186,
+          495.506,
+          376.42989199999994,
+          512.1898219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 12,
+    "width": 419.52801513671875,
+    "height": 595.2760009765625,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "SANITIZE",
+        "bbox": [
+          56.7856,
+          38.066299999999956,
+          100.9127,
+          45.74712191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "the Sanitize option is completed. The light will turn off after the door",
+        "bbox": [
+          56.787,
+          182.92119999999994,
+          366.37719999999996,
+          190.60202191780814
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "HI TEMP",
+        "bbox": [
+          56.787,
+          240.08919999999995,
+          95.03699999999999,
+          247.77002191780815
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "the drying process. The Heated Dry process adds 24 minutes to the wash cycle.",
+        "bbox": [
+          56.71199999999999,
+          307.37319999999994,
+          360.2372,
+          324.05882191780813
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "66 minutes.",
+        "bbox": [
+          56.787,
+          370.56119999999993,
+          111.3628,
+          378.2420219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "A DDITIONAL FEATURES D",
+        "bbox": [
+          45.2293,
+          396.203,
+          184.58569999999997,
+          404.7372465753424
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Press and hold the button for 3 seconds to either activate or cancel the Control Lock option.",
+        "bbox": [
+          71.232,
+          472.4771999999999,
+          343.09529999999995,
+          489.80572191780817
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 13,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "WIFI",
+        "bbox": [
+          56.5209,
+          37.63210000000004,
+          78.5709,
+          45.31292191780824
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "This button is used for network connections. To connect the appliance to the network, first, switch on the appliance, and press WIFI button for more than 3 seconds. After a short beep the WIFI icon in the panel will start to blink slowly, the unit is connecting to the APP. The WiFi icon on the panel will remain lit when the network connection is successful.",
+        "bbox": [
+          56.2107,
+          52.608100000000036,
+          377.2704,
+          98.88092191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "IMPORTANT:",
+        "bbox": [
+          56.217,
+          108.17089999999996,
+          117.57,
+          115.85172191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "If the Start Button is pressed during the network connection process, the process will be canceled.",
+        "bbox": [
+          70.3998,
+          122.13599999999997,
+          381.2432,
+          139.4648219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Turning Off the Network Connection: (temporarily)",
+        "bbox": [
+          70.3998,
+          144.0731,
+          303.2838,
+          151.7539219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "With the power on and the door open. Press the WIFI button to turn off the WIFI radio, the WIFI icon will turn off. To turn back on the WIFI radio press the WIFI button with power on and door open, the WIFI icon will illuminate.",
+        "bbox": [
+          70.3967,
+          153.79309999999998,
+          380.5297,
+          190.4179219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Canceling or Resetting the Network Connection:",
+        "bbox": [
+          70.3998,
+          196.3641,
+          291.60240000000005,
+          204.0449219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "With the power on and the door open. Press and hold the WIFI button for 15 seconds to turn off the WIFI radio and reset it to factory default.",
+        "bbox": [
+          70.399,
+          206.08409999999998,
+          356.5641,
+          233.06092191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "WIFI ICON",
+        "bbox": [
+          56.5228,
+          241.5061,
+          108.2191,
+          249.1869219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "The WIFI icon indicates the status of the network connection. WIFI icon states:",
+        "bbox": [
+          56.215,
+          254.10609999999997,
+          330.23720000000003,
+          271.4349219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Quick Flash-Connecting to the router",
+        "bbox": [
+          56.215,
+          273.40209999999996,
+          222.56190000000004,
+          281.08292191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Slow Flash-Connecting to the sever",
+        "bbox": [
+          56.2139,
+          283.0501,
+          214.4968,
+          290.7309219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Light on-Link successfully",
+        "bbox": [
+          56.2139,
+          292.6981,
+          171.47669999999997,
+          300.3789219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Light off-WIFI model power off",
+        "bbox": [
+          56.2139,
+          302.3461,
+          195.5151,
+          310.0269219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "DELAY",
+        "bbox": [
+          56.7828,
+          320.62899999999996,
+          87.98570000000001,
+          328.30982191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "E START",
+        "bbox": [
+          46.1239,
+          428.91589999999997,
+          95.016,
+          435.0117904109589
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "after the the door is closed",
+        "bbox": [
+          157.1023,
+          446.3722,
+          277.8099,
+          454.0530219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 14,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "action stops.",
+        "bbox": [
+          72.6316,
+          37.91870000000006,
+          146.1075,
+          54.59952191780826
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          72.6316,
+          60.92270000000008,
+          83.5126,
+          68.60352191780828
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Close the door, and press START.",
+        "bbox": [
+          72.6316,
+          74.75580000000002,
+          233.60500000000002,
+          82.6075219178083
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "4.",
+        "bbox": [
+          72.6316,
+          88.9307,
+          84.1066,
+          96.6115219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "F",
+        "bbox": [
+          46.1375,
+          140.2384,
+          52.3695,
+          146.029495890411
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "Rinse Aid",
+        "bbox": [
+          58.9003,
+          157.5836,
+          102.37030000000001,
+          165.2644219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Rinse Aid should be added to the Rinse Aid dispenser.",
+        "bbox": [
+          58.9003,
+          181.16359999999997,
+          303.1067,
+          188.84442191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "Sanitized",
+        "bbox": [
+          58.9003,
+          198.4042,
+          101.2902,
+          206.0850219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Sanitize option is finished.",
+        "bbox": [
+          58.9003,
+          221.9842,
+          177.9069,
+          229.6650219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "The light turns off 30 seconds after the door is opened.",
+        "bbox": [
+          58.9003,
+          236.56419999999997,
+          308.67749999999995,
+          244.24502191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "Complete",
+        "bbox": [
+          58.9003,
+          253.5695,
+          103.405,
+          261.2503219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "When the program is finished, the indicator will be lit.",
+        "bbox": [
+          58.9003,
+          268.2294,
+          299.9197000000001,
+          275.9102219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "SCREEN DISPLAY",
+        "bbox": [
+          44.5144,
+          300.5212,
+          155.2842,
+          307.8362684931507
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Standby or pause : The program indicator and option indicator are on.",
+        "bbox": [
+          44.6465,
+          317.9281,
+          355.57829999999996,
+          325.6089219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Running : The program indicator will flash slowly and option indicator are on.",
+        "bbox": [
+          44.64519999999999,
+          337.35929999999996,
+          354.8936,
+          354.6881219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          104.35403442382812,
+          355.3721923828125,
+          373.22418212890625,
+          396.0485534667969
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P14_img_1.png"
+      },
+      {
+        "label": "text",
+        "text": "Cycle finished : The Complete indicator is on. The program indicator and option indicator are off.",
+        "bbox": [
+          44.64530000000002,
+          413.2442,
+          306.95160000000004,
+          430.5730219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          324.91705322265625,
+          402.90997314453125,
+          373.1939697265625,
+          442.68475341796875
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P14_img_2.png"
+      },
+      {
+        "label": "text",
+        "text": "technician.",
+        "bbox": [
+          42.787,
+          520.7337,
+          90.67579999999998,
+          528.4145219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 15,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "text",
+        "text": "and options selected.",
+        "bbox": [
+          44.64,
+          94.827,
+          140.05839600000002,
+          102.5078219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "the main wash.",
+        "bbox": [
+          44.64,
+          167.079,
+          113.93990099999999,
+          174.7598219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "required to clean the load.",
+        "bbox": [
+          44.64,
+          224.247,
+          167.237901,
+          231.92782191780822
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "'O': Can be selected, but cannot be selected if the other Dry option is selected",
+        "bbox": [
+          58.638,
+          302.555,
+          373.69209900000004,
+          319.2358219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          44.028934478759766,
+          362.3952941894531,
+          380.5247802734375,
+          457.554931640625
+        ],
+        "html": "<table><tbody><tr><th>Wash</th><th>Second Wash</th><th>Main Wash</th><th>Rinse</th><th>Rinse</th><th>Final Heated Rinse</th><th>Dry</th><th>(min)</th><th>Water Usage (gal. [L])</th></tr><tr><td>•</td><td></td><td>• 118° - 126°F (48° -</td><td></td><td></td><td>156.2°F (58° -</td><td></td><td>100- 133</td><td>3 to 5.9 gal. (11.4 to 22.5 L)</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          44.034305572509766,
+          466.6422424316406,
+          354.67327880859375,
+          514.9609375
+        ],
+        "html": "<table><tbody><tr><th colspan=\"4\">AVAILABLE OPTIONS</th></tr><tr><th>Sanitize</th><th>Hi Temp</th><th>Heated Dry</th><th>Extended Dry</th></tr><tr><td>X</td><td>X</td><td>O</td><td>O</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 16,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "HEAVY",
+        "bbox": [
+          42.523,
+          37.92399999999998,
+          78.1828,
+          46.4582465753424
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.57040023803711,
+          49.58423614501953,
+          379.3894348144531,
+          167.48043823242188
+        ],
+        "html": "<table><tbody><tr><th>Wash</th><th>Second Wash</th><th>Main Wash</th><th>Rinse</th><th>Rinse</th><th>Final Heated Rinse</th><th>Dry</th><th>(min)</th><th>Water Usage (gal. [L])</th></tr><tr><td>•</td><td>•</td><td>• 131°F (55°C)</td><td>•</td><td>•</td><td>• 149- 156.2°F (65- 69°C)</td><td>•</td><td>138</td><td>6.9 gal. (26.2 L)</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.80166244506836,
+          176.24765014648438,
+          352.4817810058594,
+          224.6158905029297
+        ],
+        "html": "<table><tbody><tr><th colspan=\"4\">AVAILABLE OPTIONS</th></tr><tr><th>Sanitize</th><th>Hi Temp</th><th>Heated Dry</th><th>Extended Dry</th></tr><tr><td>X</td><td>X</td><td>O</td><td>O</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "NORMAL",
+        "bbox": [
+          42.523000000000025,
+          249.834,
+          88.92300000000003,
+          258.3682465753425
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.55003356933594,
+          261.0581970214844,
+          380.1053161621094,
+          370.3226318359375
+        ],
+        "html": "<table><tbody><tr><th>Wash</th><th>Second Wash</th><th>Main Wash</th><th>Rinse</th><th>Rinse</th><th>Final Heated Rinse</th><th>Dry</th><th>(min)</th><th>Water Usage (gal. [L])</th></tr><tr><td>•</td><td>•</td><td>• 107° - 125.6°F (42° -</td><td></td><td></td><td>156.2°F (58° -</td><td></td><td>102- 120</td><td>3 to 5.9 gal. (11.4 - 22.5 L)</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.60847091674805,
+          379.1453552246094,
+          352.71429443359375,
+          427.78045654296875
+        ],
+        "html": "<table><tbody><tr><th colspan=\"4\">AVAILABLE OPTIONS</th></tr><tr><th>Sanitize</th><th>Hi Temp</th><th>Heated Dry</th><th>Extended Dry</th></tr><tr><td>X</td><td>X</td><td>O</td><td>O</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 17,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "QUICK",
+        "bbox": [
+          44.64,
+          37.95799999999997,
+          78.51,
+          46.49224657534239
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          43.861358642578125,
+          50.26988983154297,
+          382.2144470214844,
+          158.10018920898438
+        ],
+        "html": "<table><tbody><tr><th>Wash</th><th>Second Wash</th><th>Main Wash</th><th>Rinse</th><th>Rinse</th><th>Final Heated Rinse</th><th>Dry</th><th>(min)</th><th>Water Usage (gal. [L])</th></tr><tr><td>• 104°F (40°C)</td><td></td><td>• 131°F (55°C)</td><td></td><td>• 131°F (55°C)</td><td>• 136° - 156.2°F (58° -</td><td></td><td></td><td>4 gal. (15.1 L)</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          44.086063385009766,
+          167.19960021972656,
+          354.60589599609375,
+          215.5562744140625
+        ],
+        "html": "<table><tbody><tr><th colspan=\"4\">AVAILABLE OPTIONS</th></tr><tr><th>Sanitize</th><th>Hi Temp</th><th>Heated Dry</th><th>Extended Dry</th></tr><tr><td></td><td></td><td>O</td><td>O</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 18,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "into the dishwasher.",
+        "bbox": [
+          70.517,
+          175.402,
+          161.75909900000005,
+          183.0828219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          166.67515563964844,
+          189.22933959960938,
+          248.12112426757812,
+          241.81015014648438
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P18_img_4.png"
+      },
+      {
+        "label": "section_header",
+        "text": "LOAD DISHES",
+        "bbox": [
+          42.523,
+          250.81900000000002,
+          113.1928,
+          259.3532465753425
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "steel interior of the door if they are dropped or bumped.",
+        "bbox": [
+          56.52,
+          311.207,
+          308.29509899999994,
+          318.8878219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Make sure pot lids and handles, pizza pans, cookie sheets, etc., do not ·",
+        "bbox": [
+          42.574000000000005,
+          322.267,
+          367.526405,
+          334.21494520547947
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          170.95162963867188,
+          364.04583740234375,
+          245.6424560546875,
+          437.0214538574219
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P18_img_3.png"
+      },
+      {
+        "label": "section_header",
+        "text": "QUIET OPERATING TIPS",
+        "bbox": [
+          42.523,
+          453.658,
+          165.17270000000002,
+          462.19224657534244
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "NOTE: For built-in models, keep sink drain plugs closed during",
+        "bbox": [
+          62.92,
+          540.15,
+          344.611198,
+          547.8308219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 19,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "picture",
+        "text": "Top rack in upper position.",
+        "bbox": [
+          137.88516235351562,
+          168.70359802246094,
+          295.2257385253906,
+          285.1297302246094
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P19_img_5.png"
+      },
+      {
+        "label": "caption",
+        "text": "Top rack in upper position.",
+        "bbox": [
+          157.39029999999997,
+          292.54699999999997,
+          276.145,
+          300.22782191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "Top rack in lower position.",
+        "bbox": [
+          138.40206909179688,
+          327.5043029785156,
+          294.5647277832031,
+          444.16094970703125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P19_img_6.png"
+      },
+      {
+        "label": "caption",
+        "text": "Top rack in lower position.",
+        "bbox": [
+          158.398,
+          451.831,
+          275.1366,
+          459.5118219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 20,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "UPPER RACK SHELF",
+        "bbox": [
+          42.523,
+          37.95799999999997,
+          146.163,
+          46.49224657534239
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "To Engage the Shelf:",
+        "bbox": [
+          42.523,
+          84.882,
+          134.475802,
+          92.56282191780821
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "1.",
+        "bbox": [
+          42.523,
+          98.382,
+          51.595000000000006,
+          106.06282191780821
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          42.523,
+          112.38599999999997,
+          50.704,
+          120.06682191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          144.50796508789062,
+          126.63761138916016,
+          255.28807067871094,
+          276.6448059082031
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P20_img_7.png"
+      }
+    ]
+  },
+  {
+    "page_no": 21,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "text",
+        "text": "shown.",
+        "bbox": [
+          44.6397,
+          70.74300000000005,
+          78.4529,
+          78.42382191780825
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          132.67137145996094,
+          79.90263366699219,
+          288.2347717285156,
+          244.7640380859375
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P21_img_0.png"
+      },
+      {
+        "label": "caption",
+        "text": "14 Place Setting",
+        "bbox": [
+          175.4069,
+          249.252,
+          246.2368,
+          256.9328219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          172.97042846679688,
+          296.3651123046875,
+          247.85455322265625,
+          369.1822204589844
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P21_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_no": 22,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "text",
+        "text": "the lower rack.",
+        "bbox": [
+          42.523,
+          94.827,
+          110.67920799999999,
+          102.5078219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          134.3622283935547,
+          138.0966796875,
+          282.50439453125,
+          312.13250732421875
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P22_img_2.png"
+      },
+      {
+        "label": "caption",
+        "text": "14 Place Setting",
+        "bbox": [
+          173.29,
+          303.34499999999997,
+          244.11960399999998,
+          311.0258219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "because the spray will not reach all surfaces.",
+        "bbox": [
+          56.52,
+          403.942,
+          254.69000999999997,
+          411.6228219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Do not load items between the bottom rack and the side of the ·",
+        "bbox": [
+          42.59,
+          415.00199999999995,
+          338.7438009999999,
+          426.9499452054795
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 23,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "and back of the lower rack.",
+        "bbox": [
+          58.6366,
+          46.798,
+          184.888,
+          54.478821917808204
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          130.4036102294922,
+          65.87552642822266,
+          281.4566955566406,
+          225.36949157714844
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P23_img_3.png"
+      },
+      {
+        "label": "section_header",
+        "text": "ADJUSTABLE RACK TINES",
+        "bbox": [
+          44.6397,
+          248.752,
+          181.93959999999998,
+          257.2862465753425
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "hard-to-fit items such as serving bowls and roasters. The tines may be left",
+        "bbox": [
+          44.6397,
+          277.17199999999997,
+          376.85698999999994,
+          284.85282191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          133.4080047607422,
+          360.46112060546875,
+          279.3770446777344,
+          515.7412719726562
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P23_img_4.png"
+      }
+    ]
+  },
+  {
+    "page_no": 24,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "LOADING SILVERWARE",
+        "bbox": [
+          42.5231,
+          38.194000000000074,
+          185.88569999999999,
+          48.43509589041105
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "THREE-PIECE SILVERWARE BASKET",
+        "bbox": [
+          42.522700000000015,
+          65.34030000000007,
+          227.7624,
+          73.87454657534249
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "keyhole slots in the side sections.",
+        "bbox": [
+          56.5197,
+          146.784,
+          204.74060000000003,
+          154.4648219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "countertop and then replace the basket in the bottom rack.",
+        "bbox": [
+          56.8077,
+          177.54199999999997,
+          321.0744,
+          185.22282191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          58.15620040893555,
+          189.41465759277344,
+          346.1025390625,
+          320.6964111328125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P24_img_5.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          144.274,
+          307.03400000000005,
+          151.779,
+          315.14153424657536
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "B",
+        "bbox": [
+          161.568,
+          305.555,
+          168.42700000000002,
+          313.6625342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "A",
+        "bbox": [
+          272.222,
+          260.204,
+          279.727,
+          268.3115342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "B",
+        "bbox": [
+          272.35,
+          275.46500000000003,
+          279.209,
+          283.57253424657534
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 25,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "nested items.",
+        "bbox": [
+          58.6366,
+          56.10800000000006,
+          117.84769999999999,
+          63.788821917808264
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          154.20375061035156,
+          65.0858154296875,
+          268.31207275390625,
+          138.24513244628906
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P25_img_6.png"
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          181.36172485351562,
+          172.3194580078125,
+          239.7093505859375,
+          230.47532653808594
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P25_img_7.png"
+      },
+      {
+        "label": "text",
+        "text": "Guide Start Up",
+        "bbox": [
+          398.03301739726027,
+          223.26599999999996,
+          404.00699,
+          244.01399999999995
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 26,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "RECOMMENDED LOAD PATTERNS",
+        "bbox": [
+          42.5231,
+          38.194000000000074,
+          250.91199999999998,
+          48.43509589041105
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          92.3386459350586,
+          49.175926208496094,
+          191.54074096679688,
+          153.02932739257812
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_8.png"
+      },
+      {
+        "label": "picture",
+        "text": "settings",
+        "bbox": [
+          229.60276794433594,
+          49.35552215576172,
+          325.9534912109375,
+          153.5439453125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_12.png"
+      },
+      {
+        "label": "caption",
+        "text": "Upper Rack 8 place settings",
+        "bbox": [
+          75.23099999999998,
+          155.67900000000003,
+          200.77189999999996,
+          163.35982191780823
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          92.78717803955078,
+          167.92337036132812,
+          190.83810424804688,
+          271.5118713378906
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_9.png"
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          229.61009216308594,
+          167.7332000732422,
+          325.72564697265625,
+          272.2063293457031
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_13.png"
+      },
+      {
+        "label": "caption",
+        "text": "Upper Rack 10 place settings",
+        "bbox": [
+          75.2306,
+          273.767,
+          204.7584,
+          281.4478219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          92.9124526977539,
+          286.4029541015625,
+          190.84666442871094,
+          389.8574523925781
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_10.png"
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          229.695556640625,
+          285.7728271484375,
+          325.7937927246094,
+          390.3011779785156
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_14.png"
+      },
+      {
+        "label": "caption",
+        "text": "Upper Rack 12 place settings",
+        "bbox": [
+          75.2306,
+          392.351,
+          203.71439999999998,
+          400.0318219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "Upper Rack 14 place settings",
+        "bbox": [
+          93.4469223022461,
+          408.4165954589844,
+          190.23480224609375,
+          509.6888427734375
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_11.png"
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          229.74050903320312,
+          406.9397888183594,
+          325.6969909667969,
+          510.6744384765625
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P26_img_15.png"
+      },
+      {
+        "label": "caption",
+        "text": "Upper Rack 14 place settings",
+        "bbox": [
+          96.1639,
+          513.2559,
+          189.8447,
+          529.9367219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "caption",
+        "text": "settings",
+        "bbox": [
+          232.765,
+          522.2559,
+          268.216,
+          529.9367219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 27,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          77.53661346435547,
+          34.83835983276367,
+          227.11270141601562,
+          169.71836853027344
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P27_img_16.png"
+      },
+      {
+        "label": "list_item",
+        "text": "Spoons",
+        "bbox": [
+          275.20750000000004,
+          70.52539999999999,
+          322.5925000000001,
+          78.2062219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          275.20750000000004,
+          84.52939999999995,
+          286.08850000000007,
+          92.21022191780816
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Salad Forks",
+        "bbox": [
+          275.208,
+          98.53399999999999,
+          341.25860000000006,
+          106.2148219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Forks",
+        "bbox": [
+          275.208,
+          112.53800000000001,
+          314.03380000000004,
+          120.21882191780821
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Large Spoons",
+        "bbox": [
+          275.208,
+          126.54200000000003,
+          350.8346,
+          134.22282191780823
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Large Forks",
+        "bbox": [
+          275.208,
+          140.54600000000005,
+          342.27570000000003,
+          148.22682191780825
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "caption",
+        "text": "8 Place Setting",
+        "bbox": [
+          177.20232700000008,
+          247.28762999999998,
+          244.44102700000005,
+          254.96845191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "caption",
+        "text": "10 Place Setting",
+        "bbox": [
+          175.20873699999999,
+          331.69952,
+          246.43433699999997,
+          339.3803419178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "caption",
+        "text": "12 Place Setting",
+        "bbox": [
+          175.73012100000003,
+          416.65881099999996,
+          245.912021,
+          424.3396329178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "caption",
+        "text": "14 Place Setting",
+        "bbox": [
+          175.73159400000006,
+          503.253314,
+          246.56149400000004,
+          510.9341359178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 28,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "dishwasher detergent results in better cleaning.",
+        "bbox": [
+          56.5197,
+          157.29199999999997,
+          268.3979,
+          164.97282191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "DETERGENT DISPENSER",
+        "bbox": [
+          42.52290000000002,
+          180.98469999999998,
+          168.37290000000002,
+          189.51894657534245
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "1.",
+        "bbox": [
+          42.55289900000002,
+          199.32439999999997,
+          51.62489900000002,
+          207.00522191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          99.62197875976562,
+          220.60206604003906,
+          308.01861572265625,
+          323.7562561035156
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P28_img_17.png"
+      },
+      {
+        "label": "text",
+        "text": "B",
+        "bbox": [
+          224.349,
+          313.757,
+          231.208,
+          321.8645342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "A Cover",
+        "bbox": [
+          158.981,
+          334.66,
+          200.45040000000003,
+          343.05329230769235
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "B Blue Cover Latch",
+        "bbox": [
+          159.109,
+          350.19899999999996,
+          245.33790000000008,
+          358.3065342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          42.5231,
+          364.74,
+          50.7041,
+          372.4208219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          98.24626922607422,
+          408.2037658691406,
+          308.82672119140625,
+          531.1163330078125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P28_img_18.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          145.921,
+          516.1314,
+          153.426,
+          524.2389342465754
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          152.15658569335938,
+          538.1737060546875,
+          165.2213897705078,
+          552.0226440429688
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P28_img_19.png"
+      },
+      {
+        "label": "list_item",
+        "text": "Detergent Cup A",
+        "bbox": [
+          155.39,
+          541.6815,
+          231.09800000000004,
+          549.7890342465753
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 29,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "3.",
+        "bbox": [
+          44.6397,
+          37.798,
+          52.802699999999994,
+          45.478821917808204
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          105.68643951416016,
+          58.30604934692383,
+          304.18475341796875,
+          152.56887817382812
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P29_img_20.png"
+      },
+      {
+        "label": "text",
+        "text": "streaks. A small amount of the rinse aid is released into the final rinse",
+        "bbox": [
+          44.6397,
+          348.416,
+          355.4285999999999,
+          356.09682191780826
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "or bar-type rinse aid.",
+        "bbox": [
+          44.6397,
+          396.58399999999995,
+          140.7867,
+          404.2648219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 30,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "RINSE AID DISPENSER",
+        "bbox": [
+          42.5231,
+          37.92399999999998,
+          157.81310000000002,
+          46.4582465753424
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Open the dishwasher door.",
+        "bbox": [
+          42.5231,
+          98.34800000000001,
+          176.2812,
+          106.02882191780822
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Turn the rinse aid dispenser cap counterclockwise and pull up to",
+        "bbox": [
+          42.5232,
+          112.35200000000003,
+          346.21000000000004,
+          120.03282191780823
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          67.02462768554688,
+          131.93772888183594,
+          339.75390625,
+          277.6076354980469
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P30_img_21.png"
+      },
+      {
+        "label": "text",
+        "text": "Full",
+        "bbox": [
+          93.5546,
+          163.31900000000002,
+          108.0536,
+          169.11707692307692
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Add",
+        "bbox": [
+          93.5546,
+          189.735,
+          109.5656,
+          195.53307692307692
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "3.",
+        "bbox": [
+          42.5231,
+          280.772,
+          50.686099999999996,
+          288.4528219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "4.",
+        "bbox": [
+          42.5231,
+          294.776,
+          51.2981,
+          302.4568219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "setting.",
+        "bbox": [
+          70.5166,
+          349.956,
+          103.69059999999999,
+          357.6368219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          53.25522232055664,
+          358.3482666015625,
+          372.69622802734375,
+          469.87921142578125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P30_img_22.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          102.834,
+          440.08,
+          110.339,
+          448.1875342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "B",
+        "bbox": [
+          138.399,
+          411.557,
+          145.258,
+          419.66453424657533
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "C",
+        "bbox": [
+          241.751,
+          411.557,
+          248.762,
+          419.66453424657533
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          294.164,
+          404.567,
+          301.669,
+          412.6745342465754
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Less B",
+        "bbox": [
+          294.292,
+          422.262,
+          329.1466,
+          430.3695342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "More C",
+        "bbox": [
+          294.292,
+          439.418,
+          330.7236,
+          447.6575923076923
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Dispenser Cap",
+        "bbox": [
+          309.0826,
+          406.5262,
+          374.5470999999999,
+          412.6463923076923
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Clean up any spilled rinse aid with a damp cloth.",
+        "bbox": [
+          42.5231,
+          476.624,
+          272.08599999999996,
+          484.3048219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "6.",
+        "bbox": [
+          42.5231,
+          490.62800000000004,
+          51.055099999999996,
+          498.30882191780825
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 31,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          43.57628631591797,
+          82.16508483886719,
+          378.26239013671875,
+          551.08154296875
+        ],
+        "html": "<table><tbody><tr><th>Material</th><th>Dishwasher Safe</th><th>Comments</th></tr><tr><td>Aluminum</td><td>Possible</td><td>Unfinished aluminum will be discolored.</td></tr><tr><td>Disposable Aluminum</td><td>No</td><td>Do not wash disposable aluminum pans in the dishwasher These might shift during and other items.</td></tr><tr><td>Bottles and cans</td><td>No</td><td>spray arms or pump and reduce washing</td></tr><tr><td>Cast Iron</td><td>No</td><td></td></tr><tr><td>China / Stoneware</td><td></td><td>Always check manufacturer&#x27;s</td></tr><tr><td>Crystal</td><td></td><td></td></tr><tr><td>Gold</td><td>No</td><td></td></tr><tr><td>Glass</td><td></td><td>washing.</td></tr><tr><td>Hollow- Handle</td><td>No</td><td>washed in the dishwasher.</td></tr><tr><td>Pewter Brass, Bronze</td><td>No</td><td>discolor or pit the finish.</td></tr><tr><td>Disposable Plastics</td><td>No</td><td>and detergents.</td></tr><tr><td>Plastics</td><td></td><td>Always check manufacturer&#x27;s</td></tr><tr><td>Stainless Steel</td><td></td><td>salt, vinegar, milk products, or fruit juice can damage finish.</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 32,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.233009338378906,
+          35.45649719238281,
+          375.4246520996094,
+          154.13998413085938
+        ],
+        "html": "<table><tbody><tr><td>Material</td><td>Dishwasher Safe</td><td>Comments</td></tr><tr><td>Sterling</td><td></td><td></td></tr><tr><td>Tin</td><td>No</td><td>Can rust.</td></tr><tr><td></td><td>No</td><td></td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "CLEANING",
+        "bbox": [
+          42.5231,
+          211.39000000000004,
+          108.49910000000001,
+          221.63109589041096
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "CLEANING THE EXTERIOR",
+        "bbox": [
+          42.5231,
+          234.159,
+          180.58309999999994,
+          242.69324657534247
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "In most cases, regular use of a soft, damp cloth or sponge and a mild",
+        "bbox": [
+          42.5231,
+          253.579,
+          353.0857,
+          261.2598219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Clean the stainless steel door and handle regularly with a clean, soft cloth",
+        "bbox": [
+          42.5231,
+          277.663,
+          373.0470000000002,
+          285.3438219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "containing chlorine to clean the stainless steel door.",
+        "bbox": [
+          42.5231,
+          310.747,
+          275.5682,
+          318.4278219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Gently clean the control panel with a clean, soft cloth.",
+        "bbox": [
+          42.5231,
+          343.831,
+          282.4626,
+          351.5118219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "CLEANING THE INTERIOR",
+        "bbox": [
+          42.523100000000014,
+          369.4878,
+          174.6631,
+          378.0220465753425
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "The tub is made of stainless steel designed to resist rust and corrosion if",
+        "bbox": [
+          42.523100000000014,
+          388.90779999999995,
+          367.21429,
+          396.5886219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "DOOR GASKET",
+        "bbox": [
+          42.5231,
+          480.73699999999997,
+          120.03290000000001,
+          489.27124657534245
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Clean the steel inner door and tub with a clean, soft damp cloth.",
+        "bbox": [
+          42.5231,
+          500.157,
+          331.6656000000001,
+          507.83782191780824
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 33,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "CLEANING THE FILTERS",
+        "bbox": [
+          44.6397,
+          83.01299999999998,
+          168.13009999999997,
+          91.54724657534246
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "1.",
+        "bbox": [
+          44.6397,
+          116.43700000000001,
+          53.7117,
+          124.11782191780821
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          44.6397,
+          130.44099999999997,
+          55.5207,
+          138.12182191780818
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          84.3629150390625,
+          148.12977600097656,
+          238.8821258544922,
+          245.87379455566406
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P33_img_0.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          88.151,
+          215.20800000000003,
+          95.65599999999999,
+          223.31553424657534
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          254.98573303222656,
+          193.01763916015625,
+          268.3966369628906,
+          207.10430908203125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P33_img_3.png"
+      },
+      {
+        "label": "list_item",
+        "text": "Cylinder Filter A",
+        "bbox": [
+          258.352,
+          196.58800000000002,
+          330.1434999999999,
+          204.69719230769232
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "3.",
+        "bbox": [
+          44.640000000000015,
+          250.04109999999997,
+          55.503000000000014,
+          257.7219219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "4.",
+        "bbox": [
+          44.6397,
+          264.045,
+          56.1147,
+          271.7258219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          91.0382080078125,
+          272.69903564453125,
+          245.3312225341797,
+          371.0895690917969
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P33_img_1.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          95.2758,
+          341.384,
+          102.7808,
+          349.4915342465753
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Fine Filter A",
+        "bbox": [
+          258.352,
+          321.065,
+          313.50749999999994,
+          329.64119230769234
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "5.",
+        "bbox": [
+          44.639999999999986,
+          375.321,
+          55.58399999999999,
+          383.00182191780823
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "picture",
+        "text": "",
+        "bbox": [
+          91.08920288085938,
+          384.3025207519531,
+          245.64141845703125,
+          485.86260986328125
+        ],
+        "html": "",
+        "image_path": "（洗碗机）MDF24P1AST_images\\P33_img_2.png"
+      },
+      {
+        "label": "text",
+        "text": "A",
+        "bbox": [
+          95.2758,
+          452.56399999999996,
+          102.7808,
+          460.67153424657533
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Micro Filter A",
+        "bbox": [
+          258.352,
+          433.58500000000004,
+          318.0954,
+          442.1611923076923
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "6.",
+        "bbox": [
+          44.639399999999995,
+          489.0812,
+          55.871399999999994,
+          496.7620219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "debris.",
+        "bbox": [
+          58.6346,
+          522.1652,
+          88.6136,
+          529.8460219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "7.",
+        "bbox": [
+          44.6397,
+          536.1692,
+          53.684599999999996,
+          543.8500219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 34,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "DRAIN AIR GAP",
+        "bbox": [
+          42.5231,
+          37.92399999999998,
+          123.26310000000004,
+          46.4582465753424
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "dishwasher.",
+        "bbox": [
+          42.5231,
+          93.344,
+          93.93079999999999,
+          101.0248219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "the dishwasher.",
+        "bbox": [
+          42.5231,
+          117.428,
+          111.1388,
+          125.1088219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "To Clean the Drain Air Gap:",
+        "bbox": [
+          42.5231,
+          178.01599999999996,
+          166.7687,
+          185.69682191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Clean the drain air gap periodically to ensure proper drainage of manufacturer.",
+        "bbox": [
+          42.522700000000015,
+          192.59599999999995,
+          331.9254,
+          218.2768219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Turn off the dishwasher.",
+        "bbox": [
+          42.5231,
+          242.59999999999997,
+          165.43550000000002,
+          250.28082191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          42.52350000000001,
+          256.604,
+          53.40450000000001,
+          264.2848219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Clean the plastic cap with a toothpick.",
+        "bbox": [
+          42.5231,
+          270.608,
+          227.35530000000003,
+          278.2888219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "STORING",
+        "bbox": [
+          42.557300000000026,
+          297.9075,
+          98.94450000000003,
+          308.14859589041095
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "WINTERIZING YOUR DISHWASHER",
+        "bbox": [
+          42.5231,
+          374.71000000000004,
+          224.09239999999997,
+          383.24424657534246
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "winterized by authorized service personnel.",
+        "bbox": [
+          42.5231,
+          421.13,
+          236.6705,
+          428.8108219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Turn off electrical power to the dishwasher.",
+        "bbox": [
+          42.5231,
+          453.134,
+          251.439,
+          460.8148219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          42.522999999999996,
+          467.13800000000003,
+          53.403999999999996,
+          474.81882191780824
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "3.",
+        "bbox": [
+          42.5231,
+          481.142,
+          53.3861,
+          488.8228219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "4.",
+        "bbox": [
+          42.5231,
+          504.1465,
+          53.9981,
+          511.8273219178082
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 35,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "list_item",
+        "text": "1.",
+        "bbox": [
+          44.6397,
+          51.2170000000001,
+          53.7117,
+          58.8978219178083
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "2.",
+        "bbox": [
+          44.6397,
+          65.221,
+          55.5207,
+          72.9018219178082
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "3.",
+        "bbox": [
+          44.6397,
+          79.22500000000002,
+          55.5027,
+          86.90582191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "4.",
+        "bbox": [
+          44.6397,
+          102.22899999999998,
+          56.1147,
+          109.90982191780819
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          43.635562896728516,
+          184.732421875,
+          378.1702880859375,
+          535.7215576171875
+        ],
+        "html": "<table><tbody><tr><th>PROBLEM</th><td></td><th>SOLUTION</th></tr><tr><td>Dishwasher does not run or stops</td><td>There is no power to the dishwasher. The door is not closed 5 minutes near the start soak. during the main wash. selected.</td><td>circuit breaker. This is normal, and reduces the energy required to clean the dishes. This is normal. To reset, see &#x27;Options&#x27; in the Controls section.</td></tr><tr><td>Dishwasher does not start</td><td>Door not closed within button being pressed</td><td>in the Controls section. Close door within 4 seconds of pressing</td></tr><tr><td>Dishwasher will not fill</td><td>not turned on. The door is not closed</td><td>Verify a minimum of maintained during the Ensure the dishwasher is not sitting on top of the water line causing a restriction.</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 36,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          42.021995544433594,
+          35.3212890625,
+          375.6606140136719,
+          546.8904418945312
+        ],
+        "html": "<table><tbody><tr><th>PROBLEM</th><td></td><th>SOLUTION</th></tr><tr><td rowspan=\"5\">Dishwasher seems to run too long</td><td>the dishwasher is not hot enough.</td><td>adjacent sink until it gets dishwasher.</td></tr><tr><td>The dishwasher runs occurs in some wash</td><td></td></tr><tr><td>The Sanitize option is selected.</td><td>sanitizing.</td></tr><tr><td></td><td>When heavy soil is</td></tr><tr><td>Dishwasher is connected</td><td>Verify the dishwasher is connected correctly to the</td></tr><tr><td>Water dishwasher</td><td></td><td></td></tr><tr><td>NOTE: A small amount of</td><td>The drain hose is kinked.</td><td></td></tr><tr><td>around the</td><td>The knockout plug is still in the garbage disposal.</td><td></td></tr><tr><td>outlet in the bottom of the tub is normal. It</td><td>Drain hose is connected to the garbage disposal, and the garbage disposal is</td><td>Run the garbage disposal</td></tr><tr><td>keeps the seal</td><td>Drain is clogged.</td><td></td></tr><tr><td rowspan=\"4\">Detergent dispenser</td><td>completed.</td><td>Close the door and press</td></tr><tr><td>The detergent is damp or has clumped.</td><td>replace with fresh dry dishwasher detergent.</td></tr><tr><td>An item was blocking the dispenser.</td><td>detergent and replace with fresh dry dishwasher detergent.</td></tr><tr><td>The spray arm is blocked.</td><td>block the spray arm from</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 37,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          43.77204895019531,
+          35.66854476928711,
+          380.1275939941406,
+          375.2357482910156
+        ],
+        "html": "<table><tbody><tr><th>PROBLEM</th><td></td><th>SOLUTION</th></tr><tr><td>Grinding, grating, crunching or buzzing sounds</td><td>A hard object or powder</td><td>and could result in a cut wound. hard object. If the noise was caused by detergent granules, the noise should stop once the detergent is NOTE: If the noise persists</td></tr><tr><td>Beeps</td><td>completed. NOTE: A rapid beep condition.</td><td>This is normal. further direction.</td></tr><tr><td>Suds in the</td><td>Used wrong type of detergent.</td><td>Use only detergent dishwashers.</td></tr><tr><td>Dishwasher</td><td>using improper detergent.</td><td>Use only detergent dishwashers. If the dishwasher is mounted with the sides screws, ensure the screws are not too tight.</td></tr><tr><td>Rinse Aid light is on</td><td></td><td>Add liquid Rinse Aid.</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          43.75025939941406,
+          397.55596923828125,
+          377.5044860839844,
+          558.2193603515625
+        ],
+        "html": "<table><tbody><tr><td>PROBLEM</td><td></td><td>SOLUTION</td></tr><tr><td rowspan=\"4\">Food on the dishes</td><td>Dishwasher is not The wrong wash load was selected.</td><td></td></tr><tr><td></td><td>most difficult soil in the dishwasher load.</td></tr><tr><td>low.</td><td></td></tr><tr><td>Used incorrect amount of detergent.</td><td>detergent per load. Heavy soil and/or detergent.</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 38,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.64773178100586,
+          35.5751838684082,
+          375.7483825683594,
+          256.95867919921875
+        ],
+        "html": "<table><tbody><tr><th>PROBLEM</th><td></td><th>SOLUTION</th></tr><tr><td rowspan=\"5\">Food on the dishes (cont.)</td><td>Detergent is too old.</td><td>Store detergent in a cool, dry area.</td></tr><tr><td>Detergent is caked in the dispenser.</td><td>dispenser and refill with fresh, dry detergent.</td></tr><tr><td>The pump or spray arm is clogged with labels from bottles and cans.</td><td></td></tr><tr><td>The pressure of into the home is too low.</td><td>supply can be added if pressure is too low.</td></tr><tr><td>High suds are slowing the wash arm.</td><td>the dishwasher. Do not use soap or laundry detergents.</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.377559661865234,
+          291.7375183105469,
+          375.4998474121094,
+          548.884521484375
+        ],
+        "html": "<table><tbody><tr><th>PROBLEM</th><td></td><th>SOLUTION</th></tr><tr><td rowspan=\"4\">Spotting and filming on dishes</td><td>Rinse Aid dispenser mineral content in</td><td>Add a liquid rinse aid to the dispenser. Use a rinse aid and keep the dispenser filled to help filming. Increase setting on Rinse aid dispenser 1 number is 13 grains (223 ppm) should be a minimum 120°F dishwasher. (15 g) of detergent per load. Heavy soil and/or hard detergent.</td></tr><tr><td>is too low.</td><td></td></tr><tr><td>Did not use enough detergent.</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 39,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          43.977264404296875,
+          35.576812744140625,
+          378.24298095703125,
+          371.3804016113281
+        ],
+        "html": "<table><tbody><tr><th>PROBLEM</th><td></td><th>SOLUTION</th></tr><tr><td rowspan=\"2\">Spotting and filming on dishes (cont.)</td><td>Detergent is too old.</td><td>Detergent must be fresh and detergent in a cool, dry area.</td></tr><tr><td>pressure is too low to fill dishwasher</td><td>should be 20 to 80 psi dishwasher fill. A booster can be added if pressure is too low.</td></tr><tr><td rowspan=\"2\">Silica film or etching</td><td>Using too much detergent</td><td>less detergent, but do not per load.</td></tr><tr><td>(65°&#x27;C).</td><td></td></tr><tr><td>Black or gray marks on dishes</td><td>Aluminum items rubbing dishes during washing. Disposable aluminum items can break down in the dishwasher and cause marking.</td><td>Hand wash aluminum items. cleaner.</td></tr><tr><td>Orange stains on plastic dishes or dishwasher interior</td><td>Large amounts of on dishes placed in the dishwasher.</td><td></td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          43.47438049316406,
+          402.20465087890625,
+          377.9034729003906,
+          538.7384643554688
+        ],
+        "html": "<table><tbody><tr><td>PROBLEM</td><td></td><td>SOLUTION</td></tr><tr><td>completely dry NOTE: Plastics often need towel drying.</td><td>Dishes are not loaded properly Rinse Aid not used or dispenser is Used an air dry or energy-saving option.</td><td>Place glasses and cups in surface is slanted to allow Use a liquid rinse aid to speed drying and keep the dispenser full. Dry option.</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 40,
+    "width": 419.52801513671875,
+    "height": 595.2760009765625,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "DISHES ARE DAMAGED DURING A CYCLE",
+        "bbox": [
+          42.787,
+          38.06219999999996,
+          254.99619999999996,
+          46.596446575342384
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          42.09265899658203,
+          53.91081619262695,
+          376.49420166015625,
+          165.6974639892578
+        ],
+        "html": "<table><tbody><tr><td>PROBLEM</td><td></td><td>SOLUTION</td></tr><tr><td>NOTE: Some types of hand.</td><td>Dishes not loaded Moving the rack in or out of the dishwasher too</td><td>glasses so they are stable and will not strike together from washing action. Minimize chipping by moving the rack in and</td></tr></tbody></table>",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "When the dishwasher fails, there will be the following prompts:",
+        "bbox": [
+          42.6348,
+          202.16369999999995,
+          322.74980000000005,
+          209.84452191780815
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "You will hear a prompt tone from the machine for a few seconds.",
+        "bbox": [
+          42.8238,
+          213.87359999999995,
+          343.21889999999996,
+          222.14402191780812
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "The indicator light on the outer door will continue to flash \"white light-blue light\" alternately.",
+        "bbox": [
+          42.5988,
+          226.73889999999994,
+          345.9647999999999,
+          244.28342191780814
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "The indicator lights on the operation panel will continue to flash, and different combinations of lighting indicate different faults, refer to the following table:",
+        "bbox": [
+          42.6977,
+          250.60969999999992,
+          367.61719999999985,
+          277.89212191780814
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "table",
+        "text": "",
+        "bbox": [
+          41.52426528930664,
+          282.93902587890625,
+          377.02020263671875,
+          503.20263671875
+        ],
+        "html": "<table><tbody><tr><th>Code</th><th>Meanings</th><th>Cause</th><th>Solution</th></tr><tr><td>E1 Quick light flashing .</td><td>Incorrect water fill amount</td><td>Low or No water flow, or too much water flow during filling process .</td><td>turned on to the dishwasher. Verify supply must pressure between sufficient flow.</td></tr><tr><td>E4 Heavy light flashing .</td><td>leak sensor</td><td>Too much tub or a leak.</td><td>First, turn off dishwasher. Check in the filter. If</td></tr></tbody></table>",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 41,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "ATTACH YOUR RECEIPT HERE. PROOF OF PURCHASE",
+        "bbox": [
+          177.2994,
+          32.49000000000001,
+          388.45855239999975,
+          39.31739726027399
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "MIDEA LIMITED",
+        "bbox": [
+          40.75,
+          46.40499999999997,
+          108.355,
+          91.21636986301371
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "■",
+        "bbox": [
+          177.302,
+          72.42600000000004,
+          182.102,
+          77.57984615384623
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "■ Model number and serial number",
+        "bbox": [
+          177.31,
+          81.99400000000003,
+          322.34999999999997,
+          88.82139726027395
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "■ A clear, detailed description of the problem",
+        "bbox": [
+          177.318,
+          93.16199999999998,
+          363.7158,
+          99.98939726027396
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "■ Proof of purchase including dealer or retailer",
+        "bbox": [
+          177.32600000000002,
+          104.32999999999998,
+          368.96379999999994,
+          111.15739726027397
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "IF YOU NEED SERVICE:",
+        "bbox": [
+          31.25,
+          138.15299999999996,
+          138.07120700000002,
+          145.83382191780817
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "us/support. https://www.midea.com/",
+        "bbox": [
+          41.38499999999999,
+          169.22499999999997,
+          376.297,
+          183.96374310915104
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "U.S. and Canada.",
+        "bbox": [
+          31.25,
+          190.77099999999996,
+          103.94525880000002,
+          205.59839726027394
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "In the U.S.A. or Canada, call 1-866-646-4332. OR customerserviceusa@midea.com",
+        "bbox": [
+          31.25,
+          221.10699999999997,
+          347.49701240000013,
+          227.93439726027395
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "LIFETIME LIMITED WARRANTY",
+        "bbox": [
+          149.4435,
+          263.35499999999996,
+          270.08580879999994,
+          270.18239726027394
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "■",
+        "bbox": [
+          27.002,
+          410.35900000000004,
+          31.802,
+          415.51284615384617
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "■ Inner door liner",
+        "bbox": [
+          27.01,
+          419.927,
+          101.97000000000001,
+          426.75439726027395
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 42,
+    "width": 419.0,
+    "height": 595.0,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "LIFETIME LIMITED WARRANTY",
+        "bbox": [
+          149.44355,
+          31.74000000000001,
+          270.085855,
+          38.56739726027399
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "WHAT IS NOT",
+        "bbox": [
+          162.33315,
+          46.355999999999995,
+          217.25607,
+          53.18339726027398
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "7.",
+        "bbox": [
+          26.99938,
+          159.55599999999998,
+          32.337714999999996,
+          166.38339726027397
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "chemicals.",
+        "bbox": [
+          26.99938,
+          217.06,
+          77.20868499999999,
+          239.88739726027399
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "easily identified.",
+        "bbox": [
+          38.59679,
+          309.73199999999997,
+          98.7390195,
+          316.55939726027395
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "customer.",
+        "bbox": [
+          26.99938,
+          328.9,
+          64.44363,
+          335.72739726027396
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "DISCLAIMER OF IMPLIED WARRANTIES",
+        "bbox": [
+          130.511285,
+          343.51599999999996,
+          285.012635,
+          350.34339726027395
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "IMPLIED WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY OR",
+        "bbox": [
+          26.999284999999986,
+          354.68420000000003,
+          371.787953,
+          361.51159726027396
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "section_header",
+        "text": "DISCLAIMER OF REPRESENTATIONS OUTSIDE OF WARRANTY",
+        "bbox": [
+          86.27947499999999,
+          409.3,
+          329.2435995,
+          416.12739726027394
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  },
+  {
+    "page_no": 43,
+    "width": 419.0,
+    "height": 595.0009765625,
+    "elements": [
+      {
+        "label": "section_header",
+        "text": "COMPLIANCE STATEMENT",
+        "bbox": [
+          145.4346,
+          37.840799999999945,
+          273.912125,
+          46.37504657534237
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "NOTE: This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:",
+        "bbox": [
+          26.913000000000125,
+          62.049999999999955,
+          395.5424,
+          144.41369726027403
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Reorient or relocate the receiving antenna.",
+        "bbox": [
+          27.0581,
+          150.12469999999996,
+          206.73639999999997,
+          156.95209726027394
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Increase the separation between the equipment and receiver.",
+        "bbox": [
+          27.057199999999966,
+          159.84869999999995,
+          281.31789999999995,
+          166.67609726027393
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.",
+        "bbox": [
+          27.055199999999957,
+          169.57269999999994,
+          365.1102999999998,
+          185.90349726027392
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "list_item",
+        "text": "Consult the dealer or an experienced radio/TV technician for help.",
+        "bbox": [
+          27.054799999999958,
+          188.72979999999995,
+          302.0200999999999,
+          195.55719726027394
+        ],
+        "html": "",
+        "image_path": ""
+      },
+      {
+        "label": "text",
+        "text": "Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.",
+        "bbox": [
+          26.817000000000007,
+          210.27479999999997,
+          395.1491,
+          226.82589726027396
+        ],
+        "html": "",
+        "image_path": ""
+      }
+    ]
+  }
+]
